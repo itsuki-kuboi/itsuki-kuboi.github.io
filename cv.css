@@ -9,3 +9,16 @@
 	margin-left: 10px;
 	font-size: 14px; /* ulでサイズ0にしたのを戻す */
 }
+
+.mgr-10{
+	margin-right:10px;
+}
+
+
+.indsent{
+	/*
+	margin-left:1em;
+	text-indent:-1em;
+	*/
+	padding-left:2em;
+}
