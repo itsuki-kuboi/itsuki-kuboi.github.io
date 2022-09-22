@@ -299,9 +299,21 @@ const last = new Date(document.lastModified);
 const year = last.getFullYear();
 const month = last.getMonth() + 1;
 const date = last.getDate();
+const hour = last.getHours(); // 時
+const min = last.getMinutes(); // 分
+const sec = last.getSeconds(); // 秒
+
+// 数値が1桁の場合、頭に0を付けて2桁で表示する指定
+if(month < 10) { month = "0" + month; }
+if(day < 10) { day = "0" + day; }
+if(hour < 10) { hour = "0" + hour; }
+if(min < 10) { min = "0" + min; }
+if(sec < 10) { sec = "0" + sec; }
+
+
 /* 日付を書き換える */
 const target = document.getElementById('modify');
-target.textContent = year + '-' + month + '-' + date;
+target.textContent = year + '-' + month + '-' + date + ' ' + hour + ':'+ min + ':' + sec;
 </script>
 
 
