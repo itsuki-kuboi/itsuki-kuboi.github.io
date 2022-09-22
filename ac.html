@@ -292,6 +292,27 @@
 
 <br>
 Last-Modified:
+<time id="modify"></time>
+<script>
+/* 更新日の取得 */
+const last = new Date(document.lastModified);
+var year = last.getFullYear();
+var month = last.getMonth() + 1;
+var month = last.getMonth() + 1;
+ date = last.getDate();
+/* 日付を書き換える */
+var target = document.getElementById('modify');
+target.textContent = year + '-' + month + '-' + date;
+</script>
+
+
+
+
+
+
+
+
+<!--
 <script type="text/javascript">
 
 /* 更新日の取得 */
@@ -314,7 +335,7 @@ if(sec < 10) { sec = "0" + sec; }
 /* 日付を書き換える */
 document.write(year + '.' + month + '.' + date + ' ' + hour + ':'+ min + ':' + sec);
 </script>
-
+-->
 
 
 </body></html>
