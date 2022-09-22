@@ -292,10 +292,10 @@
 
 <br>
 Last-Modified:
-<time id="modify"></time>
-<script>
+<script type="text/javascript">
+
 /* 更新日の取得 */
-const last = new Date(document.lastModified);
+var last = new Date(document.lastModified);
 var year = last.getFullYear();
 var month = last.getMonth() + 1;
 var date = last.getDate();
@@ -312,8 +312,7 @@ if(sec < 10) { sec = "0" + sec; }
 
 
 /* 日付を書き換える */
-var target = document.getElementById('modify');
-target.textContent = year + '.' + month + '.' + date + ' ' + hour + ':'+ min + ':' + sec;
+document.write(year + '.' + month + '.' + date + ' ' + hour + ':'+ min + ':' + sec);
 </script>
 
 
