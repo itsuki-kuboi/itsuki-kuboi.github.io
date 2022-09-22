@@ -1,0 +1,11 @@
+.list ul {
+	/*text-align: center;*/
+	margin-left: -10px;
+	font-size: 0; /* タグ改行時の空白防止 */
+}
+ 
+.list ul li{
+	display: inline-block;
+	margin-left: 10px;
+	font-size: 14px; /* ulでサイズ0にしたのを戻す */
+}
