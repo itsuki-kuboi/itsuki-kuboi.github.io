@@ -7,6 +7,7 @@ document.write(`
     <br><i>Related Area : DataScience, BigData Analysis, Optimization
   </i>
 
+  <br>
   <li><b>Minor : Management of Technology</b>
     <br>New Business Development, Entrepreneurship
     <br>Overseas Market Research
