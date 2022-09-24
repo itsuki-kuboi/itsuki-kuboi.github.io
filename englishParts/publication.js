@@ -15,6 +15,8 @@ document.write(`
     <ol reversed>
       <!-- Insert -->
       <!-- Insert -->
+      
+      <!-- <br> -->
       <li>Itsuki Kuboi, Rika Tanaka, Shin-ya Ozawa, Yohsuke Hosoda, Masami Takata, Kinji Kimura, Yoshimasa Nakamura,
         <br>"On a Fast Computation of the Condition L-curve in the LSMR Method for Solving Ill-conditioned Problems using the DQDS Method",
         <br>Advances in Parallel & Distributed Processing, and Applications,
@@ -31,6 +33,8 @@ document.write(`
     <ol reversed>
       <!-- Insert -->
       <!-- Insert -->
+      
+      <!-- <br> -->
       <li>
         Itsuki Kuboi, Rika Tanaka, Shin-ya Ozawa, Yohsuke Hosoda, Masami Takata, Kinji Kimura, Yoshimasa Nakamura,
         <br><a href="https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=218930&item_no=1&page_id=13&block_id=8" target="_blank">
@@ -41,6 +45,7 @@ document.write(`
         <br>2022.7.25
       </li>
 
+      <br>
       <li>
         Itsuki Kuboi, Shin-ya Ozawa, Yohsuke Hosoda,
         <br><a href="http://2019.jhes.jp/files/program.pdf" target="_blank">"Numerical Computation of Steady Iteration on Deconvolution Problem"</a>
@@ -59,6 +64,8 @@ document.write(`
     <ol reversed>
       <!-- Insert -->
       <!-- Insert -->
+      
+      <!-- <br> -->
       <li>
         Itsuki Kuboi, Rika Tanaka, Shin-ya Ozawa, Yohsuke Hosoda, Masami Takata*, Kinji Kimura, Yoshimasa Nakamura,
         <br><a href="https://www.american-cse.org/static/CSCE22-book-abstracts-printing.pdf" target="_blank">
@@ -69,6 +76,7 @@ document.write(`
         <br>2022.7.25
       </li>
 
+      <br>
       <li>
         Itsuki Kuboi, Rika Tanaka, Shin-ya Ozawa, Yohsuke Hosoda, Masami Takata*, Kinji Kimura, Yoshimasa Nakamura,
         <br><a href="https://www.ipsj.or.jp/kenkyukai/event/mps139.html" target="_blank">
@@ -79,6 +87,7 @@ document.write(`
         <br>2022.7.25
       </li>
 
+      <br>
       <li>
         Kinji Kimura*, Itsuki Kuboi, Rika Tanaka, Shin-ya Ozawa, Yohsuke Hosoda, Masami Takata,
         <br><a href="http://air.s.kanazawa-u.ac.jp/~ohara/risacon21.html" target="_blank">"Discrete Toda Molecule Equation and Inverse Problem"</a>
@@ -88,6 +97,7 @@ document.write(`
         <br>2021.3.20
       </li>
 
+      <br>
       <li>
         Itsuki Kuboi*, Rika Tanaka, Shin-ya Ozawa, Yohsuke Hosoda, Masami Takata, Kinji Kimura,
         <br><a href="http://union2021.jsiam.org/program#4863" target="_blank">"Study on Condition L-curve on Deconvolution Problem"</a>
@@ -97,6 +107,7 @@ document.write(`
         <br>2021.3.4
       </li>
 
+      <br>
       <li>
         Itsuki Kuboi*, Shin-ya Ozawa, Yohsuke Hosoda,
         <br><a href="http://2019.jhes.jp/files/program.pdf" target="_blank">"Numerical Computation of Steady Iteration on Deconvolution Problem"</a>
@@ -112,24 +123,17 @@ document.write(`
   <br>
   <li>Notation
     <ol reversed>
+    
+      <!-- <br> -->
       <li>
         Author,
         <br>"Publication"
         <br>(Official Expression),
-        <br>Journal,
-        <br>Publisher,
-        <br>Publisher Location,
-        <br>Date
+        <br>Journal or Conference,
+        <br>Publisher or Conference Host/Sponsor,
+        <br>Publisher Location, or Conference Location,
+        <br>Issue Date
       </li>
-      <li>
-      Author,
-      <br>"Publication"
-      <br>(Official Expression),
-      <br>Conference,
-      <br>Conference Host/Sponsor,
-      <br>Conference Location,
-      <br>Date
-    </li>
     </ol>
   </li>
 
