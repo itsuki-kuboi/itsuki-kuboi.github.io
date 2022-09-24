@@ -126,7 +126,7 @@ document.write(`
       <br>"Publication"
       <br>(Official Expression),
       <br>Conference,
-      <br>Conference Host,
+      <br>Conference Host/Sponsor,
       <br>Conference Location,
       <br>Date
     </li>
