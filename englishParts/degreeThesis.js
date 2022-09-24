@@ -14,6 +14,7 @@ document.write(`
   <br>Supervisor : Professor Takuji TAKEMOTO, Toshihiro INOUE and Sachiyo KAWAKAMI
   </li>
 
+  <br>
   <li>2019.3.22
   <br><b>Bachelor of Engineering</b>, University of Fukui
   <br>Thesis Title : Numerical Computation of Steady Iteration on Deconvolution Problem
