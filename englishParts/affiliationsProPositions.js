@@ -4,7 +4,7 @@ document.write(`
   <li><b>Member</b>
     <br>IT infrastructure Division,
     <br>Corporate Digital Business Promotion Group,
-    <br><a href="https://kyocera.co.jp/">KYOCERA Corporation</a>,
+    <br><a href="https://kyocera.co.jp/" target="_blank">KYOCERA Corporation</a>,
     <br>Kyoto, Japan
   </li>  
 </ul>
@@ -16,7 +16,7 @@ document.write(`
   <br><b>Member</b>
   <br>IT infrastructure Division,
   <br>Corporate Digital Business Promotion Group,
-  <br><a href="https://kyocera.co.jp/">KYOCERA Corporation</a>,
+  <br><a href="https://kyocera.co.jp/" target="_blank">KYOCERA Corporation</a>,
   <br>Kyoto, Japan
   <br> - Assigned Projects(Microsoft 365 Administration, etc.)
   </li>
