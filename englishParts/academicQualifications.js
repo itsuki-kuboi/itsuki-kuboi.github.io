@@ -51,7 +51,7 @@ document.write(`
       <li>2012.4.1 - 2015.3.31
       <br>Student
       <br>Shiga Prefectural Torahime High School
-      <br> - <b>American Football Team
+      <br> - American Football Team
       <br> - <b>Kyoto-Shiga-Tokai national team</b>, LT/DT, <a href="http://kantokoukou-football.com/cms/index.php?page_id=27" target="_blank">NEW YEAR BOWL III(2014)</a> at Amino Vital Field, Tokyo
       </li>
 
