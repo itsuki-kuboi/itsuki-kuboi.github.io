@@ -2,11 +2,25 @@ document.write(`
     <h2>Academic Qualifications</h2>
       <ul>
 
+      <li>2021.3.23
+      <br><b>Master of Engineering</b>, University of Fukui
+      </li>
+
+      <br>
+      <li>2020.3.23
+      <br><b>Minor of Management of Technology</b>, University of Fukui
+      </li>
+
       <li>2019.4.1 - 2021.3.23
       <br><b>Master's Course Student</b>
       <br>Information Science Course, Graduate School of Engineering, University of Fukui
       <br> - GPA : 4.00/4.00
       <br> - Management of Technology Course Finished (Its minor certificated in 2020.3)
+      </li>
+
+      <br>
+      <li>2019.3.22
+      <br><b>Bachelor of Engineering</b>, University of Fukui
       </li>
 
       <br>
