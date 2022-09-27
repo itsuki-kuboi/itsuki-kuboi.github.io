@@ -33,7 +33,7 @@ document.write(`
   <li>2019.8.16 - 2019.8.31 : 2 weeks
   <br><b>Student Internship</b>
   <br>Fukui Murata Manufacturing. Co., Ltd.,
-  <br>Fukui, Japan,
+  <br>Fukui, Japan
   <br> - Internship for 2 weeks at Miyazaki plant(referred by University)
   </li>  
   

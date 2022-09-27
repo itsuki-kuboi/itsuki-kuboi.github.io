@@ -47,7 +47,7 @@ document.write(`
 
       <br>
       <li>
-        Itsuki Kuboi, Shin-ya Ozawa, Yohsuke Hosoda,
+        Itsuki Kuboi, Yohsuke Hosoda, Shin-ya Ozawa,
         <br><a href="http://2019.jhes.jp/files/program.pdf" target="_blank">"Numerical Computation of Steady Iteration on Deconvolution Problem"</a>
         <br>(定常反復を用いたデコンボリューション問題の数値計算について),
         <br>Joint conference of Hokuriku chapters of Electrical and information Societies 2019,
@@ -109,7 +109,7 @@ document.write(`
 
       <br>
       <li>
-        Itsuki Kuboi*, Shin-ya Ozawa, Yohsuke Hosoda,
+        Itsuki Kuboi*, Yohsuke Hosoda, Shin-ya Ozawa,
         <br><a href="http://2019.jhes.jp/files/program.pdf" target="_blank">"Numerical Computation of Steady Iteration on Deconvolution Problem"</a>
         <br>(定常反復を用いたデコンボリューション問題の数値計算について),
         <br>Joint conference of Hokuriku chapters of Electrical and information Societies 2019,

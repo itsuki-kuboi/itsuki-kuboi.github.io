@@ -21,7 +21,7 @@ document.write(`
   <br>
   <li>2021.12.27
   <br><b>High school teaching Certificate for Mathematics</b>
-  <br>Ministry of Education, Culture, Sports, Science and Technology, Japan
+  <br>Shiga Prefectural Board of Education, Shiga, Japan
   </li>
 </ul>
 `);
