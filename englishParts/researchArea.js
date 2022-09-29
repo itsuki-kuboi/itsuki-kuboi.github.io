@@ -2,23 +2,34 @@ document.write(`
 <h2>Research Area</h2>
 <ul>
   <li><b>Numerical Analysis</b>
-    <br>Inverse Problem
-    <br> - Large Scaled and Ill-conditioned Problem
-    <br> - Image Deblur Problem
-    <br>Linear Solution Method
-    <br> - Singular Value Decomposition/Computation : bisection method, DQDS method
-    <br> - Linear Direct Solution Method : LU decomposition, SVD
-    <br> - Linear Iterative Solution Method : Kaczmarz method, Jacobi method, Krylov subspace method(GMRESs, LSQR, LSMR, etc.)
-    <br>Regularization
-    <br> - L-curve method, condition L-curve method
-    <br><i>Related Area : DataScience, BigData Analysis, Optimization</i>
+    <ul>
+    <li>Inverse Problem
+      <br> - Large Scaled and Ill-conditioned Problem : Fredholm Integral Equation of the First Kind
+      <br> - Image Processing :Image Deblur Problem
+    </li>
+    <li>Linear Solution Method
+      <br> - Singular Value Decomposition/Computation : bisection method, DQDS method
+      <br> - Linear Direct Solution Method : LU decomposition, SVD
+      <br> - Linear Iterative Solution Method : Kaczmarz method, Jacobi method, Krylov subspace method(GMRESs, LSQR, LSMR, etc.)
+    </li>
+    <li>Regularization
+      <br> - L-curve method, condition L-curve method
+    </li>
+    </ul>
+
+    <br>Based Academic Area : Computer Science, Mathematics
+    <br>Related Academic Area : DataScience, BigData Analysis, Optimization
+
   </li>
 
   <br>
   <li><b>Management of Technology</b>
-    <br>New Business Development, Entrepreneurship
-    <br>Overseas Market Research
-    <br>Produce Prototypes, Regional Revitalization
+    <ul>
+      <li>New Business Development/Entrepreneurship</li>
+      <li>Overseas Market Research</li>
+      <li>Regional Revitalization</li>
+    </ul>
   </li>
+
 </ul>
 `);
