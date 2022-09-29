@@ -60,7 +60,7 @@ document.write(`
 
   <br>
   <li>Presentations
-  <br> * : Speaker
+  <br> * : Presenter
     <ol reversed>
       <!-- Insert -->
       <!-- Insert -->
