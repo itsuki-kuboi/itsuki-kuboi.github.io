@@ -21,7 +21,7 @@ document.write(`
         <br><b><a href="https://www.eng.u-fukui.ac.jp/wp-content/uploads/tim_course_2020.pdf" target="_blank">Minor of Management of Technology</b></a>, <a href="https://www.u-fukui.ac.jp/" target="_blank">University of Fukui</a>
         <br> - Studied management lectures and went to study abroad
         <br> - Assigned to project on regional revitalization funded by Fukui Prefecture
-        <br> - Supervisor : Professor Takuji TAKEMOTO, Toshihiro INOUE and Sachiyo KAWAKAMI
+        <br> - Supervisor : Professor Takuji TAKEMOTO, Professor Toshihiro INOUE and Assistant Professor Sachiyo KAWAKAMI
         </li>
       </ul>
       </li>
