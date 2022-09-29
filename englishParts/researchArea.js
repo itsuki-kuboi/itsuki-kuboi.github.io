@@ -4,7 +4,7 @@ document.write(`
   <li><b>Numerical Analysis</b>
     <ul>
     <li>Inverse Problem
-      <br> - Large Scaled and Ill-conditioned Problem : Fredholm Integral Equation of the First Kind
+      <br> - Large Scaled and Ill-conditioned Problem : Linear Equation issued by Fredholm Integral Equation of the First Kind
       <br> - Image Processing :Image Deblur Problem
     </li>
     <li>Linear Method
