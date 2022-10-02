@@ -27,7 +27,7 @@ target.textContent = year + '.' + month + '.' + date + ' ' + hour + ':' + min + 
 
 </script>
 
--09:00(GMT)
+(GMT -09:00)
 
 <!-- 更新日時 -->
 `);
