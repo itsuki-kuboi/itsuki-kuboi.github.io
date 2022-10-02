@@ -1,5 +1,5 @@
 document.write(`
-<h2>Publications</h2>
+<h2>出版</h2>
 <ul>
 
   <li>査読付学術雑誌論文
