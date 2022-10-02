@@ -3,7 +3,7 @@ document.write(`
 <ul>
   <li>
   2022.6.8
-  <br><a href="https://www.youtube.com/watch?v=RCPq0DnIO1E" target="_blank">Corporate Official Video</a>
+  <br><a href="https://www.youtube.com/watch?v=RCPq0DnIO1E" target="_blank">Corporate Official Short Video</a>
   <br> - Pressed by KYOCERA Corporation, Japan
   <br> - This short video is pressed on YouTube, Twitter, Instagram and Facebook.
   </li>
@@ -11,8 +11,15 @@ document.write(`
   <br>
   <li>
   2021.4.20
-  <br><a href="https://www.u-fukui-kogyokai.com/pdfs/recent-conditions-2021-02.pdf" target="_blank">Recent Report on FY2020</a>
+  <br><a href="https://www.u-fukui-kogyokai.com/pdfs/recent-conditions-2021-02.pdf" target="_blank">Recent Report of School on FY2020</a>
   <br> - Pressed by Alumni Association of Engineering, University of Fukui, Japan
+  </li>
+
+  <br>
+  <li>
+  2020.1.28
+  <br><a href="https://fb.watch/fUXhCbAyOw/" target="_blank">Introduction Video of laboratory activities</a>
+  <br> - Pressed by University of Fukui Headquarters for Innovative Society-Academia Cooperation, Japan
   </li>
 
   <br>
