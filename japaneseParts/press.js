@@ -5,7 +5,7 @@ document.write(`
   2022.6.8
   <br><a href="https://www.youtube.com/watch?v=RCPq0DnIO1E" target="_blank">会社公式ショート動画</a>
   <br> - 京セラ株式会社, 日本
-  <br> - YouTube, Twitter, Instagram and Facebookの4媒体で公開・出演
+  <br> - YouTube, Twitter, Instagram, Facebookの4媒体で公開・出演
   </li>
 
   <br>
