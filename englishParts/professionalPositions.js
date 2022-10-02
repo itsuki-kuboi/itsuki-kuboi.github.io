@@ -23,7 +23,7 @@ document.write(`
   <br><b>Intern</b>
   <br><a href="https://corporate.murata.com/ja-jp/group/fukuimurata" target="_blank">Fukui Murata Manufacturing. Co., Ltd.</a>,
   <br>Fukui, Japan
-  <br> - Internship for 2 weeks(referred by University)
+  <br> - I was referred by University of Fukui.
   </li>  
   
 

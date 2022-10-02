@@ -11,7 +11,7 @@ document.write(`
   <br>
   <li>
   2021.4.20
-  <br><a href="https://www.u-fukui-kogyokai.com/pdfs/recent-conditions-2021-02.pdf" target="_blank">Recent Report of School on FY2020</a>
+  <br><a href="https://www.u-fukui-kogyokai.com/pdfs/recent-conditions-2021-02.pdf" target="_blank">School News on FY2020</a>
   <br> - Pressed by Alumni Association of Engineering, University of Fukui, Japan
   </li>
 

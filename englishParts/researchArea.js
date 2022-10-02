@@ -5,12 +5,12 @@ document.write(`
     <ul>
     <li>Inverse Problem
       <br> - Large Scaled and Ill-conditioned Problem : Linear Equation issued by Fredholm Integral Equation of the First Kind
-      <br> - Image Processing :Image Deblur Problem
+      <br> - Image Processing : Image Deblur Problem
     </li>
-    <li>Linear Method
+    <li>Numerical Linear Algebra
       <br> - Singular Value Decomposition/Computation : bisection method, DQDS method
       <br> - Linear Direct Solution Method : LU decomposition, SVD
-      <br> - Linear Iterative Solution Method : Kaczmarz method, Jacobi method, Krylov subspace method(GMRESs, LSQR, LSMR, etc.)
+      <br> - Linear Iterative Solution Method : Kaczmarz method, Jacobi method, Krylov subspace method(GMRES methods, LSQR method, LSMR method, etc.)
     </li>
     <li>Regularization
       <br> - L-curve method, condition L-curve method
