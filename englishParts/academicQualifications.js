@@ -32,7 +32,6 @@ document.write(`
       <li>2017.4.1 - 2019.3.22
       <br>Bachelor Course Student
       <br>Information Science Course, School of Engineering, University of Fukui
-      <br> - Teacher Training Course Finished ()
             
       <ul>
         <li>2019.3.22
