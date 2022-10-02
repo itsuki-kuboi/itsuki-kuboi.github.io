@@ -40,7 +40,7 @@ document.write(`
         <br><a href="https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=218930&item_no=1&page_id=13&block_id=8" target="_blank">
               "On a Fast Computation of the Condition L-curve in the LSMR Method for Solving Ill-conditioned Problems using the DQDS Method"</a>,
         <br>研究報告, MPS139,
-        <br>情報処理学会,
+        <br>MPS研究会, 情報処理学会,
         <br>東京, 日本,
         <br>2022.7.25
       </li>
@@ -81,7 +81,8 @@ document.write(`
         久保井五貴, 田中利佳, 小澤伸也, 細田陽介, 高田雅美*, 木村欣司, 中村佳正,
         <br><a href="https://www.ipsj.or.jp/kenkyukai/event/mps139.html" target="_blank">
           "不良条件問題を解くためのLSMR法におけるDQDS法を用いたcondition L-curveの高速計算について"</a>,
-        <br>MPS139, 情報処理学会,
+        <br>MPS139,
+        <br>MPS研究会, 情報処理学会,
         <br>Luxor Hotel, Las Vegas, USA,
         <br>2022.7.25
       </li>
@@ -91,7 +92,8 @@ document.write(`
         木村欣司*, 久保井五貴, 田中利佳, 小澤伸也, 細田陽介, 高田雅美, 
         <br><a href="http://air.s.kanazawa-u.ac.jp/~ohara/risacon21.html" target="_blank">"離散戸田分子方程式と逆問題"</a>,
         <br>Risa/Asir Conference 2021,
-        <br>金沢大学, 石川, 日本,
+        <br>金沢大学理工研究域数物科学系計算数理講座, 石川, 日本,
+        <br>オンライン, 日本,
         <br>2021.3.20
       </li>
 
@@ -99,7 +101,8 @@ document.write(`
       <li>
         久保井五貴*, 田中利佳, 小澤伸也, 細田陽介, 高田雅美, 木村欣司,
         <br><a href="http://union2021.jsiam.org/program#4863" target="_blank">"デコンボリューション問題におけるcondition L-curveの検討"</a>,
-        <br>第17回研究部会連合発表会, 日本応用数理学会,
+        <br>第17回研究部会連合発表会,
+        <br>日本応用数理学会,
         <br>オンライン, 日本,
         <br>2021.3.4
       </li>
