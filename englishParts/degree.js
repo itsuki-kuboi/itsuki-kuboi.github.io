@@ -12,6 +12,5 @@ document.write(`
   <li>2019.3.22
   <br><b>Bachelor of Engineering</b>
   </li>
-  a
 </ul>
 `);
