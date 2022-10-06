@@ -2,13 +2,13 @@ document.write(`
 <h2>Licenses and Certifications</h2>
 <ul>
   <li>2019.11.xx
-  <br><b>First dan of Judo</b>
+  <br><b>First Dan of Judo</b>
   <br>Kodokan Judo Institute, Japan
   </li>
 
   <br>
   <li>2019.3.31
-  <br><b>High school teaching Certificate for Mathematics</b>
+  <br><b>High School Teaching Certificate for Mathematics</b>
   <br>Shiga Prefectural Board of Education, Shiga, Japan
   </li>
   

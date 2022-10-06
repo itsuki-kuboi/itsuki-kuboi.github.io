@@ -5,7 +5,7 @@ document.write(`
     <ul>
     <li>逆問題
       <br> - 大規模悪条件問題 : 第一種Fredholm積分方程式から現れる線形方程式
-      <br> - 画像処理 : ぼやけ画像鮮明化問題
+      <br> - 画像処理 : ぼやけ画像鮮明化問題, 2次元問題, 3次元問題
     </li>
     <li>数値線形代数
       <br> - 特異値分解/計算 : 2分法, DQDS法
@@ -13,7 +13,7 @@ document.write(`
       <br> - 線形反復解法 : Kaczmarz(ART)法, Jacobi法, Krylov部分空間法(GMRES法各種, LSQR法, LSMR法, ほか)
     </li>
     <li>正則化
-      <br> - L-curve法, condition L-curve法
+      <br> - L-curve法, Condition L-curve法
     </li>
     </ul>
 
