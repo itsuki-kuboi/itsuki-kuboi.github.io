@@ -1,20 +1,68 @@
+/*レスポンシブ対応　参考URL*/
+/*https://www.site-convert.com/archives/1528#outline__1*/
+/*https://www.webdesignleaves.com/wp/htmlcss/450/*/
+
 
 /* スマホ用のCSSはメディアクエリの外に記述する */
 img {
 	width: 100%;
   }
+h1.title {
+	font-size: 16px;
+	}
+h2.title {
+	font-size: 14px;
+	}
+.main-text {
+	font-size: 12px;
+	}
 
 @media screen and (min-width: 481px) {
 	/* 481px以上に適用されるCSS（タブレット用） */
 	img {
 		max-width: 481px;
-	  }
+		}
+	h1.title {
+		font-size: 22px;
+		}
+	h2.title {
+		font-size: 18px;
+		}
+	.main-text {
+		font-size: 15px;
+		}
 }
+
+@media screen and (min-width: 651px) {
+	/* 481px以上に適用されるCSS（中画面用） */
+	img {
+		max-width: 651px;
+		}
+	h1.title {
+		font-size: 24px;
+		}
+	h2.title {
+		font-size: 20px;
+		}
+	.main-text {
+		font-size: 16px;
+		}
+}
+
 @media screen and (min-width: 960px) {
-	/* 960px以上に適用されるCSS（PC用） */
+	/* 960px以上に適用されるCSS（大画面用） */
 	img {
 		max-width: 960px;
-	  }
+		}
+	h1.title {
+		font-size: 26px;
+		}
+	h2.title {
+		font-size: 22px;
+		}
+	.main-text {
+		font-size: 17px;
+		}
 }
 
 

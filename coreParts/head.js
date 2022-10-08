@@ -1,3 +1,7 @@
+/*レスポンシブ対応　参考URL*/
+/*https://www.site-convert.com/archives/1528#outline__1*/
+/*https://www.webdesignleaves.com/wp/htmlcss/450/*/
+
 document.write(`
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="Content-Style-Type" content="text/css">
