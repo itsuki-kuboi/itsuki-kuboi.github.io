@@ -1,5 +1,5 @@
 document.write(`
-Last-Modified:
+&copy; 2022 Itsuki KUBOI, Last-Modified:
 <time id="modify"></time>
 <script>
 /* 更新日の取得 */
