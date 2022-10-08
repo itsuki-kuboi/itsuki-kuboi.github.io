@@ -8,13 +8,14 @@ img {
 	width: 100%;
   }
 h1.title {
-	font-size: 16px;
-	}
-h2.title {
 	font-size: 14px;
 	}
-.main-text {
+h2.title {
 	font-size: 12px;
+	}
+.main-text {
+	font-size: 10px;
+	line-height: 1.5;
 	}
 
 @media screen and (min-width: 481px) {
