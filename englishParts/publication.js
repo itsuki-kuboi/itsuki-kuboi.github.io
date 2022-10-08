@@ -80,7 +80,7 @@ document.write(`
 
       <br>
       <li>
-        Itsuki Kuboi, Rika Tanaka, Shin-ya Ozawa, Yohsuke Hosoda, Masami Takata*, Kinji Kimura, Yoshimasa Nakamura
+        Itsuki Kuboi, Rika Tanaka, Shin-ya Ozawa, Yohsuke Hosoda, Masami Takata*, Kinji Kimura, Yoshimasa Nakamura,
         <br>(久保井五貴, 田中利佳, 小澤伸也, 細田陽介, 高田雅美*, 木村欣司, 中村佳正),
         <br><a href="https://www.ipsj.or.jp/kenkyukai/event/mps139.html" target="_blank">
           "On a Fast Computation of the Condition L-curve in the LSMR Method for Solving Ill-conditioned Problems using the DQDS Method"</a>,
