@@ -37,7 +37,7 @@ document.write(`
       <!-- <br> -->
       <li>
         Itsuki Kuboi, Rika Tanaka, Shin-ya Ozawa, Yohsuke Hosoda, Masami Takata, Kinji Kimura, Yoshimasa Nakamura,
-        (久保井五貴, 田中利佳, 小澤伸也, 細田陽介, 高田雅美, 木村欣司, 中村佳正),
+        <br>(久保井五貴, 田中利佳, 小澤伸也, 細田陽介, 高田雅美, 木村欣司, 中村佳正),
         <br><a href="https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=218930&item_no=1&page_id=13&block_id=8" target="_blank">
               "On a Fast Computation of the Condition L-curve in the LSMR Method for Solving Ill-conditioned Problems using the DQDS Method"</a>,
         <br>The Special Interest Group Technical Reports of IPSJ, MPS139,
@@ -81,7 +81,7 @@ document.write(`
       <br>
       <li>
         Itsuki Kuboi, Rika Tanaka, Shin-ya Ozawa, Yohsuke Hosoda, Masami Takata*, Kinji Kimura, Yoshimasa Nakamura
-        (久保井五貴, 田中利佳, 小澤伸也, 細田陽介, 高田雅美*, 木村欣司, 中村佳正),
+        <br>(久保井五貴, 田中利佳, 小澤伸也, 細田陽介, 高田雅美*, 木村欣司, 中村佳正),
         <br><a href="https://www.ipsj.or.jp/kenkyukai/event/mps139.html" target="_blank">
           "On a Fast Computation of the Condition L-curve in the LSMR Method for Solving Ill-conditioned Problems using the DQDS Method"</a>,
         <br>(不良条件問題を解くためのLSMR法におけるDQDS法を用いたcondition L-curveの高速計算について),
