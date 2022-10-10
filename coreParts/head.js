@@ -8,11 +8,12 @@ document.write(`
 <!--<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">-->
 <meta name="viewport" content="width=device-width, initial-scale=0.6, minimum-scale=0.6, user-scalable=yes">
 
-<link rel="stylesheet" href="./css/cv.css">
+
 <title>Itsuki KUBOI's  Website</title>
 
 <!-- 
+<link rel="stylesheet" href="./css/cv.css">
 <link rel="icon" href="/icon/202202/icon.png" type="image/png">
 -->
 
-`);
+`)
