@@ -5,6 +5,8 @@
 
 
 /* スマホ用のCSSはメディアクエリの外に記述する */
+
+
 img {
 	width: 100%;
   }
@@ -34,6 +36,7 @@ h2.title {
 		font-size: 15px;
 		}
 }
+
 
 @media screen and (min-width: 651px) {
 	/* 481px以上に適用されるCSS（中画面用） */
@@ -70,27 +73,15 @@ h2.title {
 
 
 
+/* index コンテンツリンク */
 .list ul {
 	/*text-align: center;*/
 	margin-left: -10px;
 	font-size: 0; /* タグ改行時の空白防止 */
 }
- 
 .list ul li{
 	display: inline-block;
 	margin-left: 10px;
 	font-size: 14px; /* ulでサイズ0にしたのを戻す */
 }
 
-.mgr-10{
-	margin-right:10px;
-}
-
-
-.indent{
-	/*
-	margin-left:1em;
-	text-indent:-1em;
-	*/
-	padding-left:2em;
-}
