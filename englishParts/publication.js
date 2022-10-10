@@ -40,6 +40,7 @@ document.write(`
         <br>(久保井五貴, 田中利佳, 小澤伸也, 細田陽介, 高田雅美, 木村欣司, 中村佳正),
         <br><a href="https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=218930&item_no=1&page_id=13&block_id=8" target="_blank">
               "On a Fast Computation of the Condition L-curve in the LSMR Method for Solving Ill-conditioned Problems using the DQDS Method"</a>,
+              <br>(不良条件問題を解くためのLSMR法におけるDQDS法を用いたcondition L-curveの高速計算について),
         <br>The Special Interest Group Technical Reports of IPSJ, MPS139,
         <br>MPS, IPSJ,
         <br>Tokyo, Japan,
@@ -49,6 +50,7 @@ document.write(`
       <br>
       <li>
         Itsuki Kuboi, Yohsuke Hosoda, Shin-ya Ozawa,
+        <br>(久保井五貴, 細田陽介, 小澤伸也),
         <br><a href="http://2019.jhes.jp/files/program.pdf" target="_blank">"Numerical Computation of Steady Iteration on Deconvolution Problem"</a>,
         <br>(定常反復を用いたデコンボリューション問題の数値計算について),
         <br>Joint conference of Hokuriku chapters of Electrical and information Societies 2019,
@@ -94,6 +96,7 @@ document.write(`
       <br>
       <li>
         Kinji Kimura*, Itsuki Kuboi, Rika Tanaka, Shin-ya Ozawa, Yohsuke Hosoda, Masami Takata,
+        <br>(木村欣司*, 久保井五貴, 田中利佳, 小澤伸也, 細田陽介, 高田雅美), 
         <br><a href="http://air.s.kanazawa-u.ac.jp/~ohara/risacon21.html" target="_blank">"Discrete Toda Molecule Equation and Inverse Problem"</a>,
         <br>(離散戸田分子方程式と逆問題),
         <br>Risa/Asir Conference 2021,
@@ -105,6 +108,7 @@ document.write(`
       <br>
       <li>
         Itsuki Kuboi*, Rika Tanaka, Shin-ya Ozawa, Yohsuke Hosoda, Masami Takata, Kinji Kimura,
+        <br>(久保井五貴*, 田中利佳, 小澤伸也, 細田陽介, 高田雅美, 木村欣司), 
         <br><a href="http://union2021.jsiam.org/program#4863" target="_blank">"Study on Condition L-curve on Deconvolution Problem"</a>,
         <br>(デコンボリューション問題におけるcondition L-curveの検討),
         <br>Joint Meeting of JSIAM Activity Groups 2019,
@@ -116,6 +120,7 @@ document.write(`
       <br>
       <li>
         Itsuki Kuboi*, Yohsuke Hosoda, Shin-ya Ozawa,
+        <br>(久保井五貴*, 細田陽介, 小澤伸也),
         <br><a href="http://2019.jhes.jp/files/program.pdf" target="_blank">"Numerical Computation of Steady Iteration on Deconvolution Problem"</a>,
         <br>(定常反復を用いたデコンボリューション問題の数値計算について),
         <br>Joint conference of Hokuriku chapters of Electrical and information Societies 2019,
@@ -145,7 +150,4 @@ document.write(`
   </li>
 
 </ul>
-`);
-
-
-
+`)
