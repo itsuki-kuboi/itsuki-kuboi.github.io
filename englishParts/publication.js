@@ -18,7 +18,8 @@ document.write(`
       
       <!-- <br> -->
       <li>Itsuki Kuboi, Rika Tanaka, Shin-ya Ozawa, Yohsuke Hosoda, Masami Takata, Kinji Kimura, Yoshimasa Nakamura,
-        <br>"On a Fast Computation of the Condition L-curve in the LSMR Method for Solving Ill-conditioned Problems using the DQDS Method",
+        <br><a href="https://www.american-cse.org/static/CSCE22-book-abstracts-printing.pdf" target="_blank">
+        "On a Fast Computation of the Condition L-curve in the LSMR Method for Solving Ill-conditioned Problems using the DQDS Method"</a>,
         <br>Advances in Parallel & Distributed Processing, and Applications,
         <br>Springer,
         <br>Switzerland AG.,
