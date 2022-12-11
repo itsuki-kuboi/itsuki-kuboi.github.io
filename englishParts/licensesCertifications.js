@@ -23,5 +23,12 @@ document.write(`
   <br><b>Fundamental Information Technology Engineer Examination</b>
   <br>IPA, Japan
   </li>
+
+  <br>
+  <li>2022.10.28
+  <br><a href="https://www.credly.com/badges/9346a90a-731f-432f-8f2a-430904c8d5ca/public_url" target="_blank"><b>Microsoft Certified: Azure Fundamentals</b></a>
+  <br>Microsoft, USA
+  </li>
+
 </ul>
-`);
+`)
