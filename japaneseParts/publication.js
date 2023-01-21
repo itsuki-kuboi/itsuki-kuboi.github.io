@@ -72,7 +72,7 @@ document.write(`
         <br><a href="https://www.american-cse.org/static/CSCE22-book-abstracts-printing.pdf" target="_blank">
           "On a Fast Computation of the Condition L-curve in the LSMR Method for Solving Ill-conditioned Problems using the DQDS Method"</a>,
         <br>The 28th International Conference on Parallel & Distributed Processing Techniques & Applications,
-        <br> - The 2022 World Congress in Computer Science, Computer Engineering, and Applied Computing,
+        <!-- <br> - The 2022 World Congress in Computer Science, Computer Engineering, and Applied Computing, -->
         <br>American Council on Science and Education,
         <br>Luxor Hotel, Las Vegas, USA,
         <br>2022.7.25

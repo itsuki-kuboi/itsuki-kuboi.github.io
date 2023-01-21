@@ -10,8 +10,9 @@ document.write(`
         <li>
         2021.3.23
         <br><b>Master of Engineering</b>, <a href="https://www.u-fukui.ac.jp/" target="_blank">University of Fukui</a>
-        <br> - Thesis Title : <a href="https://www.eng.u-fukui.ac.jp/wp-content/uploads/MastarThesis2020.html" target="_blank">Study on L-curve and LSMR Method on Deconvolution Problem</a>
-        <br> - (LSMR法を利用したデコンボリューション問題の解法におけるL-curveの検討)
+        <br> - Thesis Title : Study on L-curve and LSMR Method on Deconvolution Problem
+        <br> - (<a href="https://www.eng.u-fukui.ac.jp/wp-content/uploads/MastarThesis2020.html" target="_blank">
+        LSMR法を利用したデコンボリューション問題の解法におけるL-curveの検討</a>)
         <br> - Supervisor : Professor Yohsuke HOSODA and etc.
         <br> - GPA : 4.00 / 4.00
         </li>
@@ -36,7 +37,7 @@ document.write(`
       <ul>
         <li>2019.3.22
         <br><b>Bachelor of Engineering</b>, University of Fukui
-        <br> - Thesis Title : Numerical Computation of Steady Iteration on Deconvolution Problem
+        <br> - Thesis Title : On a Numerical Computation of Steady Iteration on Deconvolution Problem
         <br> - (定常反復を用いたデコンボリューション問題の数値計算について)
         <br> - Supervisor : Professor Yohsuke HOSODA
         <br> - GPA : 3.18 / 4.00
@@ -70,7 +71,4 @@ document.write(`
         </ul>
       </li>
       </ul>
-`);
-
-
-
+`)

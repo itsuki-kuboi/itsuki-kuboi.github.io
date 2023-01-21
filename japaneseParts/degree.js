@@ -5,7 +5,8 @@ document.write(`
   2021.3.23
   <br><b>修士（工学）</b>
   <br>2020.3.23
-  <br><b><a href="https://www.eng.u-fukui.ac.jp/wp-content/uploads/tim_course_2020.pdf" target="_blank">副専攻 技術経営(MoT)</b></a>
+  <br><b>副専攻 技術経営(MoT)</b>
+  <!--<a href="https://www.eng.u-fukui.ac.jp/wp-content/uploads/tim_course_2020.pdf" target="_blank"> </a> -->
   </li>
 
   <br>
@@ -13,4 +14,4 @@ document.write(`
   <br><b>学士（工学）</b>
   </li>
 </ul>
-`);
+`)
