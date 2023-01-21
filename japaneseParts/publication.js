@@ -21,6 +21,7 @@ document.write(`
         <br><a href="https://www.american-cse.org/static/CSCE22-book-abstracts-printing.pdf" target="_blank">
         "On a Fast Computation of the Condition L-curve in the LSMR Method for Solving Ill-conditioned Problems using the DQDS Method"</a>,
         <br>Advances in Parallel & Distributed Processing, and Applications,
+        <br> - Proc. of The 28th International Conference on Parallel & Distributed Processing Techniques & Applications,
         <br>Springer,
         <br>Switzerland AG.,
         <br>2023.x.x(Accepted)
