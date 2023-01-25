@@ -17,8 +17,8 @@ document.write(`
     </li>
     </ul>
 
-    <br>Based Academic Area : Computer Science, Mathematics
-    <br>Related Academic Area : DataScience, BigData Analysis, Optimization
+    <br>Based Academic Area : Computer Science
+    <br>Related Academic Area : DataScience
 
   </li>
 
@@ -32,4 +32,4 @@ document.write(`
   </li>
 
 </ul>
-`);
+`)
