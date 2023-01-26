@@ -15,7 +15,7 @@ document.write(`
   <br><b>Teaching Assistant</b>
   <br><a href="https://www.u-fukui.ac.jp/" target="_blank">University of Fukui</a>,
   <br>Fukui, Japan
-  <br> - Teaching Assistant for Lecture of "Data Structure and Algorithm" for 6 Months
+  <br> - Teaching Assistant for Lecture of "Data Structure and Algorithm"
   </li>
 
   <br>
@@ -28,4 +28,4 @@ document.write(`
   
 
 </ul>
-`);
+`)

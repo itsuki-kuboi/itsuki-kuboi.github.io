@@ -12,20 +12,20 @@ document.write(`
 
   <br>
   <li>2019.4.1- 2020.3.31 : 1年間
-  <br><b>ティーチングアシスタント</b>
+  <br><b>ティーチングアシスタント</b>,
   <br><a href="https://www.u-fukui.ac.jp/" target="_blank">福井大学</a>,
   <br>福井, 日本
-  <br> - 講義「データ構造とアルゴリズム」に6カ月間従事
+  <br> - 講義「データ構造とアルゴリズム」
   </li>
 
   <br>
   <li>2019.8.16 - 2019.8.31 : 2週間
-  <br><b>インターン</b>
+  <br><b>インターン</b>,
   <br><a href="https://corporate.murata.com/ja-jp/group/fukuimurata" target="_blank">株式会社福井村田製作所</a>,
   <br>福井, 日本
-  <br> - 大学より推薦を受けて参加。
+  <br> - 大学より推薦を受けて参加
   </li>  
   
 
 </ul>
-`);
+`)

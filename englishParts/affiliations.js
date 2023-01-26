@@ -3,9 +3,9 @@ document.write(`
 <ul>
   <li><b>Member</b>
     <br>IT Infrastructure Division,
-    <br><a href="https://www.kyocera.co.jp/news/2020/0205_hpaq.html" target="_blank">Corporate Digital Business Promotion Group</a>,
-    <br><a href="https://kyocera.co.jp/" target="_blank">KYOCERA Corporation</a>,
+    <br>Corporate Digital Business Promotion Group,
+    <br>KYOCERA Corporation,
     <br>Kyoto, Japan
   </li>  
 </ul>
-`);
+`)

@@ -2,7 +2,7 @@ document.write(`
 <h2>出版</h2>
 <ul>
 
-  <li>査読付学術雑誌論文
+  <li><b>査読付学術雑誌論文</b>
     <ol reversed>
       <!-- Insert -->
       <!-- Insert -->
@@ -23,7 +23,7 @@ document.write(`
 
 
   <br>
-  <li>査読付国際会議論文
+  <li><b>査読付国際会議論文</b>
     <ol reversed>
       <!-- Insert -->
       <!-- Insert -->
@@ -44,7 +44,7 @@ document.write(`
 
 
   <br>
-  <li>査読無論文/予稿/プレプリント
+  <li><b>査読無論文/予稿/プレプリント</b>
     <ol reversed>
       <!-- Insert -->
       <!-- Insert -->
@@ -73,7 +73,7 @@ document.write(`
   </li>
 
   <br>
-  <li>講演
+  <li><b>発表</b>
   <br> * : 講演者
     <ol reversed>
       <!-- Insert -->
@@ -135,7 +135,7 @@ document.write(`
   </li>
 
   <br>
-  <li>記法
+  <li><b>記法</b>
     <ol reversed>
     
       <!-- <br> -->

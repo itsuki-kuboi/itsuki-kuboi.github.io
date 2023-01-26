@@ -2,7 +2,7 @@ document.write(`
 <h2>Publications</h2>
 <ul>
 
-  <li>Peer reviewed Journal
+  <li><b>Peer reviewed Journal</b>
     <ol reversed>
       <!-- Insert -->
       <!-- Insert -->
@@ -23,13 +23,13 @@ document.write(`
 
 
   <br>
-  <li>Peer reviewed International Conference Proceeding
+  <li><b>Peer reviewed International Conference Proceeding</b>
     <ol reversed>
       <!-- Insert -->
       <!-- Insert -->
       
 
-
+      
       <li>Itsuki Kuboi, Rika Tanaka, Shin-ya Ozawa, Yohsuke Hosoda, Masami Takata, Kinji Kimura, Yoshimasa Nakamura,
         <br><a href="https://www.american-cse.org/static/CSCE22-book-abstracts-printing.pdf" target="_blank">
         "On a Fast Computation of the Condition L-curve in the LSMR Method for Solving Ill-conditioned Problems using the DQDS Method"</a>,
@@ -38,12 +38,13 @@ document.write(`
         <br>Luxor Hotel, Las Vegas, USA,
         <br>2022.7.25
       </li>
+
     </ol>
   </li>
 
 
   <br>
-  <li>Non Peer reviewed Paper/Proceeding/Preprint
+  <li><b>Non Peer reviewed Paper/Proceeding/Preprint</b>
     <ol reversed>
       <!-- Insert -->
       <!-- Insert -->
@@ -77,7 +78,7 @@ document.write(`
   </li>
 
   <br>
-  <li>Presentations
+  <li><b>Presentations</b>
   <br> * : Presenter
     <ol reversed>
       <!-- Insert -->
@@ -150,7 +151,7 @@ document.write(`
   </li>
 
   <br>
-  <li>Notation
+  <li><b>Notation</b>
     <ol reversed>
     
       <!-- <br> -->
