@@ -6,32 +6,45 @@ document.write(`
     <ol reversed>
       <!-- Insert -->
       <!-- Insert -->
-    </ol>
-  </li>
 
 
-  <br>
-  <li>査読付国際会議予稿論文
-    <ol reversed>
-      <!-- Insert -->
-      <!-- Insert -->
-      
-      <!-- <br> -->
-      <li>Itsuki Kuboi, Rika Tanaka, Shin-ya Ozawa, Yohsuke Hosoda, Masami Takata, Kinji Kimura, Yoshimasa Nakamura,
-        <br><a href="https://www.american-cse.org/static/CSCE22-book-abstracts-printing.pdf" target="_blank">
-        "On a Fast Computation of the Condition L-curve in the LSMR Method for Solving Ill-conditioned Problems using the DQDS Method"</a>,
+
+        <li>Itsuki Kuboi, Rika Tanaka, Shin-ya Ozawa, Yohsuke Hosoda, Masami Takata, Kinji Kimura, Yoshimasa Nakamura,
+        <br>
+        "On a Fast Computation of the Condition L-curve in the LSMR Method for Solving Ill-conditioned Problems using the DQDS Method",
         <br>Advances in Parallel & Distributed Processing, and Applications,
-        <br> - Proc. of The 28th International Conference on Parallel & Distributed Processing Techniques & Applications,
         <br>Springer,
         <br>Switzerland AG.,
         <br>2023.x.x(Accepted)
-      </li>
+        </li>
+
     </ol>
   </li>
 
 
   <br>
-  <li>査読無論文/予稿
+  <li>査読付国際会議論文
+    <ol reversed>
+      <!-- Insert -->
+      <!-- Insert -->
+
+
+      
+      <li>Itsuki Kuboi, Rika Tanaka, Shin-ya Ozawa, Yohsuke Hosoda, Masami Takata, Kinji Kimura, Yoshimasa Nakamura,
+        <br><a href="https://www.american-cse.org/static/CSCE22-book-abstracts-printing.pdf" target="_blank">
+        "On a Fast Computation of the Condition L-curve in the LSMR Method for Solving Ill-conditioned Problems using the DQDS Method"</a>,
+        <br>Proc. of The 28th International Conference on Parallel & Distributed Processing Techniques & Applications,
+        <br>American Council on Science and Education,
+        <br>Luxor Hotel, Las Vegas, USA,
+        <br>2022.7.25
+      </li>
+
+    </ol>
+  </li>
+
+
+  <br>
+  <li>査読無論文/予稿/プレプリント
     <ol reversed>
       <!-- Insert -->
       <!-- Insert -->

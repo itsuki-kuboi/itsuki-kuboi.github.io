@@ -2,36 +2,48 @@ document.write(`
 <h2>Publications</h2>
 <ul>
 
-  <li>Peer reviewed Journal Paper
+  <li>Peer reviewed Journal
     <ol reversed>
       <!-- Insert -->
       <!-- Insert -->
+
+
+
+        <li>Itsuki Kuboi, Rika Tanaka, Shin-ya Ozawa, Yohsuke Hosoda, Masami Takata, Kinji Kimura, Yoshimasa Nakamura,
+        <br>
+        "On a Fast Computation of the Condition L-curve in the LSMR Method for Solving Ill-conditioned Problems using the DQDS Method",
+        <br>Advances in Parallel & Distributed Processing, and Applications,
+        <br>Springer,
+        <br>Switzerland AG.,
+        <br>2023.x.x(Accepted)
+        </li>
+
     </ol>
   </li>
 
 
   <br>
-  <li>Peer reviewed International Conference Proceeding Paper
+  <li>Peer reviewed International Conference Proceeding
     <ol reversed>
       <!-- Insert -->
       <!-- Insert -->
       
-      <!-- <br> -->
+
+
       <li>Itsuki Kuboi, Rika Tanaka, Shin-ya Ozawa, Yohsuke Hosoda, Masami Takata, Kinji Kimura, Yoshimasa Nakamura,
         <br><a href="https://www.american-cse.org/static/CSCE22-book-abstracts-printing.pdf" target="_blank">
         "On a Fast Computation of the Condition L-curve in the LSMR Method for Solving Ill-conditioned Problems using the DQDS Method"</a>,
-        <br>Advances in Parallel & Distributed Processing, and Applications,
-        <br> - Proc. of The 28th International Conference on Parallel & Distributed Processing Techniques & Applications,
-        <br>Springer,
-        <br>Switzerland AG.,
-        <br>2023.x.x(Accepted)
+        <br>Proc. of The 28th International Conference on Parallel & Distributed Processing Techniques & Applications,
+        <br>American Council on Science and Education,
+        <br>Luxor Hotel, Las Vegas, USA,
+        <br>2022.7.25
       </li>
     </ol>
   </li>
 
 
   <br>
-  <li>Non Peer reviewed Paper/Proceeding Paper
+  <li>Non Peer reviewed Paper/Proceeding/Preprint
     <ol reversed>
       <!-- Insert -->
       <!-- Insert -->
