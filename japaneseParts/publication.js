@@ -74,7 +74,7 @@ document.write(`
 
   <br>
   <li><b>発表</b>
-  <br> * : 講演者
+  <br> * : 発表者
     <ol reversed>
       <!-- Insert -->
       <!-- Insert -->
