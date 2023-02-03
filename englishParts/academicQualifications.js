@@ -11,7 +11,7 @@ document.write(`
         2021.3.23
         <br>Master of Engineering,
         <br>Thesis Title : Study on L-curve and LSMR Method on Deconvolution Problem,
-        <br>(<a href="https://www.eng.u-fukui.ac.jp/wp-content/uploads/MastarThesis2020.html" target="_blank">,
+        <br>(<a href="https://www.eng.u-fukui.ac.jp/wp-content/uploads/MastarThesis2020.html" target="_blank">
         LSMR法を利用したデコンボリューション問題の解法におけるL-curveの検討</a>),
         <br>Supervisor : Professor Yohsuke HOSODA et al.,
         <br>GPA : 4.00 / 4.00
