@@ -30,7 +30,7 @@ document.write(`
     </li>
 
     <li>2023.2.4
-    <br><b>Microsoft Certified: Azure AI Fundamentals</b></a>,
+    <br><a href="https://www.credly.com/badges/e0df564e-6936-489a-abb7-3d066da2ec7c/public_url" target="_blank"><b>Microsoft Certified: Azure AI Fundamentals</b></a>,
     <br>Microsoft, USA
     </li>
   </ul>
