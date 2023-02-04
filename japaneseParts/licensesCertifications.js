@@ -28,6 +28,11 @@ document.write(`
     <br><a href="https://www.credly.com/badges/a8b2531e-1271-4409-936a-7ed1653cc1dc/public_url" target="_blank"><b>Microsoft Certified: Power Platform Fundamentals</b></a> 獲得,
     <br>Microsoft, 米国
     </li>
+
+    <li>2023.2.4
+    <br><b>Microsoft Certified: Azure AI Fundamentals</b></a> 獲得,
+    <br>Microsoft, 米国
+    </li>
   </ul>
   </li> 
 
