@@ -33,6 +33,11 @@ document.write(`
     <br><a href="https://www.credly.com/badges/e0df564e-6936-489a-abb7-3d066da2ec7c/public_url" target="_blank"><b>Microsoft Certified: Azure AI Fundamentals</b></a>,
     <br>Microsoft, USA
     </li>
+
+    <li>2023.2.8
+    <br><a href="https://www.credly.com/badges/a97ae3dd-5756-4bba-8d2e-b785eb582da0/public_url" target="_blank"><b>Microsoft Certified: Security, Compliance, and Identity Fundamentals</b></a>,
+    <br>Microsoft, USA
+    </li>
   </ul>
   </li> 
 
