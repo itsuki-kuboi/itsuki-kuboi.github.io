@@ -91,8 +91,8 @@ document.write(`
         <br>"On a Machine Learning and Stopping Iteration using Condition Number on LSMR Method"</a>,
         <br>(LSMR法における条件数を用いた反復の打ち切りと機械学習について),
         <br>The 20th Computational Mathematics  Workshop,
-        <br>(<a href="https://www-is.amp.i.kyoto-u.ac.jp/lab/cmc/" target="_blank">第20回計算数学研究会</a>),
-        <br>Applied Mathematical Analysis Laboratory of Kyoto University,
+        <br>(第20回計算数学研究会),
+        <br><a href="https://www-is.amp.i.kyoto-u.ac.jp/lab/cmc/" target="_blank">Applied Mathematical Analysis Laboratory</a>, Kyoto University,
         <br>Online, Japan,
         <br>2022.8.25
       </li>
