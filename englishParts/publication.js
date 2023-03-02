@@ -86,6 +86,19 @@ document.write(`
       
       <!-- <br> -->
       <li>
+        Rika Tanaka*, Itsuki Kuboi, Shin-ya Ozawa, Yohsuke Hosoda, Masami Takata, Kinji Kimura, Yoshimasa Nakamura,
+        <br>(田中利佳*, 久保井五貴, 小澤伸也, 細田陽介, 高田雅美, 木村欣司, 中村佳正),
+        <br>"On a Machine Learning and Stopping Iteration using Condition Number on LSMR Method"</a>,
+        <br>(LSMR法における条件数を用いた反復の打ち切りと機械学習について),
+        <br>The 20th Computational Mathematics  Workshop,
+        <br>(<a href="https://www-is.amp.i.kyoto-u.ac.jp/lab/cmc/" target="_blank">第20回計算数学研究会</a>),
+        <br>Applied Mathematical Analysis Laboratory of Kyoto University,
+        <br>Online, Japan,
+        <br>2022.8.25
+      </li>
+
+      <br>
+      <li>
         Itsuki Kuboi, Rika Tanaka, Shin-ya Ozawa, Yohsuke Hosoda, Masami Takata*, Kinji Kimura, Yoshimasa Nakamura,
         <br><a href="https://www.american-cse.org/static/CSCE22-book-abstracts-printing.pdf" target="_blank">
           "On a Fast Computation of the Condition L-curve in the LSMR Method for Solving Ill-conditioned Problems using the DQDS Method"</a>,

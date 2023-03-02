@@ -81,6 +81,16 @@ document.write(`
       
       <!-- <br> -->
       <li>
+        田中利佳*, 久保井五貴, 小澤伸也, 細田陽介, 高田雅美, 木村欣司, 中村佳正,
+        <br>"LSMR法における条件数を用いた反復の打ち切りと機械学習について",
+        <br>第20回計算数学研究会,
+        <br><a href="https://www-is.amp.i.kyoto-u.ac.jp/lab/cmc/" target="_blank">数理解析分野研究室</a>, 京都大学,
+        <br>オンライン, 日本,
+        <br>2022.8.25
+      </li>
+
+      <br>
+      <li>
         Itsuki Kuboi, Rika Tanaka, Shin-ya Ozawa, Yohsuke Hosoda, Masami Takata*, Kinji Kimura, Yoshimasa Nakamura,
         <br><a href="https://www.american-cse.org/static/CSCE22-book-abstracts-printing.pdf" target="_blank">
           "On a Fast Computation of the Condition L-curve in the LSMR Method for Solving Ill-conditioned Problems using the DQDS Method"</a>,
