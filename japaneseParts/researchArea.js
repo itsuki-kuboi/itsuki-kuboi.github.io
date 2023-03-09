@@ -6,18 +6,16 @@ document.write(`
     <li>逆問題
       <br> - 大規模悪条件問題 : 第一種Fredholm積分方程式から現れる線形方程式
       <br> - 画像処理 : ぼやけ画像鮮明化問題, 2次元問題, 3次元問題
+      <br> - 正則化 : L-curve法, Condition L-curve法
     </li>
     <li>数値線形代数
       <br> - 特異値分解/計算 : 2分法, DQDS法
       <br> - 線形直接解法 : LU分解, 特異値分解
       <br> - 線形反復解法 : Kaczmarz(ART)法, Jacobi法, Krylov部分空間法(GMRES法各種, LSQR法, LSMR法, ほか)
     </li>
-    <li>正則化
-      <br> - L-curve法, Condition L-curve法
-    </li>
     </ul>
 
-    <br>基礎学問 : コンピューターサイエンス（計算機科学）
+    <br>基礎学問 : コンピューターサイエンス（計算機科学）, 可積分系
     <br>関連学問 : データサイエンス
 
   </li>
