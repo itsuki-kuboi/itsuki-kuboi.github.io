@@ -14,7 +14,7 @@ document.write(`
       <ul>
         <li>Singular Value Decomposition/Computation : Bisection method, DQDS method</li>
         <li>Linear Direct Solution Method : LU Decomposition, SVD</li>
-        <li>Linear Iterative Solution Method : Kaczmarz method, Jacobi method, Krylov subspace method(several GMRES methods, LSQR method, LSMR method, etc.)</li>
+        <li>Linear Iterative Solution Method : Kaczmarz method, Jacobi method, Krylov subspace method(various GMRES methods, LSQR method, LSMR method, etc.)</li>
       </ul>
     </li>
     </ul>
