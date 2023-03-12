@@ -4,14 +4,18 @@ document.write(`
   <li><b>Numerical Analysis</b>
     <ul>
     <li>Inverse Problem
-      <br> - Large Scaled and Ill-conditioned Problem : Linear Equation issued by Fredholm Integral Equation of the First Kind
-      <br> - Image Processing : Image Deblur Problem, 2d Problem, 3d Problem
-      <br> - Regularization : L-curve method, Condition L-curve method
+      <ul>
+        <li>Large Scaled and Ill-conditioned Problem : Linear Equation issued by Fredholm Integral Equation of the First Kind</li>
+        <li>Image Processing : Image Deblur Problem, 2d Problem, 3d Problem</li>
+        <li>Regularization : L-curve method, Condition L-curve method</li>
+      </ul>
     </li>
     <li>Numerical Linear Algebra
-      <br> - Singular Value Decomposition/Computation : Bisection method, DQDS method
-      <br> - Linear Direct Solution Method : LU decomposition, SVD
-      <br> - Linear Iterative Solution Method : Kaczmarz method, Jacobi method, Krylov subspace method(GMRES methods, LSQR method, LSMR method, etc.)
+      <ul>
+        <li>Singular Value Decomposition/Computation : Bisection method, DQDS method</li>
+        <li>Linear Direct Solution Method : LU Decomposition, SVD</li>
+        <li>Linear Iterative Solution Method : Kaczmarz method, Jacobi method, Krylov subspace method(several GMRES methods, LSQR method, LSMR method, etc.)</li>
+      </ul>
     </li>
     </ul>
 

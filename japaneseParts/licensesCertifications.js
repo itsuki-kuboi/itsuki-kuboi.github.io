@@ -19,27 +19,26 @@ document.write(`
 
   <li>MCP
   <ul>
-    <li>2022.10.28
-    <br><a href="https://www.credly.com/badges/9346a90a-731f-432f-8f2a-430904c8d5ca/public_url" target="_blank"><b>Microsoft Certified: Azure Fundamentals</b></a> 獲得,
-    <br>Microsoft, 米国
-    </li>
-
-    <li>2023.1.28
-    <br><a href="https://www.credly.com/badges/a8b2531e-1271-4409-936a-7ed1653cc1dc/public_url" target="_blank"><b>Microsoft Certified: Power Platform Fundamentals</b></a> 獲得,
-    <br>Microsoft, 米国
-    </li>
-
-    <li>2023.2.4
-    <br><a href="https://www.credly.com/badges/e0df564e-6936-489a-abb7-3d066da2ec7c/public_url" target="_blank"><b>Microsoft Certified: Azure AI Fundamentals</b></a> 獲得,
-    <br>Microsoft, 米国
-    </li>
-
-    <li>2023.2.8
-    <br><a href="https://www.credly.com/badges/a97ae3dd-5756-4bba-8d2e-b785eb582da0/public_url" target="_blank"><b>Microsoft Certified: Security, Compliance, and Identity Fundamentals</b></a> 獲得,
-    <br>Microsoft, 米国
-    </li>
+    <li>Fundamentals</li>
+      <ul>
+        <li>2022.10.28
+        <br><a href="https://www.credly.com/badges/9346a90a-731f-432f-8f2a-430904c8d5ca/public_url" target="_blank"><b>Microsoft Certified: Azure Fundamentals</b></a> 獲得,
+        <br>Microsoft, 米国
+        </li>
+        <li>2023.1.28
+        <br><a href="https://www.credly.com/badges/a8b2531e-1271-4409-936a-7ed1653cc1dc/public_url" target="_blank"><b>Microsoft Certified: Power Platform Fundamentals</b></a> 獲得,
+        <br>Microsoft, 米国
+        </li>
+        <li>2023.2.4
+        <br><a href="https://www.credly.com/badges/e0df564e-6936-489a-abb7-3d066da2ec7c/public_url" target="_blank"><b>Microsoft Certified: Azure AI Fundamentals</b></a> 獲得,
+        <br>Microsoft, 米国
+        </li>
+        <li>2023.2.8
+        <br><a href="https://www.credly.com/badges/a97ae3dd-5756-4bba-8d2e-b785eb582da0/public_url" target="_blank"><b>Microsoft Certified: Security, Compliance, and Identity Fundamentals</b></a> 獲得,
+        <br>Microsoft, 米国
+        </li>
+      </ul>
   </ul>
-  </li> 
 
   <br>
 
