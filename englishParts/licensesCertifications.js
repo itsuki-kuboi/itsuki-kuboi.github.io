@@ -44,7 +44,7 @@ document.write(`
 
   <li>Sport and Teaching
   <ul>
-    <li>2011.11.xx
+    <li>2011.2.23
     <br><b>First Dan of Judo</b>,
     <br>Kodokan Judo Institute, Japan
     </li>
