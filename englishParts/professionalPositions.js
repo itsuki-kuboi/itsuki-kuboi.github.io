@@ -17,15 +17,19 @@ document.write(`
   <br>Fukui, Japan
   <br> - Teaching Assistant for Lecture of "Data Structure and Algorithm"
   </li>
+  
+</ul>
 
-  <br>
+<br>
+<h2>Internship</h2>
+<ul>
   <li>2019.8.16 - 2019.8.31 : 2 Weeks
-  <br><b>Intern</b>
+  <br><b>Student Intern</b>
   <br><a href="https://corporate.murata.com/ja-jp/group/fukuimurata" target="_blank">Fukui Murata Manufacturing. Co., Ltd.</a>,
   <br>Fukui, Japan
   <br> - I was referred by University of Fukui.
   </li>  
-  
+  </ul>
 
-</ul>
+
 `)
