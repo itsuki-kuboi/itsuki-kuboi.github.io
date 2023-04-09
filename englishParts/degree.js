@@ -1,5 +1,5 @@
 document.write(`
-<h2>Degree</h2><!-- and Thesis-->
+<h2>Degrees</h2><!-- and Thesis-->
 <ul>
   <li>
   2021.3.23

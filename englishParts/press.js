@@ -1,5 +1,5 @@
 document.write(`
-<h2>Press</h2>
+<h2>Presses</h2>
 <ul>
   <li>
   2022.6.8
@@ -31,4 +31,4 @@ document.write(`
   </li>
 
 </ul>
-`);
+`)

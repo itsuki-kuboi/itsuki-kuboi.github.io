@@ -6,7 +6,7 @@ document.write(`
     <li>Inverse Problem
       <ul>
         <li>Large Scaled and Ill-conditioned Problem : Linear Equation issued by Fredholm Integral Equation of the First Kind</li>
-        <li>Image Processing : Image Deblur Problem, 2d Problem, 3d Problem</li>
+        <li>Image Processing : Image Deblur Problem, 2d and 3d Problem</li>
         <li>Regularization : L-curve method, Condition L-curve method</li>
       </ul>
     </li>
