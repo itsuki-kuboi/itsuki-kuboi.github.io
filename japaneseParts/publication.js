@@ -21,7 +21,7 @@ document.write(`
       <li>Itsuki Kuboi, Rika Tanaka, Shin-ya Ozawa, Yohsuke Hosoda, Masami Takata, Kinji Kimura and Yoshimasa Nakamura,
         <br><a href="https://www.american-cse.org/static/CSCE22-book-abstracts-printing.pdf" target="_blank">
         "On a Fast Computation of the Condition L-curve in the LSMR Method for Solving Ill-conditioned Problems using the DQDS Method"</a>,
-        <br>Proc. of The 28th International Conference on Parallel & Distributed Processing Techniques & Applications,
+        <br>Proceedings of The 28th International Conference on Parallel & Distributed Processing Techniques & Applications,
         <br>American Council on Science and Education,
         <br>Luxor Hotel, Las Vegas, USA,
         <br>2022.7.25

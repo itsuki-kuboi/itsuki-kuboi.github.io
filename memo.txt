@@ -1,0 +1,49 @@
+<!-- 
+
+                    <br>
+        <h2>Assigned Projects</h2>
+        <ul>
+            <li>Coming Soon...</li>
+        </ul>
+<h2>Honors and Awards on Academics</h2>
+<ul>
+  <li>20xx.xx.xx</li>
+  <ul>
+    <li>xxx,xxx,xxx</li>
+  </ul>
+</ul>
+
+<h2>Volunteering on Academics</h2>
+<ul>
+  <li>20xx.xx.xx</li>
+  <ul>
+    <li>xxx,xxx,xxx</li>
+  </ul>
+</ul>
+
+-->
+
+<!-- 
+
+                        <br>
+        <h2>プロジェクト参画</h2>
+        <ul>
+            <li>Coming Soon...</li>
+        </ul>
+<h2>Honors and Awards</h2>
+<ul>
+  <li>20xx.xx.xx</li>
+  <ul>
+    <li>xxx,xxx,xxx</li>
+  </ul>
+</ul>
+
+<h2>Volunteering</h2>
+<ul>
+  <li>20xx.xx.xx</li>
+  <ul>
+    <li>xxx,xxx,xxx</li>
+  </ul>
+</ul>
+
+-->
