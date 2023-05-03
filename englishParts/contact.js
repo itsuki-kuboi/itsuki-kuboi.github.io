@@ -3,7 +3,8 @@ document.write(`
 <p>Itsuki KUBOI(久保井 五貴)</p>
 <p>
 	E-Mail:itsuki.kuboi-AxT-gmail.com
-	Facebook:
+ <br>
+ Facebook:
 	<a href="http://www.facebook.com/itsuki.kuboi" target="_blank">Click here</a>
 	<br>
 	LinkedIn:
