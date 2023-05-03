@@ -1,4 +1,5 @@
 document.write(`
+<!-- 更新日時 -->
 &copy; 2022 Itsuki KUBOI, Last-Modified:
 <time id="modify"></time>
 <script>
@@ -30,4 +31,4 @@ target.textContent = year + '.' + month + '.' + date + ' ' + hour + ':' + min + 
 (GMT -09:00)
 
 <!-- 更新日時 -->
-`);
+`)
