@@ -6,7 +6,7 @@ document.write(`
     <li>逆問題
       <ul>
         <li>大規模悪条件問題 : 第一種Fredholm積分方程式から現れる線形方程式</li>
-        <li>画像処理 : ぼやけ画像鮮明化問題, 2次元問題, 3次元問題</li>
+        <li>画像処理 : 画像鮮明化問題, 2次元問題, 3次元問題</li>
         <li>正則化 : L-curve法, Condition L-curve法</li>
       </ul>
     </li>
