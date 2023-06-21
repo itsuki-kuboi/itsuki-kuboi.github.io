@@ -40,6 +40,15 @@ document.write(`
       <!-- <br> -->
       <li>
         Miho Chiyonobu, Itsuki Kuboi, Rika Tanaka, Shin-ya Ozawa, Yohsuke Hosoda, Masami Takata, Kinji Kimura and Yoshimasa Nakamura,
+        <br>"From the Condition L-curve to Machine Learning",
+        <br>Numerical Analysis Symposium 2023(49th) [NAS2013],
+        <br>Cosponsor[NAS2023 and JSIAM],
+        <br>2023.7.13
+      </li>
+
+      <br>
+      <li>
+        Miho Chiyonobu, Itsuki Kuboi, Rika Tanaka, Shin-ya Ozawa, Yohsuke Hosoda, Masami Takata, Kinji Kimura and Yoshimasa Nakamura,
               <br>(千代延 未帆, 久保井五貴, 田中利佳, 小澤伸也, 細田陽介, 高田雅美, 木村欣司, 中村佳正),
         <br>"Proposal on how to reduce the number of data when implementing deep learning of stop conditions for the LSMR method",
               <br>(<a href="http://id.nii.ac.jp/1001/00225107/" target="_blank">
@@ -87,6 +96,17 @@ document.write(`
       
       <!-- <br> -->
 
+      <li>
+        Miho Chiyonobu*, Itsuki Kuboi, Rika Tanaka, Shin-ya Ozawa, Yohsuke Hosoda, Masami Takata, Kinji Kimura and Yoshimasa Nakamura,
+        <br><a href="http://www.sr3.t.u-tokyo.ac.jp/nas/2023/%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%a0/" target="_blank">
+          "From the Condition L-curve to Machine Learning"</a>,
+        <br>Numerical Analysis Symposium 2023(49th) [NAS2013],
+        <br>Cosponsor[NAS2023 and JSIAM],
+        <br>Iwate University, Iwate, Japan,
+        <br>2023.7.13
+      </li>
+
+    <br>
       <li>
         Miho Chiyonobu*, Itsuki Kuboi, Rika Tanaka, Shin-ya Ozawa, Yohsuke Hosoda, Masami Takata, Kinji Kimura and Yoshimasa Nakamura,
               <br>(千代延 未帆*, 久保井五貴, 田中利佳, 小澤伸也, 細田陽介, 高田雅美, 木村欣司, 中村佳正),
