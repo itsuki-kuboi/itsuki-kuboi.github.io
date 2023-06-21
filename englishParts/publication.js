@@ -41,7 +41,7 @@ document.write(`
       <li>
         Miho Chiyonobu, Itsuki Kuboi, Rika Tanaka, Shin-ya Ozawa, Yohsuke Hosoda, Masami Takata, Kinji Kimura and Yoshimasa Nakamura,
         <br>"From the Condition L-curve to Machine Learning",
-        <br>Numerical Analysis Symposium 2023(49th) [NAS2013],
+        <br>Numerical Analysis Symposium 2023(49th) [NAS2023],
         <br>Cosponsor[NAS2023 and JSIAM],
         <br>2023.7.13
       </li>
@@ -100,7 +100,7 @@ document.write(`
         Miho Chiyonobu*, Itsuki Kuboi, Rika Tanaka, Shin-ya Ozawa, Yohsuke Hosoda, Masami Takata, Kinji Kimura and Yoshimasa Nakamura,
         <br><a href="http://www.sr3.t.u-tokyo.ac.jp/nas/2023/%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%a0/" target="_blank">
           "From the Condition L-curve to Machine Learning"</a>,
-        <br>Numerical Analysis Symposium 2023(49th) [NAS2013],
+        <br>Numerical Analysis Symposium 2023(49th) [NAS2023],
         <br>Cosponsor[NAS2023 and JSIAM],
         <br>Iwate University, Iwate, Japan,
         <br>2023.7.13
