@@ -49,7 +49,7 @@ document.write(`
       <br>
       <li>
         Miho Chiyonobu, Itsuki Kuboi, Rika Tanaka, Shin-ya Ozawa, Yohsuke Hosoda, Masami Takata, Kinji Kimura and Yoshimasa Nakamura,
-              <br>(千代延 未帆, 久保井五貴, 田中利佳, 小澤伸也, 細田陽介, 高田雅美, 木村欣司, 中村佳正),
+              <br>(千代延未帆, 久保井五貴, 田中利佳, 小澤伸也, 細田陽介, 高田雅美, 木村欣司, 中村佳正),
         <br>"Proposal on how to reduce the number of data when implementing deep learning of stop conditions for the LSMR method",
               <br>(<a href="http://id.nii.ac.jp/1001/00225107/" target="_blank">
               LSMR法の停止条件を深層学習する際のデータ数削減方法に関する提案</a>),
@@ -109,7 +109,7 @@ document.write(`
     <br>
       <li>
         Miho Chiyonobu*, Itsuki Kuboi, Rika Tanaka, Shin-ya Ozawa, Yohsuke Hosoda, Masami Takata, Kinji Kimura and Yoshimasa Nakamura,
-              <br>(千代延 未帆*, 久保井五貴, 田中利佳, 小澤伸也, 細田陽介, 高田雅美, 木村欣司, 中村佳正),
+              <br>(千代延未帆*, 久保井五貴, 田中利佳, 小澤伸也, 細田陽介, 高田雅美, 木村欣司, 中村佳正),
         <br>"Proposal on how to reduce the number of data when implementing deep learning of stop conditions for the LSMR method",
         <br>(<a href="https://www.ipsj.or.jp/kenkyukai/event/mps142bio73.html" target="_blank">
               LSMR法の停止条件を深層学習する際のデータ数削減方法に関する提案</a>),
