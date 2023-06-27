@@ -2,7 +2,7 @@ document.write(`
 <h2>Publications</h2>
 <ul>
 
-  <li><b>Refereed Journal</b>
+  <li><b>Peer Reviewed Journal Paper</b>
     <ol reversed>
       <!-- Insert -->
       <!-- Insert -->
@@ -11,7 +11,7 @@ document.write(`
 
 
   <br>
-  <li><b>Refereed International Conference Proceeding</b>
+  <li><b>Peer Reviewed International Conference Proceedings Paper</b>
     <ol reversed>
       <!-- Insert -->
       <!-- Insert -->
@@ -32,14 +32,14 @@ document.write(`
 
 
   <br>
-  <li><b>Paper/Proceeding/Preprint</b>
+  <li><b>Paper/Proceedings Paper/Preprint Paper</b>
     <ol reversed>
       <!-- Insert -->
       <!-- Insert -->
       
       <!-- <br> -->
       <li>
-        Miho Chiyonobu, Itsuki Kuboi, Rika Tanaka, Shinya Ozawa, Yohsuke Hosoda, Masami Takata, Kinji Kimura and Yoshimasa Nakamura,
+        Miho Chiyonobu, Itsuki Kuboi, Rika Tanaka, Shin-ya Ozawa, Yohsuke Hosoda, Masami Takata, Kinji Kimura and Yoshimasa Nakamura,
         <br>"From the Condition L-curve to Machine Learning",
         <br>Numerical Analysis Symposium 2023(49th) [NAS2023],
         <br>Cosponsor[NAS2023 and JSIAM],
@@ -97,7 +97,7 @@ document.write(`
       <!-- <br> -->
 
       <li>
-        Miho Chiyonobu*, Itsuki Kuboi, Rika Tanaka, Shinya Ozawa, Yohsuke Hosoda, Masami Takata, Kinji Kimura and Yoshimasa Nakamura,
+        Miho Chiyonobu*, Itsuki Kuboi, Rika Tanaka, Shin-ya Ozawa, Yohsuke Hosoda, Masami Takata, Kinji Kimura and Yoshimasa Nakamura,
         <br><a href="http://www.sr3.t.u-tokyo.ac.jp/nas/2023/%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%a0/" target="_blank">
           "From the Condition L-curve to Machine Learning"</a>,
         <br>Numerical Analysis Symposium 2023(49th) [NAS2023],
