@@ -9,7 +9,7 @@ document.write(`
       <ul>
         <li>
         2021.3.23
-        <br>Master of Engineering,
+        <br><b>Master of Engineering</b>,
         <br>Thesis Title : Study on L-curve and LSMR Method on Deconvolution Problem,
         <br>(<a href="https://www.eng.u-fukui.ac.jp/wp-content/uploads/MastarThesis2020.html" target="_blank">
         LSMR法を利用したデコンボリューション問題の解法におけるL-curveの検討</a>),
@@ -36,7 +36,7 @@ document.write(`
             
       <ul>
         <li>2019.3.22
-        <br>Bachelor of Engineering,
+        <br><b>Bachelor of Engineering</b>,
         <br>Thesis Title : "On a Numerical Computation on Deconvolution Problem using Steady Iteration",
         <br>(定常反復を用いたデコンボリューション問題の数値計算について),
         <br>Supervisor : Professor Yohsuke HOSODA,

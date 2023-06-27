@@ -9,7 +9,7 @@ document.write(`
       <ul>
         <li>
         2021.3.23
-        <br>修士（工学）,
+        <br><b>修士（工学）</b>,
         <br>学位論文 : <a href="https://www.eng.u-fukui.ac.jp/wp-content/uploads/MastarThesis2020.html" target="_blank">LSMR法を利用したデコンボリューション問題の解法におけるL-curveの検討</a>,
         <br>指導教員 : 細田陽介教授・他多数,
         <br>GPA : 4.00 / 4.00,
@@ -34,7 +34,7 @@ document.write(`
             
       <ul>
         <li>2019.3.22
-        <br>学士（工学）,
+        <br><b>学士（工学）</b>,
         <br>学位論文 : 定常反復を用いたデコンボリューション問題の数値計算について,
         <br>指導教員 : 細田陽介教授,
         <br>GPA : 3.18 / 4.00
