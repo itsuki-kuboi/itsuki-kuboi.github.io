@@ -1,0 +1,25 @@
+@charset "UTF-8";
+/*レスポンシブ対応　参考URL*/
+/*https://www.site-convert.com/archives/1528#outline__1*/
+/*https://www.webdesignleaves.com/wp/htmlcss/450/*/
+
+
+body {
+	margin: initial;
+	margin: 50px;
+  }
+
+
+
+/* index コンテンツリンク */
+.list ul {
+	/*text-align: center;*/
+	margin-left: -10px;
+	font-size: 0; /* タグ改行時の空白防止 */
+}
+.list ul li{
+	display: inline-block;
+	margin-left: 10px;
+	font-size: 14px; /* ulでサイズ0にしたのを戻す */
+}
+
