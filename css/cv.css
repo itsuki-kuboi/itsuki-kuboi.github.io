@@ -4,6 +4,11 @@
 /*https://www.webdesignleaves.com/wp/htmlcss/450/*/
 
 
+.all-margin {
+	margin: 50px;
+}
+
+
 /* スマホ用のCSSはメディアクエリの外に記述する */
 
 

@@ -14,26 +14,27 @@
         </script>
     </head>
     <body>
-        <h1>Itsuki KUBOI's  Website</h1>
-        <h2>Contents</h2>
-        <div class="list">
-            <ul>
-                <li>
-                    <a href="./cv.html">Curriculum Vitae</a>
-                </li>
-                <li>
-                    <a href="./ac.html">Academics</a>
-                </li>
-                <li>
-                    <a href="./skills.html">Skills</a>
-                </li>
-            </ul>
-        </div>
-        <br>
-        <!-- 更新日時 -->
-        &copy; 2022 Itsuki KUBOI, Last-Modified:
-        <time id="modify"></time>
-        <script>
+        <div class="all-margin">
+            <h1>Itsuki KUBOI's  Website</h1>
+            <h2>Contents</h2>
+            <div class="list">
+                <ul>
+                    <li>
+                        <a href="./cv.html">Curriculum Vitae</a>
+                    </li>
+                    <li>
+                        <a href="./ac.html">Academics</a>
+                    </li>
+                    <li>
+                        <a href="./skills.html">Skills</a>
+                    </li>
+                </ul>
+            </div>
+            <br>
+            <!-- 更新日時 -->
+            &copy; 2022 Itsuki KUBOI, Last-Modified:
+            <time id="modify"></time>
+            <script>
         /* 更新日の取得 */
         const last = new Date(document.lastModified);
         var year = last.getFullYear();
@@ -53,9 +54,10 @@
         /* 日付を書き換える */
         var target = document.getElementById('modify');
         target.textContent = year + '.' + month + '.' + date + ' ' + hour + ':' + min + ':' + sec;
-        </script>
-        (GMT -09:00)
-        <!-- 更新日時 -->
+            </script>
+            (GMT -09:00)
+            <!-- 更新日時 -->
+        </div>
     </body>
 </html>
 <!--
