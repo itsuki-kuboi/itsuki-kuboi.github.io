@@ -12,7 +12,7 @@ document.write(`
     </li>
     <li>Numerical Linear Algebra
       <ul>
-        <li>Singular Value Decomposition/Computation : Bisection method, DQDS method</li>
+        <li>Singular Value Computation Method : Bisection method, DQDS method</li>
         <li>Linear Direct Solution Method : LU Decomposition, SVD</li>
         <li>Linear Iterative Solution Method : Kaczmarz method, Jacobi method, Krylov subspace method(various GMRES methods, LSQR method, LSMR method, etc.)</li>
       </ul>
@@ -20,7 +20,7 @@ document.write(`
     </ul>
 
     <br>Based Academic Area : Computer Science, Integrable Systems
-    <br>Related Academic Area : DataScience
+    <br>Related Academic Area : Data Science
 
   </li>
 

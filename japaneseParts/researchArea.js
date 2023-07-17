@@ -13,7 +13,7 @@ document.write(`
 
     <li>数値線形代数
       <ul>
-        <li>特異値分解/計算 : 2分法, DQDS法</li>
+        <li>特異値計算法 : 2分法, DQDS法</li>
         <li>線形直接解法 : LU分解, 特異値分解</li>
         <li>線形反復解法 : Kaczmarz(ART)法, Jacobi法, Krylov部分空間法(GMRES法各種, LSQR法, LSMR法, ほか)</li>
       </ul>
