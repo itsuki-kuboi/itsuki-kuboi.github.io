@@ -12,8 +12,8 @@ document.write(`
     </li>
     <li>Numerical Linear Algebra
       <ul>
-        <li>Singular Value Computation Method : Bisection method, DQDS method</li>
-        <li>Linear Direct Solution Method : LU Decomposition, SVD</li>
+        <li>Singular Value Computation Method : DQDS method, Bisection method</li>
+        <li>Matrix Decomposition Method : LU Decomposition, SVD, QR Decomposition</li>
         <li>Linear Iterative Solution Method : Kaczmarz method, Jacobi method, Krylov subspace method(various GMRES methods, LSQR method, LSMR method, etc.)</li>
       </ul>
     </li>
