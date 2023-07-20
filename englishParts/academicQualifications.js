@@ -10,7 +10,7 @@ document.write(`
         <li>
         2021.3.23
         <br><b>Master of Engineering</b>,
-        <br>Thesis Title : Study on L-curve and LSMR Method on Deconvolution Problem,
+        <br>Thesis Title : "Study on L-curve and LSMR Method on Deconvolution Problem",
         <br>(<a href="https://www.eng.u-fukui.ac.jp/wp-content/uploads/MastarThesis2020.html" target="_blank">
         LSMR法を利用したデコンボリューション問題の解法におけるL-curveの検討</a>),
         <br>Supervisor : Professor Yohsuke HOSODA et al.,
