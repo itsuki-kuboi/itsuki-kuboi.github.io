@@ -113,7 +113,8 @@ document.write(`
       <!-- <br> -->
       <li>
         Miho Chiyonobu*, Itsuki Kuboi, Rika Tanaka, Shin-ya Ozawa, Yohsuke Hosoda, Masami Takata, Kinji Kimura and Yoshimasa Nakamura,
-        <br>"Iterative Censoring and Highly Efficient Machine Learning with Condition Number in LSMR Method",
+        <br><a href="https://www.american-cse.org/static/CSCE23-book-abstracts-paperID.pdf" target="_blank">
+        "Iterative Censoring and Highly Efficient Machine Learning with Condition Number in LSMR Method"</a>,
         <br>The 29th International Conference on Parallel & Distributed Processing Techniques & Applications,
         <!-- <br> - The 2023 World Congress in Computer Science, Computer Engineering, and Applied Computing, -->
         <br>American Council on Science and Education,
@@ -124,8 +125,8 @@ document.write(`
     <br>
       <li>
         千代延未帆*, 久保井五貴, 田中利佳, 小澤伸也, 細田陽介, 高田雅美, 木村欣司, 中村佳正,
-        <br>"<a href="https://www.ipsj.or.jp/kenkyukai/event/mps144.html" target="_blank">
-          LSMR法における条件数を用いた反復計算の打ち切りと高効率の機械学習</a>",
+        <br><a href="https://www.ipsj.or.jp/kenkyukai/event/mps144.html" target="_blank">
+        "LSMR法における条件数を用いた反復計算の打ち切りと高効率の機械学習"</a>,
         <br>MPS144,
         <br>MPS, IPSJ,
         <br>Luxor Hotel, Las Vegas, USA,

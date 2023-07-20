@@ -120,7 +120,8 @@ document.write(`
 
       <li>
         Miho Chiyonobu*, Itsuki Kuboi, Rika Tanaka, Shin-ya Ozawa, Yohsuke Hosoda, Masami Takata, Kinji Kimura and Yoshimasa Nakamura,
-        <br>"Iterative Censoring and Highly Efficient Machine Learning with Condition Number in LSMR Method",
+        <br><a href="https://www.american-cse.org/static/CSCE23-book-abstracts-paperID.pdf" target="_blank">
+        "Iterative Censoring and Highly Efficient Machine Learning with Condition Number in LSMR Method"</a>,
         <br>The 29th International Conference on Parallel & Distributed Processing Techniques & Applications,
         <!-- <br> - The 2023 World Congress in Computer Science, Computer Engineering, and Applied Computing, -->
         <br>American Council on Science and Education,
