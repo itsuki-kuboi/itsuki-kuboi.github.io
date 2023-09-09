@@ -49,14 +49,24 @@ document.write(`
       
       <!-- <br> -->
       <li>
+        西川俊央, 久保井五貴, 髙田雅美, 木村欣司, 中村佳正,
+        <br>"帯行列に対する精密な最小特異値の下界の計算法の提案",
+        <br>2023年度電気・情報関係学会北陸支部連合大会,
+        <br>共催[IEEJ, IEICE, ITE, JSMBE, IPSJ, SICE, ASJ, IEIEJ各北陸支部, IEEE名古屋支部],
+        <br>オンライン,金沢工業大学, 石川, 日本,
+        <br>2023.9.2
+      </li>
+
+    <br>
+      <li>
         千代延未帆, 久保井五貴, 田中利佳, 小澤伸也, 細田陽介, 高田雅美, 木村欣司, 中村佳正,
-      <br><a href="http://id.nii.ac.jp/1001/00226805/" target="_blank">
-      "LSMR法における条件数を用いた反復計算の打ち切りと高効率の機械学習"</a>,
-      <br>研究報告, MPS144,
-      <br>MPS研究会, 情報処理学会,
-      <br>東京, 日本,
-      <br>2023.7.17
-    </li>
+        <br><a href="http://id.nii.ac.jp/1001/00226805/" target="_blank">
+        "LSMR法における条件数を用いた反復計算の打ち切りと高効率の機械学習"</a>,
+        <br>研究報告, MPS144,
+        <br>MPS研究会, 情報処理学会,
+        <br>東京, 日本,
+        <br>2023.7.17
+      </li>
 
     <br>
       <li>
@@ -111,6 +121,27 @@ document.write(`
       <!-- Insert -->
       
       <!-- <br> -->
+      <li>
+        西川俊央*, 久保井五貴, 髙田雅美, 木村欣司, 中村佳正,
+        <br>"帯行列に対する精密な最小特異値の下界の計算法の提案",
+        <br>2023年度電気・情報関係学会北陸支部連合大会,
+        <br>共催[IEEJ, IEICE, ITE, JSMBE, IPSJ, SICE, ASJ, IEIEJ各北陸支部, IEEE名古屋支部],
+        <br>オンライン,金沢工業大学, 石川, 日本,
+        <br>2023.9.2
+      </li>
+
+    <br>
+      <li>
+        千代延未帆*, 久保井五貴, 田中利佳, 小澤伸也, 細田陽介, 高田雅美, 木村欣司, 中村佳正,
+        <br><a href="https://swopp.github.io/2023/program/" target="_blank">
+        "LSMR法における条件数を用いた反復計算の打ち切りと高効率の機械学習"</a>,
+        <br>SWoPP2023,
+        <br>共催[SWoPP2023, 電子情報通信学会, 情報処理学会, 日本応用数理学会, xSIG],
+        <br>ハイブリッド, 函館アリーナ, 北海道, 日本,
+        <br>2023.8.3
+      </li>
+
+    <br>
       <li>
         Miho Chiyonobu*, Itsuki Kuboi, Rika Tanaka, Shin-ya Ozawa, Yohsuke Hosoda, Masami Takata, Kinji Kimura and Yoshimasa Nakamura,
         <br><a href="https://www.american-cse.org/static/CSCE23-book-abstracts-paperID.pdf" target="_blank">

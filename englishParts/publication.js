@@ -47,16 +47,28 @@ document.write(`
       
       <!-- <br> -->
       <li>
-      Miho Chiyonobu, Itsuki Kuboi, Rika Tanaka, Shin-ya Ozawa, Yohsuke Hosoda, Masami Takata, Kinji Kimura and Yoshimasa Nakamura,
+        Toshihiro Nishikawa, Itsuki Kuboi, Masami Takata, Kinji Kimura and Yoshimasa,
+          <br>(西川俊央, 久保井五貴, 髙田雅美, 木村欣司, 中村佳正),
+        <br>"Proposal on Computation Method of Precise Minimum Singular Value's Lower Bound to Band Matrix",
+          <br>(帯行列に対する精密な最小特異値の下界の計算法の提案),
+        <br>Joint conference of Hokuriku chapters of Electrical and information Societies 2023,
+        <br>Co-Sponsored[IEEJ, IEICE, ITE, JSMBE, IPSJ, SICE, ASJ, IEIEJ Hokuriku Sections and IEEE Nagoya Section],
+        <br>Online, Kanazawa Institute of Technology, Ishikawa, Japan,
+        <br>2023.9.2
+      </li>
+
+    <br>
+      <li>
+        Miho Chiyonobu, Itsuki Kuboi, Rika Tanaka, Shin-ya Ozawa, Yohsuke Hosoda, Masami Takata, Kinji Kimura and Yoshimasa Nakamura,
             <br>(千代延未帆, 久保井五貴, 田中利佳, 小澤伸也, 細田陽介, 高田雅美, 木村欣司, 中村佳正),
-      <br>"Iterative Censoring and Highly Efficient Machine Learning with Condition Number in LSMR Method",
+        <br>"Iterative Censoring and Highly Efficient Machine Learning with Condition Number in LSMR Method",
             <br>(<a href="http://id.nii.ac.jp/1001/00226805/" target="_blank">
             LSMR法における条件数を用いた反復計算の打ち切りと高効率の機械学習</a>),
-      <br>The Special Interest Group Technical Reports of IPSJ, MPS144,
-      <br>MPS, IPSJ,
-      <br>Tokyo, Japan,
-      <br>2023.7.17
-    </li>
+        <br>The Special Interest Group Technical Reports of IPSJ, MPS144,
+        <br>MPS, IPSJ,
+        <br>Tokyo, Japan,
+        <br>2023.7.17
+      </li>
 
     <br>
       <li>
@@ -117,7 +129,31 @@ document.write(`
       <!-- Insert -->
       
       <!-- <br> -->
+      <li>
+        Toshihiro Nishikawa*, Itsuki Kuboi, Masami Takata, Kinji Kimura and Yoshimasa,
+          <br>(西川俊央*, 久保井五貴, 髙田雅美, 木村欣司, 中村佳正),
+        <br>"Proposal on Computation Method of Precise Minimum Singular Value's Lower Bound to Band Matrix",
+          <br>(帯行列に対する精密な最小特異値の下界の計算法の提案),
+        <br>Joint conference of Hokuriku chapters of Electrical and information Societies 2023,
+        <br>Co-Sponsored[IEEJ, IEICE, ITE, JSMBE, IPSJ, SICE, ASJ, IEIEJ Hokuriku Sections and IEEE Nagoya Section],
+        <br>Online, Kanazawa Institute of Technology, Ishikawa, Japan,
+        <br>2023.9.2
+      </li>
 
+    <br>
+      <li>
+        Miho Chiyonobu*, Itsuki Kuboi, Rika Tanaka, Shin-ya Ozawa, Yohsuke Hosoda, Masami Takata, Kinji Kimura and Yoshimasa Nakamura,
+          <br>(千代延未帆*, 久保井五貴, 田中利佳, 小澤伸也, 細田陽介, 高田雅美, 木村欣司, 中村佳正),
+        <br>"Iterative Censoring and Highly Efficient Machine Learning with Condition Number in LSMR Method",
+          <br>(<a href="https://swopp.github.io/2023/program/" target="_blank">
+          LSMR法における条件数を用いた反復計算の打ち切りと高効率の機械学習</a>),
+        <br>SWoPP(Summer United Workshops on Parallel, Distributed and Cooperative Processing)2023,
+        <br>Co-Sponsored[SWoPP, IEICE, IPSJ, JSIAM and xSIG],
+        <br>Hybrid of Online and HAKODATE ARENA, Hokkaido, Japan,
+        <br>2023.8.3
+      </li>
+
+    <br>
       <li>
         Miho Chiyonobu*, Itsuki Kuboi, Rika Tanaka, Shin-ya Ozawa, Yohsuke Hosoda, Masami Takata, Kinji Kimura and Yoshimasa Nakamura,
         <br><a href="https://www.american-cse.org/static/CSCE23-book-abstracts-paperID.pdf" target="_blank">
@@ -128,7 +164,6 @@ document.write(`
         <br>Luxor Hotel, Las Vegas, USA,
         <br>2023.7.24
       </li>
-
     <br>
       <li>
         Miho Chiyonobu*, Itsuki Kuboi, Rika Tanaka, Shin-ya Ozawa, Yohsuke Hosoda, Masami Takata, Kinji Kimura and Yoshimasa Nakamura,
