@@ -47,6 +47,19 @@ document.write(`
       
       <!-- <br> -->
       <li>
+        Itsuki Kuboi, Toshihiro Nishikawa, Masami Takata, Kinji Kimura and Yoshimasa,
+        <br>(久保井五貴, 西川俊央, 髙田雅美, 木村欣司, 中村佳正),
+        <br>"Proposal for Computing Precise Lower Bounds on Smallest Singular Value for Band Matrix",
+            <br>(<a href="http://id.nii.ac.jp/1001/00227523/" target="_blank">
+            帯行列に対する最小特異値の精密な下界の計算法の提案</a>),
+        <br>The Special Interest Group Technical Reports of IPSJ, MPS145,
+        <br>MPS, IPSJ,
+        <br>Tokyo, Japan,
+        <br>2023.8.31
+      </li>
+
+    <br>
+      <li>
         Toshihiro Nishikawa, Itsuki Kuboi, Masami Takata, Kinji Kimura and Yoshimasa,
           <br>(西川俊央, 久保井五貴, 髙田雅美, 木村欣司, 中村佳正),
         <br>"Proposal on Computation Method of Precise Minimum Singular Value's Lower Bound to Band Matrix",
@@ -129,6 +142,19 @@ document.write(`
       <!-- Insert -->
       
       <!-- <br> -->
+      <li>
+        Itsuki Kuboi, Toshihiro Nishikawa, Masami Takata, Kinji Kimura and Yoshimasa,
+        <br>(久保井五貴, 西川俊央, 髙田雅美, 木村欣司, 中村佳正),
+        <br>"Proposal for Computing Precise Lower Bounds on Smallest Singular Value for Band Matrix",
+          <br>(<a href="https://www.ipsj.or.jp/kenkyukai/event/mps145.html" target="_blank">
+          帯行列に対する最小特異値の精密な下界の計算法の提案</a>),
+        <br>MPS145,
+        <br>MPS, IPSJ,
+        <br>Hybrid of Online and Osaka Metropolitan University,Osaka, Japan,
+        <br>2023.9.7
+      </li>
+
+    <br>
       <li>
         Toshihiro Nishikawa*, Itsuki Kuboi, Masami Takata, Kinji Kimura and Yoshimasa,
           <br>(西川俊央*, 久保井五貴, 髙田雅美, 木村欣司, 中村佳正),
