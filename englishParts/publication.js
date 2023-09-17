@@ -54,7 +54,6 @@ document.write(`
           <br>(帯行列に対する精密な最小特異値の下界の計算法の提案),
         <br>Joint conference of Hokuriku chapters of Electrical and information Societies 2023,
         <br>Co-Sponsored[IEEJ, IEICE, ITE, JSMBE, IPSJ, SICE, ASJ, IEIEJ Hokuriku Sections and IEEE Nagoya Section],
-        <br>Online, Kanazawa Institute of Technology, Ishikawa, Japan,
         <br>2023.9.2
       </li>
       
@@ -128,7 +127,6 @@ document.write(`
               定常反復を用いたデコンボリューション問題の数値計算について</a>),
         <br>Joint conference of Hokuriku chapters of Electrical and information Societies 2019,
         <br>Co-Sponsored[IEEJ, IEICE, ITE, JSMBE, IPSJ, SICE, ASJ, IEIEJ Hokuriku Sections and IEEE Nagoya Section],
-        <br>National Institute of Technology, Ishikawa College, Ishikawa, Japan,
         <br>2019.8.31
       </li>
     </ol>
