@@ -46,6 +46,19 @@ document.write(`
       <!-- Insert -->
       
       <!-- <br> -->
+
+     <li>
+        Toshihiro Nishikawa, Itsuki Kuboi, Masami Takata, Kinji Kimura and Yoshimasa,
+          <br>(西川俊央, 久保井五貴, 髙田雅美, 木村欣司, 中村佳正),
+        <br>"Proposal for Computing Precise Lower Bounds on Smallest Singular Value for Band Matrix",
+          <br>(帯行列に対する精密な最小特異値の下界の計算法の提案),
+        <br>Joint conference of Hokuriku chapters of Electrical and information Societies 2023,
+        <br>Co-Sponsored[IEEJ, IEICE, ITE, JSMBE, IPSJ, SICE, ASJ, IEIEJ Hokuriku Sections and IEEE Nagoya Section],
+        <br>Online, Kanazawa Institute of Technology, Ishikawa, Japan,
+        <br>2023.9.2
+      </li>
+      
+    <br>
       <li>
         Itsuki Kuboi, Toshihiro Nishikawa, Masami Takata, Kinji Kimura and Yoshimasa,
         <br>(久保井五貴, 西川俊央, 髙田雅美, 木村欣司, 中村佳正),
@@ -56,19 +69,7 @@ document.write(`
         <br>MPS, IPSJ,
         <br>Tokyo, Japan,
         <br>2023.8.31
-      </li>
-
-    <br>
-      <li>
-        Toshihiro Nishikawa, Itsuki Kuboi, Masami Takata, Kinji Kimura and Yoshimasa,
-          <br>(西川俊央, 久保井五貴, 髙田雅美, 木村欣司, 中村佳正),
-        <br>"Proposal for Computing Precise Lower Bounds on Smallest Singular Value for Band Matrix",
-          <br>(帯行列に対する精密な最小特異値の下界の計算法の提案),
-        <br>Joint conference of Hokuriku chapters of Electrical and information Societies 2023,
-        <br>Co-Sponsored[IEEJ, IEICE, ITE, JSMBE, IPSJ, SICE, ASJ, IEIEJ Hokuriku Sections and IEEE Nagoya Section],
-        <br>Online, Kanazawa Institute of Technology, Ishikawa, Japan,
-        <br>2023.9.2
-      </li>
+      </li> 
 
     <br>
       <li>
