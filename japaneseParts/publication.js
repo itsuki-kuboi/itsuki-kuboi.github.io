@@ -132,7 +132,6 @@ document.write(`
       <!-- Insert -->
       
       <!-- <br> -->
-      <br>
       <li>
         久保井五貴, 西川俊央, 髙田雅美, 木村欣司, 中村佳正,
         <br><a href="https://www.ipsj.or.jp/kenkyukai/event/mps145.html" target="_blank">
