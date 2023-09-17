@@ -50,7 +50,8 @@ document.write(`
       <!-- <br> -->
       <li>
         西川俊央, 久保井五貴, 髙田雅美, 木村欣司, 中村佳正,
-        <br>"帯行列に対する精密な最小特異値の下界の計算法の提案",
+        <br><a href="http://jhes.jp/2023/doku.php?id=%E8%AC%9B%E6%BC%94%E8%AB%96%E6%96%87%E9%9B%86dl" target="_blank">
+          "帯行列に対する精密な最小特異値の下界の計算法の提案"</a>,
         <br>2023年度電気・情報関係学会北陸支部連合大会,
         <br>共催[IEEJ, IEICE, ITE, JSMBE, IPSJ, SICE, ASJ, IEIEJ各北陸支部, IEEE名古屋支部],
         <br>2023.9.2

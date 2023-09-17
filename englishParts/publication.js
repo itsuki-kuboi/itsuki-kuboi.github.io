@@ -51,7 +51,8 @@ document.write(`
         Toshihiro Nishikawa, Itsuki Kuboi, Masami Takata, Kinji Kimura and Yoshimasa,
           <br>(西川俊央, 久保井五貴, 髙田雅美, 木村欣司, 中村佳正),
         <br>"Proposal for Computing Precise Lower Bounds on Smallest Singular Value for Band Matrix",
-          <br>(帯行列に対する精密な最小特異値の下界の計算法の提案),
+          <br>(<a href="http://jhes.jp/2023/doku.php?id=%E8%AC%9B%E6%BC%94%E8%AB%96%E6%96%87%E9%9B%86dl" target="_blank">
+            帯行列に対する精密な最小特異値の下界の計算法の提案</a>),
         <br>Joint conference of Hokuriku chapters of Electrical and information Societies 2023,
         <br>Co-Sponsored[IEEJ, IEICE, ITE, JSMBE, IPSJ, SICE, ASJ, IEIEJ Hokuriku Sections and IEEE Nagoya Section],
         <br>2023.9.2
