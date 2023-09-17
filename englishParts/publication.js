@@ -87,8 +87,7 @@ document.write(`
     <br>
       <li>
         Miho Chiyonobu, Itsuki Kuboi, Rika Tanaka, Shin-ya Ozawa, Yohsuke Hosoda, Masami Takata, Kinji Kimura and Yoshimasa Nakamura,
-        <br><a href="http://www.sr3.t.u-tokyo.ac.jp/nas/2023/" target="_blank">
-        "From the Condition L-curve to Machine Learning"</a>,
+        <br>"From the Condition L-curve to Machine Learning",
         <br>Numerical Analysis Symposium 2023(49th) [NAS2023],
         <br>Co-Sponsored[NAS2023 and JSIAM],
         <br>2023.7.13
@@ -160,7 +159,9 @@ document.write(`
         Toshihiro Nishikawa*, Itsuki Kuboi, Masami Takata, Kinji Kimura and Yoshimasa,
           <br>(西川俊央*, 久保井五貴, 髙田雅美, 木村欣司, 中村佳正),
         <br>"Proposal for Computing Precise Lower Bounds on Smallest Singular Value for Band Matrix",
-          <br>(帯行列に対する精密な最小特異値の下界の計算法の提案),
+          <br>(<a href="http://jhes.jp/2023/doku.php?id=%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0#ef01_%E3%83%A2%E3%83%87%E3%83%AB%E3%83%BB%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E3%83%BB%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B01" target="_blank">
+            帯行列に対する精密な最小特異値の下界の計算法の提案
+            </a>),
         <br>Joint conference of Hokuriku chapters of Electrical and information Societies 2023,
         <br>Co-Sponsored[IEEJ, IEICE, ITE, JSMBE, IPSJ, SICE, ASJ, IEIEJ Hokuriku Sections and IEEE Nagoya Section],
         <br>Online, Kanazawa Institute of Technology, Ishikawa, Japan,
