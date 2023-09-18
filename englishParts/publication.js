@@ -50,7 +50,7 @@ document.write(`
      <li>
         Toshihiro Nishikawa, Itsuki Kuboi, Masami Takata, Kinji Kimura and Yoshimasa,
           <br>(西川俊央, 久保井五貴, 髙田雅美, 木村欣司, 中村佳正),
-        <br>"Proposal for Computing Precise Lower Bounds on Smallest Singular Value for Band Matrix",
+        <br>"Proposal for Computing Lower Bounds on Precise Smallest Singular Value for Band Matrix",
           <br>(<a href="http://jhes.jp/2023/doku.php?id=%E8%AC%9B%E6%BC%94%E8%AB%96%E6%96%87%E9%9B%86dl" target="_blank">
             帯行列に対する精密な最小特異値の下界の計算法の提案</a>),
         <br>Joint conference of Hokuriku chapters of Electrical and information Societies 2023,
@@ -124,8 +124,7 @@ document.write(`
         Itsuki Kuboi, Yohsuke Hosoda and Shin-ya Ozawa,
               <br>(久保井五貴, 細田陽介, 小澤伸也),
         <br>"On a Numerical Computation on Deconvolution Problem using Steady Iteration",
-              <br>(<a href="http://2019.jhes.jp/files/program.pdf" target="_blank">
-              定常反復を用いたデコンボリューション問題の数値計算について</a>),
+              <br>(定常反復を用いたデコンボリューション問題の数値計算について),
         <br>Joint conference of Hokuriku chapters of Electrical and information Societies 2019,
         <br>Co-Sponsored[IEEJ, IEICE, ITE, JSMBE, IPSJ, SICE, ASJ, IEIEJ Hokuriku Sections and IEEE Nagoya Section],
         <br>2019.8.31
@@ -157,7 +156,7 @@ document.write(`
       <li>
         Toshihiro Nishikawa*, Itsuki Kuboi, Masami Takata, Kinji Kimura and Yoshimasa,
           <br>(西川俊央*, 久保井五貴, 髙田雅美, 木村欣司, 中村佳正),
-        <br>"Proposal for Computing Precise Lower Bounds on Smallest Singular Value for Band Matrix",
+        <br>"Proposal for Computing Lower Bounds on Precise Smallest Singular Value for Band Matrix",
           <br>(<a href="http://jhes.jp/2023/doku.php?id=%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0#ef01_%E3%83%A2%E3%83%87%E3%83%AB%E3%83%BB%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E3%83%BB%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B01" target="_blank">
             帯行列に対する精密な最小特異値の下界の計算法の提案
             </a>),

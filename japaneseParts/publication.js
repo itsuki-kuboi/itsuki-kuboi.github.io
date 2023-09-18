@@ -114,8 +114,7 @@ document.write(`
       <br>
       <li>
         久保井五貴, 細田陽介, 小澤伸也,
-        <br><a href="http://2019.jhes.jp/files/program.pdf" target="_blank">
-              "定常反復を用いたデコンボリューション問題の数値計算について"</a>,
+        <br>"定常反復を用いたデコンボリューション問題の数値計算について",
         <br>2019年度電気・情報関係学会北陸支部連合大会,
         <br>共催[IEEJ, IEICE, ITE, JSMBE, IPSJ, SICE, ASJ, IEIEJ各北陸支部, IEEE名古屋支部],
         <br>2019.8.31
