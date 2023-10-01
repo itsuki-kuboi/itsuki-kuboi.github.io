@@ -12,7 +12,9 @@ document.write(`
         <br><b>修士（工学）</b>,
         <br>学位論文 : <a href="https://www.eng.u-fukui.ac.jp/wp-content/uploads/MastarThesis2020.html" target="_blank">
           "LSMR法を利用したデコンボリューション問題の解法におけるL-curveの検討"</a>,
-        <br>指導教員 : 細田陽介教授・他多数,
+        <br>指導教員 : <a href="https://www.u-fukui-kogyokai.com/pdfs/recent-conditions-2020.pdf" target="_blank">
+          細田陽介教授
+          </a>・他多数,
         <br>GPA : 4.00 / 4.00,
         </li>
       
