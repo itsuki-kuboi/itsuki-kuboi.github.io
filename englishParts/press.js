@@ -25,7 +25,7 @@ document.write(`
   <br>
   <li>
   2015.1.4
-  <br><a href="http://www.city.takashima.lg.jp/www/contents/1420701887416/index.html" target="_blank">Mayor's WEB Office Dairy</a>,
+  <br><a href="https://warp.da.ndl.go.jp/collections/info:ndljp/pid/12560506/www.city.takashima.lg.jp/www/contents/1420701887416/index.html" target="_blank">Mayor's WEB Office Dairy</a>,
   <br>Pressed by Takashima City, Shiga Prefecture, Japan
   <br> - I appear on first picture of its website.
   </li>

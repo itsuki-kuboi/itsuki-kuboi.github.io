@@ -25,9 +25,9 @@ document.write(`
   <br>
   <li>
   2015.1.4
-  <br><a href="http://www.city.takashima.lg.jp/www/contents/1420701887416/index.html" target="_blank">高島市WEB市長室</a>,
+  <br><a href="https://warp.da.ndl.go.jp/collections/info:ndljp/pid/12560506/www.city.takashima.lg.jp/www/contents/1420701887416/index.html" target="_blank">高島市WEB市長室</a>,
   <br>滋賀県高島市
   </li>
 
 </ul>
-`);
+`)
