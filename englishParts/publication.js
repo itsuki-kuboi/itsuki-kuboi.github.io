@@ -48,7 +48,7 @@ document.write(`
       <!-- <br> -->
 
      <li>
-        Toshihiro Nishikawa, Itsuki Kuboi, Masami Takata, Kinji Kimura and Yoshimasa,
+        Toshio Nishikawa, Itsuki Kuboi, Masami Takata, Kinji Kimura and Yoshimasa,
           <br>(西川俊央, 久保井五貴, 髙田雅美, 木村欣司, 中村佳正),
         <br>"Proposal for Computing Lower Bounds on Precise Smallest Singular Value for Band Matrix",
           <br>(<a href="http://jhes.jp/2023/doku.php?id=%E8%AC%9B%E6%BC%94%E8%AB%96%E6%96%87%E9%9B%86dl" target="_blank">
@@ -60,7 +60,7 @@ document.write(`
       
     <br>
       <li>
-        Itsuki Kuboi, Toshihiro Nishikawa, Masami Takata, Kinji Kimura and Yoshimasa,
+        Itsuki Kuboi, Toshio Nishikawa, Masami Takata, Kinji Kimura and Yoshimasa,
         <br>(久保井五貴, 西川俊央, 髙田雅美, 木村欣司, 中村佳正),
         <br>"Proposal for Computing Precise Lower Bounds on Smallest Singular Value for Band Matrix",
             <br>(<a href="http://id.nii.ac.jp/1001/00227523/" target="_blank">
@@ -141,7 +141,7 @@ document.write(`
       
       <!-- <br> -->
       <li>
-        Itsuki Kuboi, Toshihiro Nishikawa, Masami Takata, Kinji Kimura and Yoshimasa,
+        Itsuki Kuboi, Toshio Nishikawa, Masami Takata, Kinji Kimura and Yoshimasa,
         <br>(久保井五貴, 西川俊央, 髙田雅美, 木村欣司, 中村佳正),
         <br>"Proposal for Computing Precise Lower Bounds on Smallest Singular Value for Band Matrix",
           <br>(<a href="https://www.ipsj.or.jp/kenkyukai/event/mps145.html" target="_blank">
@@ -154,7 +154,7 @@ document.write(`
 
     <br>
       <li>
-        Toshihiro Nishikawa*, Itsuki Kuboi, Masami Takata, Kinji Kimura and Yoshimasa,
+        Toshio Nishikawa*, Itsuki Kuboi, Masami Takata, Kinji Kimura and Yoshimasa,
           <br>(西川俊央*, 久保井五貴, 髙田雅美, 木村欣司, 中村佳正),
         <br>"Proposal for Computing Lower Bounds on Precise Smallest Singular Value for Band Matrix",
           <br>(<a href="http://jhes.jp/2023/doku.php?id=%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0#ef01_%E3%83%A2%E3%83%87%E3%83%AB%E3%83%BB%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E3%83%BB%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B01" target="_blank">
