@@ -29,7 +29,6 @@ document.write(`
   <br>Fukui Murata Manufacturing. Co., Ltd.,
   <br>Fukui, Japan
   <br> - I was referred by University of Fukui.
-  <br>URL:
   </li>  
   </ul>
 
