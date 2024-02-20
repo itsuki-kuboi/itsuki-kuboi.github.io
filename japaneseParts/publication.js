@@ -58,7 +58,7 @@ document.write(`
         <br>2023年度電気・情報関係学会北陸支部連合大会,
         <!-- <br>共催[IEEJ, IEICE, ITE, JSMBE, IPSJ, SICE, ASJ, IEIEJ各北陸支部, IEEE名古屋支部], -->
         <br>2023.9.2,
-        <br><a href="http://jhes.jp/2023/doku.php?id=%E8%AC%9B%E6%BC%94%E8%AB%96%E6%96%87%E9%9B%86dl" target="_blank">URL:jhes.jp/2023/doku.php?id=講演論文集dl</a>
+        <br>URL:<a href="http://jhes.jp/2023/doku.php?id=%E8%AC%9B%E6%BC%94%E8%AB%96%E6%96%87%E9%9B%86dl" target="_blank">jhes.jp/2023/doku.php?id=講演論文集dl</a>
       </li>
 
 
@@ -71,7 +71,7 @@ document.write(`
         <!-- <br>MPS研究会, 情報処理学会, -->
         <!-- <br>東京, 日本, -->
         <br>2023.8.31,
-        <br><a href="http://id.nii.ac.jp/1001/00227523/" target="_blank">DOI:id.nii.ac.jp/1001/00227523</a>
+        <br>DOI:<a href="http://id.nii.ac.jp/1001/00227523/" target="_blank">id.nii.ac.jp/1001/00227523</a>
       </li>
 
     <br>
@@ -83,7 +83,7 @@ document.write(`
         <!-- <br>MPS研究会, 情報処理学会, -->
         <!-- <br>東京, 日本, -->
         <br>2023.7.17,
-        <br><a href="http://id.nii.ac.jp/1001/00226805/" target="_blank">DOI:id.nii.ac.jp/1001/00226805</a>
+        <br>DOI:<a href="http://id.nii.ac.jp/1001/00226805/" target="_blank">id.nii.ac.jp/1001/00226805</a>
       </li>
 
     <br>
@@ -104,7 +104,7 @@ document.write(`
         <!-- <br>MPS研究会, 情報処理学会, -->
         <!-- <br>東京, 日本, -->
         <br>2023.3.2,
-        <br><a href="http://id.nii.ac.jp/1001/00225107/" target="_blank">DOI:id.nii.ac.jp/1001/00225107</a>
+        <br>DOI:<a href="http://id.nii.ac.jp/1001/00225107/" target="_blank">id.nii.ac.jp/1001/00225107</a>
       </li>
 
       <br>
@@ -116,7 +116,7 @@ document.write(`
         <!-- <br>MPS研究会, 情報処理学会, -->
         <!-- <br>東京, 日本, -->
         <br>2022.7.19,
-        <br><a href="http://id.nii.ac.jp/1001/00218822/" target="_blank">DOI:id.nii.ac.jp/1001/00218822</a>
+        <br>DOI:<a href="http://id.nii.ac.jp/1001/00218822/" target="_blank">id.nii.ac.jp/1001/00218822</a>
       </li>
 
       <br>
@@ -145,7 +145,7 @@ document.write(`
         <br>MPS, IPSJ,
         <br>ハイブリッド, 大阪公立大学, 大阪, 日本,
         <br>2023.9.7,
-        <br><a href="https://www.ipsj.or.jp/kenkyukai/event/mps145.html" target="_blank">URL:https://www.ipsj.or.jp/kenkyukai/event/mps145.html</a>
+        <br>URL:<a href="https://www.ipsj.or.jp/kenkyukai/event/mps145.html" target="_blank">https://www.ipsj.or.jp/kenkyukai/event/mps145.html</a>
       </li>
 
     <br>
@@ -156,8 +156,8 @@ document.write(`
         <br>共催[IEEJ, IEICE, ITE, JSMBE, IPSJ, SICE, ASJ, IEIEJ各北陸支部, IEEE名古屋支部],
         <br>オンライン,金沢工業大学, 石川, 日本,
         <br>2023.9.2,
-        <br><a href="http://jhes.jp/2023/doku.php?id=%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0#ef01_%E3%83%A2%E3%83%87%E3%83%AB%E3%83%BB%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E3%83%BB%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B01" target="_blank">
-        URL:jhes.jp/2023/doku.php?id=プログラム#ef01_モデル・アルゴリズム・プログラミング1
+        <br>URL:<a href="http://jhes.jp/2023/doku.php?id=%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0#ef01_%E3%83%A2%E3%83%87%E3%83%AB%E3%83%BB%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E3%83%BB%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B01" target="_blank">
+        jhes.jp/2023/doku.php?id=プログラム#ef01_モデル・アルゴリズム・プログラミング1
         </a>
       </li>
 
@@ -169,8 +169,8 @@ document.write(`
         <br>共催[SWoPP2023, 電子情報通信学会, 情報処理学会, 日本応用数理学会, xSIG],
         <br>ハイブリッド, 函館アリーナ, 北海道, 日本,
         <br>2023.8.3,
-        <br><a href="https://swopp.github.io/2023/program/" target="_blank">
-        URL:https://swopp.github.io/2023/program/</a>
+        <br>URL:<a href="https://swopp.github.io/2023/program/" target="_blank">
+        https://swopp.github.io/2023/program/</a>
       </li>
 
     <br>
@@ -182,7 +182,7 @@ document.write(`
       <br>American Council on Science and Education,
       <br>Luxor Hotel, Las Vegas, USA,
       <br>2023.7.24,
-      <br><a href="https://www.american-cse.org/static/CSCE23-book-abstracts-paperID.pdf" target="_blank">URL:https://www.american-cse.org/static/CSCE23-book-abstracts-paperID.pdf</a>
+      <br>URL:<a href="https://www.american-cse.org/static/CSCE23-book-abstracts-paperID.pdf" target="_blank">https://www.american-cse.org/static/CSCE23-book-abstracts-paperID.pdf</a>
     </li>
 
     <br>
@@ -193,7 +193,7 @@ document.write(`
         <br>MPS, IPSJ,
         <br>Luxor Hotel, Las Vegas, USA,
         <br>2023.7.24,
-        <br><a href="https://www.ipsj.or.jp/kenkyukai/event/mps144.html" target="_blank">URL:https://www.ipsj.or.jp/kenkyukai/event/mps144.html</a>
+        <br>URL:<a href="https://www.ipsj.or.jp/kenkyukai/event/mps144.html" target="_blank">https://www.ipsj.or.jp/kenkyukai/event/mps144.html</a>
       </li>
 
     <br>
@@ -204,7 +204,7 @@ document.write(`
         <br>共催[NAS2023, 日本応用数理学会],
         <br>岩手大学, 岩手, 日本,
         <br>2023.7.13,
-        <br><a href="http://www.sr3.t.u-tokyo.ac.jp/nas/2023/" target="_blank">URL:http://www.sr3.t.u-tokyo.ac.jp/nas/2023/</a>
+        <br>URL:<a href="http://www.sr3.t.u-tokyo.ac.jp/nas/2023/" target="_blank">http://www.sr3.t.u-tokyo.ac.jp/nas/2023/</a>
       </li>
 
       <br>
@@ -215,7 +215,7 @@ document.write(`
         <br>MPS研究会, 情報処理学会,
         <br>北陸先端技術大学院大学, 石川, 日本,
         <br>2023.3.10,
-        <br><a href="https://www.ipsj.or.jp/kenkyukai/event/mps142bio73.html" target="_blank">URL:https://www.ipsj.or.jp/kenkyukai/event/mps142bio73.html</a>
+        <br>URL:<a href="https://www.ipsj.or.jp/kenkyukai/event/mps142bio73.html" target="_blank">https://www.ipsj.or.jp/kenkyukai/event/mps142bio73.html</a>
       </li>
 
       <br>
@@ -238,7 +238,7 @@ document.write(`
       <br>American Council on Science and Education,
       <br>Luxor Hotel, Las Vegas, USA,
       <br>2022.7.25,
-      <br><a href="https://www.american-cse.org/static/CSCE22-book-abstracts-printing.pdf" target="_blank">URL:https://www.american-cse.org/static/CSCE22-book-abstracts-printing.pdf</a>
+      <br>URL:<a href="https://www.american-cse.org/static/CSCE22-book-abstracts-printing.pdf" target="_blank">https://www.american-cse.org/static/CSCE22-book-abstracts-printing.pdf</a>
     </li>
 
       <br>
@@ -249,7 +249,7 @@ document.write(`
         <br>MPS研究会, 情報処理学会,
         <br>Luxor Hotel, Las Vegas, USA,
         <br>2022.7.25,
-        <br><a href="https://www.ipsj.or.jp/kenkyukai/event/mps139.html" target="_blank">URL:https://www.ipsj.or.jp/kenkyukai/event/mps139.html</a>
+        <br>URL:<a href="https://www.ipsj.or.jp/kenkyukai/event/mps139.html" target="_blank">https://www.ipsj.or.jp/kenkyukai/event/mps139.html</a>
       </li>
 
       <br>
@@ -260,7 +260,7 @@ document.write(`
         <br>金沢大学理工研究域数物科学系計算数理講座, 石川, 日本,
         <br>オンライン, 日本,
         <br>2021.3.20,
-        <br><a href="http://air.s.kanazawa-u.ac.jp/~ohara/risacon21.html" target="_blank">URL:http://air.s.kanazawa-u.ac.jp/~ohara/risacon21.html</a>
+        <br>URL:<a href="http://air.s.kanazawa-u.ac.jp/~ohara/risacon21.html" target="_blank">http://air.s.kanazawa-u.ac.jp/~ohara/risacon21.html</a>
       </li>
 
       <br>
@@ -271,7 +271,7 @@ document.write(`
         <br>日本応用数理学会,
         <br>オンライン, 日本,
         <br>2021.3.4,
-        <br><a href="http://union2021.jsiam.org/program#4863" target="_blank">URL:http://union2021.jsiam.org/program#4863</a>
+        <br>URL:<a href="http://union2021.jsiam.org/program#4863" target="_blank">http://union2021.jsiam.org/program#4863</a>
       </li>
 
       <br>
@@ -282,7 +282,7 @@ document.write(`
         <br>共催[IEEJ, IEICE, ITE, JSMBE, IPSJ, SICE, ASJ, IEIEJ各北陸支部, IEEE名古屋支部],
         <br>石川工業高等専門学校, 石川, 日本,
         <br>2019.8.31,
-        <br><a href="http://2019.jhes.jp/files/program.pdf" target="_blank">URL:http://2019.jhes.jp/files/program.pdf</a>
+        <br>URL:<a href="http://2019.jhes.jp/files/program.pdf" target="_blank">http://2019.jhes.jp/files/program.pdf</a>
       </li>
     </ol>
   </li>

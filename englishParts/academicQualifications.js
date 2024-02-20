@@ -14,8 +14,8 @@ document.write(`
         <br>(LSMR法を利用したデコンボリューション問題の解法におけるL-curveの検討),
         <br>Supervisor : Professor Yohsuke HOSODA et al.,
         <br>GPA : 4.00 / 4.00
-        <br><a href="https://www.u-fukui-kogyokai.com/pdfs/recent-conditions-2020.pdf" target="_blank">URL:https://www.u-fukui-kogyokai.com/pdfs/recent-conditions-2020.pdf</a>
-        <br><a href="https://www.eng.u-fukui.ac.jp/wp-content/uploads/MastarThesis2020.html" target="_blank">URL:https://www.eng.u-fukui.ac.jp/wp-content/uploads/MastarThesis2020.html</a>
+        <br>URL:<a href="https://www.u-fukui-kogyokai.com/pdfs/recent-conditions-2020.pdf" target="_blank">https://www.u-fukui-kogyokai.com/pdfs/recent-conditions-2020.pdf</a>
+        <br>URL:<a href="https://www.eng.u-fukui.ac.jp/wp-content/uploads/MastarThesis2020.html" target="_blank">https://www.eng.u-fukui.ac.jp/wp-content/uploads/MastarThesis2020.html</a>
         </li>
       
         <li>
@@ -24,7 +24,7 @@ document.write(`
         <br>Studied management lectures and went to study abroad,
         <br>Assigned to project on regional revitalization funded by Fukui Prefecture,
         <br>Supervisor : Professor Takuji TAKEMOTO, Professor Toshihiro INOUE and Assistant Professor Sachiyo KAWAKAMI
-        <br><a href="https://www.eng.u-fukui.ac.jp/wp-content/uploads/tim_course_2020.pdf" target="_blank">URL:https://www.eng.u-fukui.ac.jp/wp-content/uploads/tim_course_2020.pdf</a>
+        <br>URL:<a href="https://www.eng.u-fukui.ac.jp/wp-content/uploads/tim_course_2020.pdf" target="_blank">https://www.eng.u-fukui.ac.jp/wp-content/uploads/tim_course_2020.pdf</a>
         </li>
       </ul>
       </li>
@@ -69,7 +69,7 @@ document.write(`
         <li>2014.1.12
         <br><b>Kyoto-Shiga-Tokai Area National Team Member</b>, LT/DT, American Football
         <br> - NEW YEAR BOWL III(2014) at Amino Vital Field, Tokyo
-        <br><a href="http://kantokoukou-football.com/cms/index.php?page_id=27" target="_blank">URL:http://kantokoukou-football.com/cms/index.php?page_id=27</a>
+        <br>URL:<a href="http://kantokoukou-football.com/cms/index.php?page_id=27" target="_blank">http://kantokoukou-football.com/cms/index.php?page_id=27</a>
         </li>
         </ul>
       </li>

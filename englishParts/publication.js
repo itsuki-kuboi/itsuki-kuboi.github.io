@@ -59,7 +59,7 @@ document.write(`
         <br>Joint conference of Hokuriku chapters of Electrical and information Societies 2023,
         <!-- <br>Co-Sponsored[IEEJ, IEICE, ITE, JSMBE, IPSJ, SICE, ASJ, IEIEJ Hokuriku Sections and IEEE Nagoya Section], -->
         <br>2023.9.2,
-        <br><a href="http://jhes.jp/2023/doku.php?id=%E8%AC%9B%E6%BC%94%E8%AB%96%E6%96%87%E9%9B%86dl" target="_blank">URL:jhes.jp/2023/doku.php?id=講演論文集dl</a>
+        <br>URL:<a href="http://jhes.jp/2023/doku.php?id=%E8%AC%9B%E6%BC%94%E8%AB%96%E6%96%87%E9%9B%86dl" target="_blank">jhes.jp/2023/doku.php?id=講演論文集dl</a>
       </li>
       
     <br>
@@ -72,7 +72,7 @@ document.write(`
         <!-- <br>MPS, IPSJ, -->
         <!-- <br>Tokyo, Japan, -->
         <br>2023.8.31,
-        <br><a href="http://id.nii.ac.jp/1001/00227523/" target="_blank">DOI:id.nii.ac.jp/1001/00227523</a>
+        <br>DOI:<a href="http://id.nii.ac.jp/1001/00227523/" target="_blank">id.nii.ac.jp/1001/00227523</a>
       </li> 
 
     <br>
@@ -85,7 +85,7 @@ document.write(`
         <!-- <br>MPS, IPSJ, -->
         <!-- <br>Tokyo, Japan, -->
         <br>2023.7.17,
-        <br><a href="http://id.nii.ac.jp/1001/00226805/" target="_blank">DOI:id.nii.ac.jp/1001/00226805</a>
+        <br>DOI:<a href="http://id.nii.ac.jp/1001/00226805/" target="_blank">id.nii.ac.jp/1001/00226805</a>
       </li>
 
     <br>
@@ -107,7 +107,7 @@ document.write(`
         <!-- <br>MPS, IPSJ, -->
         <!-- <br>Tokyo, Japan, -->
         <br>2023.3.2,
-        <br><a href="http://id.nii.ac.jp/1001/00225107/" target="_blank">DOI:id.nii.ac.jp/1001/00225107</a>
+        <br>DOI:<a href="http://id.nii.ac.jp/1001/00225107/" target="_blank">id.nii.ac.jp/1001/00225107</a>
       </li>
 
       <br>
@@ -120,7 +120,7 @@ document.write(`
         <!-- <br>MPS, IPSJ, -->
         <!-- <br>Tokyo, Japan, -->
         <br>2022.7.19,
-        <br><a href="http://id.nii.ac.jp/1001/00218822/" target="_blank">DOI:id.nii.ac.jp/1001/00218822</a>
+        <br>DOI:<a href="http://id.nii.ac.jp/1001/00218822/" target="_blank">id.nii.ac.jp/1001/00218822</a>
       </li>
 
       <br>
@@ -153,7 +153,7 @@ document.write(`
         <br>MPS, IPSJ,
         <br>Hybrid of Online and Osaka Metropolitan University,Osaka, Japan,
         <br>2023.9.7,
-        <br><a href="https://www.ipsj.or.jp/kenkyukai/event/mps145.html" target="_blank">URL:https://www.ipsj.or.jp/kenkyukai/event/mps145.html</a>
+        <br>URL:<a href="https://www.ipsj.or.jp/kenkyukai/event/mps145.html" target="_blank">https://www.ipsj.or.jp/kenkyukai/event/mps145.html</a>
       </li>
 
     <br>
@@ -166,8 +166,8 @@ document.write(`
         <br>Co-Sponsored[IEEJ, IEICE, ITE, JSMBE, IPSJ, SICE, ASJ, IEIEJ Hokuriku Sections and IEEE Nagoya Section],
         <br>Online, Kanazawa Institute of Technology, Ishikawa, Japan,
         <br>2023.9.2,
-        <br><a href="http://jhes.jp/2023/doku.php?id=%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0#ef01_%E3%83%A2%E3%83%87%E3%83%AB%E3%83%BB%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E3%83%BB%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B01" target="_blank">
-        URL:jhes.jp/2023/doku.php?id=プログラム#ef01_モデル・アルゴリズム・プログラミング1
+        <br>URL:<a href="http://jhes.jp/2023/doku.php?id=%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0#ef01_%E3%83%A2%E3%83%87%E3%83%AB%E3%83%BB%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E3%83%BB%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B01" target="_blank">
+        jhes.jp/2023/doku.php?id=プログラム#ef01_モデル・アルゴリズム・プログラミング1
         </a>
       </li>
 
@@ -181,8 +181,8 @@ document.write(`
         <br>Co-Sponsored[SWoPP, IEICE, IPSJ, JSIAM and xSIG],
         <br>Hybrid of Online and HAKODATE ARENA, Hokkaido, Japan,
         <br>2023.8.3,
-        <br><a href="https://swopp.github.io/2023/program/" target="_blank">
-        URL:https://swopp.github.io/2023/program/</a>
+        <br>URL:<a href="https://swopp.github.io/2023/program/" target="_blank">
+        https://swopp.github.io/2023/program/</a>
       </li>
 
     <br>
@@ -194,7 +194,7 @@ document.write(`
         <br>American Council on Science and Education,
         <br>Luxor Hotel, Las Vegas, USA,
         <br>2023.7.24,
-        <br><a href="https://www.american-cse.org/static/CSCE23-book-abstracts-paperID.pdf" target="_blank">URL:https://www.american-cse.org/static/CSCE23-book-abstracts-paperID.pdf</a>
+        <br>URL:<a href="https://www.american-cse.org/static/CSCE23-book-abstracts-paperID.pdf" target="_blank">https://www.american-cse.org/static/CSCE23-book-abstracts-paperID.pdf</a>
       </li>
 
     <br>
@@ -207,7 +207,7 @@ document.write(`
         <br>MPS, IPSJ,
         <br>Luxor Hotel, Las Vegas, USA,
         <br>2023.7.24,
-        <br><a href="https://www.ipsj.or.jp/kenkyukai/event/mps144.html" target="_blank">URL:https://www.ipsj.or.jp/kenkyukai/event/mps144.html</a>
+        <br>URL:<a href="https://www.ipsj.or.jp/kenkyukai/event/mps144.html" target="_blank">https://www.ipsj.or.jp/kenkyukai/event/mps144.html</a>
       </li>
 
     <br>
@@ -218,7 +218,7 @@ document.write(`
         <br>Co-Sponsored[NAS2023 and JSIAM],
         <br>Iwate University, Iwate, Japan,
         <br>2023.7.13,
-        <br><a href="http://www.sr3.t.u-tokyo.ac.jp/nas/2023/" target="_blank">URL:http://www.sr3.t.u-tokyo.ac.jp/nas/2023/</a>
+        <br>URL:<a href="http://www.sr3.t.u-tokyo.ac.jp/nas/2023/" target="_blank">http://www.sr3.t.u-tokyo.ac.jp/nas/2023/</a>
       </li>
 
     <br>
@@ -231,7 +231,7 @@ document.write(`
         <br>MPS, IPSJ,
         <br>JAIST, Ishikawa, Japan,
         <br>2023.3.10,
-        <br><a href="https://www.ipsj.or.jp/kenkyukai/event/mps142bio73.html" target="_blank">URL:https://www.ipsj.or.jp/kenkyukai/event/mps142bio73.html</a>
+        <br>URL:<a href="https://www.ipsj.or.jp/kenkyukai/event/mps142bio73.html" target="_blank">https://www.ipsj.or.jp/kenkyukai/event/mps142bio73.html</a>
       </li>
 
     <br>
@@ -256,7 +256,7 @@ document.write(`
         <br>American Council on Science and Education,
         <br>Luxor Hotel, Las Vegas, USA,
         <br>2022.7.25,
-        <br><a href="https://www.american-cse.org/static/CSCE22-book-abstracts-printing.pdf" target="_blank">URL:https://www.american-cse.org/static/CSCE22-book-abstracts-printing.pdf</a>
+        <br>URL:<a href="https://www.american-cse.org/static/CSCE22-book-abstracts-printing.pdf" target="_blank">https://www.american-cse.org/static/CSCE22-book-abstracts-printing.pdf</a>
       </li>
 
       <br>
@@ -269,7 +269,7 @@ document.write(`
         <br>MPS, IPSJ,
         <br>Luxor Hotel, Las Vegas, USA,
         <br>2022.7.25,
-        <br><a href="https://www.ipsj.or.jp/kenkyukai/event/mps139.html" target="_blank">URL:https://www.ipsj.or.jp/kenkyukai/event/mps139.html</a>
+        <br>URL:<a href="https://www.ipsj.or.jp/kenkyukai/event/mps139.html" target="_blank">https://www.ipsj.or.jp/kenkyukai/event/mps139.html</a>
       </li>
 
       <br>
@@ -282,7 +282,7 @@ document.write(`
         <br>Kanazawa University, Ishikawa , Japan,
         <br>Online, Japan,
         <br>2021.3.20,
-        <br><a href="http://air.s.kanazawa-u.ac.jp/~ohara/risacon21.html" target="_blank">URL:http://air.s.kanazawa-u.ac.jp/~ohara/risacon21.html</a>
+        <br>URL:<a href="http://air.s.kanazawa-u.ac.jp/~ohara/risacon21.html" target="_blank">http://air.s.kanazawa-u.ac.jp/~ohara/risacon21.html</a>
       </li>
 
       <br>
@@ -295,7 +295,7 @@ document.write(`
         <br>JSIAM,
         <br>Online, Japan,
         <br>2021.3.4,
-        <br><a href="http://union2021.jsiam.org/program#4863" target="_blank">URL:http://union2021.jsiam.org/program#4863</a>
+        <br>URL:<a href="http://union2021.jsiam.org/program#4863" target="_blank">http://union2021.jsiam.org/program#4863</a>
       </li>
 
       <br>
@@ -308,7 +308,7 @@ document.write(`
         <br>Co-Sponsored[IEEJ, IEICE, ITE, JSMBE, IPSJ, SICE, ASJ, IEIEJs, IEEE Hokuriku Sections and IEEE Nagoya Section],
         <br>National Institute of Technology, Ishikawa College, Ishikawa, Japan,
         <br>2019.8.31,
-        <br><a href="http://2019.jhes.jp/files/program.pdf" target="_blank">URL:http://2019.jhes.jp/files/program.pdf</a>
+        <br>URL:<a href="http://2019.jhes.jp/files/program.pdf" target="_blank">http://2019.jhes.jp/files/program.pdf</a>
       </li>
     </ol>
   </li>
