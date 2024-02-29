@@ -145,6 +145,23 @@ document.write(`
       
       <!-- <br> -->
       <li>
+        Miho Chiyonobu*, Itsuki Kuboi, Rika Tanaka, Shin-ya Ozawa, Yohsuke Hosoda, Masami Takata, Kinji Kimura and Yoshimasa Nakamura,
+          <br>(千代延未帆*, 久保井五貴, 田中利佳, 小澤伸也, 細田陽介, 高田雅美, 木村欣司, 中村佳正),
+        <br>"Iterative Censoring and Highly Efficient Machine Learning with Condition Number in LSMR Method",
+          <br>(LSMR法における条件数を用いた反復計算の打ち切りと高効率の機械学習),
+        <br>The 21th Computational Mathematics Workshop,
+        <br>(第21回計算数学研究会),
+        <br>Computational Mathematics Workshop Group,
+        <br>(計算数学研究会),
+        <br>Hybrid of Online and Osaka Seikei University, Osaka, Japan,
+        <br>2023.12.10,
+        <br>URL:<a href="https://sites.google.com/view/keisansugaku/%E3%81%93%E3%82%8C%E3%81%BE%E3%81%A7%E3%81%AE%E7%A0%94%E7%A9%B6%E4%BC%9A/%E7%AC%AC21%E5%9B%9E2023" target="_blank">
+        https://sites.google.com/view/keisansugaku/これまでの研究会/第21回2023</a>
+      </li>
+
+    <br>
+
+      <li>
         Itsuki Kuboi, Toshio Nishikawa, Masami Takata, Kinji Kimura and Yoshimasa,
         <br>(久保井五貴, 西川俊央, 髙田雅美, 木村欣司*, 中村佳正),
         <br>"Proposal for Computing Precise Lower Bounds on Smallest Singular Value for Band Matrix",
@@ -240,11 +257,14 @@ document.write(`
               <br>(田中利佳*, 久保井五貴, 小澤伸也, 細田陽介, 高田雅美, 木村欣司, 中村佳正),
         <br>"On a Machine Learning and Stopping Iteration using Condition Number on LSMR Method"</a>,
               <br>(LSMR法における条件数を用いた反復の打ち切りと機械学習について),
-        <br>The 20th Computational Mathematics  Workshop,
+        <br>The 20th Computational Mathematics Workshop,
         <br>(第20回計算数学研究会),
-        <br><a href="https://www-is.amp.i.kyoto-u.ac.jp/lab/cmc/" target="_blank">Applied Mathematical Analysis Laboratory</a>, Kyoto University,
+        <br>Computational Mathematics Workshop Group,
+        <br>(計算数学研究会),
         <br>Online, Japan,
-        <br>2022.8.25
+        <br>2022.8.25,
+        <br>URL:<a href="https://sites.google.com/view/keisansugaku/%E3%81%93%E3%82%8C%E3%81%BE%E3%81%A7%E3%81%AE%E7%A0%94%E7%A9%B6%E4%BC%9A/%E7%AC%AC20%E5%9B%9E2022" target="_blank">
+        https://sites.google.com/view/keisansugaku/これまでの研究会/第20回2022</a>
       </li>
 
       <br>

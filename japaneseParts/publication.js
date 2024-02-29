@@ -138,6 +138,18 @@ document.write(`
       <!-- Insert -->
       
       <!-- <br> -->
+
+      <li>
+        千代延未帆*, 久保井五貴, 田中利佳, 小澤伸也, 細田陽介, 高田雅美, 木村欣司, 中村佳正,
+        <br>"LSMR法における条件数を用いた反復計算の打ち切りと高効率の機械学習",
+        <br>第20回計算数学研究会,
+        <br>計算数学研究会,
+        <br>ハイブリッド, 大阪成蹊大学, 大阪, 日本,
+        <br>2023.12.10,
+        <br>URL:<a href="https://sites.google.com/view/keisansugaku/%E3%81%93%E3%82%8C%E3%81%BE%E3%81%A7%E3%81%AE%E7%A0%94%E7%A9%B6%E4%BC%9A/%E7%AC%AC21%E5%9B%9E2023" target="_blank">
+        https://sites.google.com/view/keisansugaku/これまでの研究会/第21回2023</a>
+      </li>
+      <br>
       <li>
         久保井五貴, 西川俊央, 髙田雅美, 木村欣司*, 中村佳正,
         <br>"帯行列に対する最小特異値の精密な下界の計算法の提案",
@@ -223,10 +235,11 @@ document.write(`
         田中利佳*, 久保井五貴, 小澤伸也, 細田陽介, 高田雅美, 木村欣司, 中村佳正,
         <br>"LSMR法における条件数を用いた反復の打ち切りと機械学習について",
         <br>第20回計算数学研究会,
-        <br><a href="https://www-is.amp.i.kyoto-u.ac.jp/lab/cmc/" target="_blank">
-        京都大学大学院 情報学研究科 数理解析分野研究室</a>,
+        <br>計算数学研究会,
         <br>オンライン, 日本,
-        <br>2022.8.25
+        <br>2022.8.25,
+        <br>URL:<a href="https://sites.google.com/view/keisansugaku/%E3%81%93%E3%82%8C%E3%81%BE%E3%81%A7%E3%81%AE%E7%A0%94%E7%A9%B6%E4%BC%9A/%E7%AC%AC20%E5%9B%9E2022" target="_blank">
+        https://sites.google.com/view/keisansugaku/これまでの研究会/第20回2022</a>
       </li>
 
       <br>
