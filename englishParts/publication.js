@@ -52,7 +52,7 @@ document.write(`
       <!-- <br> -->
 
      <li>
-        Toshio Nishikawa, Itsuki Kuboi, Masami Takata, Kinji Kimura and Yoshimasa,
+        Toshio Nishikawa, Itsuki Kuboi, Masami Takata, Kinji Kimura and Yoshimasa Nakamura,
           <br>(西川俊央, 久保井五貴, 髙田雅美, 木村欣司, 中村佳正),
         <br>"Proposal for Computing Lower Bounds on Precise Smallest Singular Value for Band Matrix",
           <br>(帯行列に対する精密な最小特異値の下界の計算法の提案),
@@ -64,7 +64,7 @@ document.write(`
       
     <br>
       <li>
-        Itsuki Kuboi, Toshio Nishikawa, Masami Takata, Kinji Kimura and Yoshimasa,
+        Itsuki Kuboi, Toshio Nishikawa, Masami Takata, Kinji Kimura and Yoshimasa Nakamura,
         <br>(久保井五貴, 西川俊央, 髙田雅美, 木村欣司, 中村佳正),
         <br>"Proposal for Computing Precise Lower Bounds on Smallest Singular Value for Band Matrix",
         <br>IPSJ SIG Technical Reports,
@@ -175,7 +175,7 @@ document.write(`
 
     <br>
       <li>
-        Toshio Nishikawa*, Itsuki Kuboi, Masami Takata, Kinji Kimura and Yoshimasa,
+        Toshio Nishikawa*, Itsuki Kuboi, Masami Takata, Kinji Kimura and Yoshimasa Nakamura,
           <br>(西川俊央*, 久保井五貴, 髙田雅美, 木村欣司, 中村佳正),
         <br>"Proposal for Computing Lower Bounds on Precise Smallest Singular Value for Band Matrix",
           <br>(帯行列に対する精密な最小特異値の下界の計算法の提案),
