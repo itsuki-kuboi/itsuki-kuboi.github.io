@@ -25,7 +25,7 @@ document.write(`
         <!-- <br>IEEE Conference Publishing Services, -->
         <!-- <br>Washington, DC and Los Alamitos, CA, -->
         <br>2025.x.x(Accepted),
-        <br>DOI:
+        <br>DOI: xxx.xxx.xxx/xxx
       </li>
 
       <br>
@@ -38,7 +38,7 @@ document.write(`
         <!-- <br>Springer, -->
         <!-- <br>Switzerland AG., -->
         <br>2024.x.x(Accepted),
-        <br>DOI:
+        <br>DOI: xxx.xxx.xxx/xxx
       </li>
 
     </ol>
@@ -142,7 +142,7 @@ document.write(`
       <li>
         千代延未帆*, 久保井五貴, 田中利佳, 小澤伸也, 細田陽介, 高田雅美, 木村欣司, 中村佳正,
         <br>"LSMR法における条件数を用いた反復計算の打ち切りと高効率の機械学習",
-        <br>第20回計算数学研究会,
+        <br>第21回計算数学研究会,
         <br>計算数学研究会,
         <br>ハイブリッド, 大阪成蹊大学, 大阪, 日本,
         <br>2023.12.10,

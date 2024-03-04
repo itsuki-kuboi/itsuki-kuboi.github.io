@@ -24,7 +24,7 @@ document.write(`
         <!-- <br>IEEE Conference Publishing Services, -->
         <!-- <br>Washington, DC and Los Alamitos, CA, -->
         <br>2025.x.x(Accepted),
-        <br>DOI:
+        <br>DOI: xxx.xxx.xxx/xxx
       </li>
 
       <br>
@@ -37,7 +37,7 @@ document.write(`
         <!-- <br>Springer, -->
         <!-- <br>Switzerland AG., -->
         <br>2024.x.x(Accepted),
-        <br>DOI:
+        <br>DOI: xxx.xxx.xxx/xxx
       </li>
     </ol>
   </li>
