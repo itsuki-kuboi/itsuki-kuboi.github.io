@@ -13,8 +13,8 @@ document.write(`
         <br>学位論文 : "LSMR法を利用したデコンボリューション問題の解法におけるL-curveの検討",
         <br>指導教員 : 細田陽介教授・他多数,
         <br>GPA : 4.00 / 4.00,
-        <br><a href="https://www.u-fukui-kogyokai.com/pdfs/recent-conditions-2020.pdf" target="_blank">URL:https://www.u-fukui-kogyokai.com/pdfs/recent-conditions-2020.pdf</a>
-        <br><a href="https://www.eng.u-fukui.ac.jp/wp-content/uploads/MastarThesis2020.html" target="_blank">URL:https://www.eng.u-fukui.ac.jp/wp-content/uploads/MastarThesis2020.html</a>
+        <br>URL:<a href="https://www.u-fukui-kogyokai.com/pdfs/recent-conditions-2020.pdf" target="_blank">https://www.u-fukui-kogyokai.com/pdfs/recent-conditions-2020.pdf</a>
+        <br>URL:<a href="https://www.eng.u-fukui.ac.jp/wp-content/uploads/MastarThesis2020.html" target="_blank">https://www.eng.u-fukui.ac.jp/wp-content/uploads/MastarThesis2020.html</a>
         </li>
       
         <li>
@@ -23,7 +23,7 @@ document.write(`
         <br>経営系講義・海外留学・インターン,
         <br>地域創生の製品・サービス試作に参画（福井県より助成有）,
         <br>指導教員 : 竹本拓治教授・井上利弘准教授・川上祥代助教
-        <br><a href="https://www.eng.u-fukui.ac.jp/wp-content/uploads/tim_course_2020.pdf" target="_blank">URL:https://www.eng.u-fukui.ac.jp/wp-content/uploads/tim_course_2020.pdf</a>
+        <br>URL:<a href="https://www.eng.u-fukui.ac.jp/wp-content/uploads/tim_course_2020.pdf" target="_blank">https://www.eng.u-fukui.ac.jp/wp-content/uploads/tim_course_2020.pdf</a>
         </li>
       </ul>
       </li>
@@ -67,7 +67,7 @@ document.write(`
         <li>2014.1.12
         <br><b>京都滋賀東海選抜チーム</b>, LT/DT, アメリカンフットボール
         <br> - NEW YEAR BOWL III(2014), アミノバイタルフィールド, 東京調布
-        <br><a href="http://kantokoukou-football.com/cms/index.php?page_id=27" target="_blank">URL:http://kantokoukou-football.com/cms/index.php?page_id=27</a>
+        <br>URL:<a href="http://kantokoukou-football.com/cms/index.php?page_id=27" target="_blank">http://kantokoukou-football.com/cms/index.php?page_id=27</a>
         </li>
         </ul>
       </li>
