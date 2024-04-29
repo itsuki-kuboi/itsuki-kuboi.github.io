@@ -19,13 +19,13 @@ document.write(`
 
       <li>Miho Chiyonobu, Itsuki Kuboi, Rika Tanaka, Shin-ya Ozawa, Yohsuke Hosoda, Masami Takata, Kinji Kimura and Yoshimasa Nakamura,
         <br>"Iterative Censoring and Highly Efficient Machine Learning with Condition Number in LSMR Method",
-        <br>Advances in Parallel & Distributed Processing, and Applications(Preliminary Title),
+        <br>IEEE CPS : 2023 Congress in Computer Science, Computer Engineering, &amp; Applied Computing (CSCE),
         <br>Proceedings from The 29th International Conference on Parallel & Distributed Processing Techniques & Applications and others,
-        <br>Vol. xx, Num. xx, pp. xx-xx,
+        <br>Vol. --, Num. --, pp. 2190-2197,
         <!-- <br>IEEE Conference Publishing Services, -->
         <!-- <br>Washington, DC and Los Alamitos, CA, -->
-        <br>2025.x.x(Accepted),
-        <br>DOI: xxx.xxx.xxx/xxx
+        <br>2023.7.24,
+        <br>DOI:<a href="https://doi.ieeecomputersociety.org/10.1109/CSCE60160.2023.00358" target="_blank">10.1109/CSCE60160.2023.00358</a>
       </li>
 
       <br>
@@ -38,7 +38,7 @@ document.write(`
         <!-- <br>Springer, -->
         <!-- <br>Switzerland AG., -->
         <br>2024.x.x(Accepted),
-        <br>DOI: xxx.xxx.xxx/xxx
+        <br>DOI: xxx/xxx.xxx.xxx
       </li>
 
     </ol>
@@ -57,6 +57,7 @@ document.write(`
         <br>"帯行列に対する精密な最小特異値の下界の計算法の提案",
         <br>2023年度電気・情報関係学会北陸支部連合大会,
         <!-- <br>共催[IEEJ, IEICE, ITE, JSMBE, IPSJ, SICE, ASJ, IEIEJ各北陸支部, IEEE名古屋支部], -->
+        <br>Vol. --, Num. --, pp. -- - --,
         <br>2023.9.2,
         <br>URL:<a href="http://jhes.jp/2023/doku.php?id=%E8%AC%9B%E6%BC%94%E8%AB%96%E6%96%87%E9%9B%86dl" target="_blank">jhes.jp/2023/doku.php?id=講演論文集dl</a>
       </li>
@@ -92,6 +93,7 @@ document.write(`
         <br>"From the Condition L-curve to Machine Learning",
         <br>2023年度（第49回）数値解析シンポジウム [NAS2023],
         <!-- <br>共催[NAS2023, 日本応用数理学会], -->
+        <br>Vol. --, Num. --, pp. -- - --,
         <br>2023.7.13
       </li>
 
@@ -125,6 +127,7 @@ document.write(`
         <br>"定常反復を用いたデコンボリューション問題の数値計算について",
         <br>2019年度電気・情報関係学会北陸支部連合大会,
         <!-- <br>共催[IEEJ, IEICE, ITE, JSMBE, IPSJ, SICE, ASJ, IEIEJ各北陸支部, IEEE名古屋支部], -->
+        <br>Vol. --, Num. --, pp. -- - --,
         <br>2019.8.31
       </li>
     </ol>
