@@ -8,7 +8,7 @@ document.write(`
   <br> - YouTube, Twitter, Instagram, Facebookの4媒体で公開・出演。
   <br>URL:<a href="https://www.youtube.com/watch?v=RCPq0DnIO1E" target="_blank">https://www.youtube.com/watch?v=RCPq0DnIO1E</a>
   <br>URL:<a href="https://x.com/KYOCERA_JP/status/1534460375936245763" target="_blank">https://x.com/KYOCERA_JP/status/1534460375936245763</a>
-  <br>URL:a href="https://www.instagram.com/reel/CeidnQTgd7U/?igsh=czY5MGhybmV1YWtt" target="_blank">https://www.instagram.com/reel/CeidnQTgd7U/?igsh=czY5MGhybmV1YWtt</a>
+  <br>URL:<a href="https://www.instagram.com/reel/CeidnQTgd7U/?igsh=czY5MGhybmV1YWtt" target="_blank">https://www.instagram.com/reel/CeidnQTgd7U/?igsh=czY5MGhybmV1YWtt</a>
   <br>URL:<a href="https://www.facebook.com/share/v/7godhrd5BoSLFQJX/" target="_blank">https://www.facebook.com/share/v/7godhrd5BoSLFQJX/</a>
   </li>
 

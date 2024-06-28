@@ -19,13 +19,13 @@ document.write(`
 
       <li>Miho Chiyonobu, Itsuki Kuboi, Rika Tanaka, Shin-ya Ozawa, Yohsuke Hosoda, Masami Takata, Kinji Kimura and Yoshimasa Nakamura,
         <br>"Iterative Censoring and Highly Efficient Machine Learning with Condition Number in LSMR Method",
-        <br>Advances in Parallel & Distributed Processing, and Applications(Preliminary Title),
+        <br>IEEE CPS : 2023 Congress in Computer Science, Computer Engineering, &amp; Applied Computing (CSCE),
         <br>Proceedings from The 29th International Conference on Parallel & Distributed Processing Techniques & Applications and others,
-        <br>Vol. xx, Num. xx, pp. xx-xx,
+        <br>Vol. --, Num. --, pp. 2190-2197,
         <!-- <br>IEEE Conference Publishing Services, -->
         <!-- <br>Washington, DC and Los Alamitos, CA, -->
-        <br>2025.x.x(Accepted),
-        <br>DOI:
+        <br>2023.7.24,
+        <br>DOI:<a href="https://doi.ieeecomputersociety.org/10.1109/CSCE60160.2023.00358" target="_blank">10.1109/CSCE60160.2023.00358</a>
       </li>
 
       <br>
@@ -38,7 +38,7 @@ document.write(`
         <!-- <br>Springer, -->
         <!-- <br>Switzerland AG., -->
         <br>2024.x.x(Accepted),
-        <br>DOI:
+        <br>DOI: xxx/xxx.xxx.xxx
       </li>
 
     </ol>
@@ -57,6 +57,7 @@ document.write(`
         <br>"帯行列に対する精密な最小特異値の下界の計算法の提案",
         <br>2023年度電気・情報関係学会北陸支部連合大会,
         <!-- <br>共催[IEEJ, IEICE, ITE, JSMBE, IPSJ, SICE, ASJ, IEIEJ各北陸支部, IEEE名古屋支部], -->
+        <br>Vol. --, Num. --, pp. -- - --,
         <br>2023.9.2,
         <br>URL:<a href="http://jhes.jp/2023/doku.php?id=%E8%AC%9B%E6%BC%94%E8%AB%96%E6%96%87%E9%9B%86dl" target="_blank">jhes.jp/2023/doku.php?id=講演論文集dl</a>
       </li>
@@ -92,6 +93,7 @@ document.write(`
         <br>"From the Condition L-curve to Machine Learning",
         <br>2023年度（第49回）数値解析シンポジウム [NAS2023],
         <!-- <br>共催[NAS2023, 日本応用数理学会], -->
+        <br>Vol. --, Num. --, pp. -- - --,
         <br>2023.7.13
       </li>
 
@@ -125,6 +127,7 @@ document.write(`
         <br>"定常反復を用いたデコンボリューション問題の数値計算について",
         <br>2019年度電気・情報関係学会北陸支部連合大会,
         <!-- <br>共催[IEEJ, IEICE, ITE, JSMBE, IPSJ, SICE, ASJ, IEIEJ各北陸支部, IEEE名古屋支部], -->
+        <br>Vol. --, Num. --, pp. -- - --,
         <br>2019.8.31
       </li>
     </ol>
@@ -138,6 +141,18 @@ document.write(`
       <!-- Insert -->
       
       <!-- <br> -->
+
+      <li>
+        千代延未帆*, 久保井五貴, 田中利佳, 小澤伸也, 細田陽介, 高田雅美, 木村欣司, 中村佳正,
+        <br>"LSMR法における条件数を用いた反復計算の打ち切りと高効率の機械学習",
+        <br>第21回計算数学研究会,
+        <br>計算数学研究会,
+        <br>ハイブリッド, 大阪成蹊大学, 大阪, 日本,
+        <br>2023.12.10,
+        <br>URL:<a href="https://sites.google.com/view/keisansugaku/%E3%81%93%E3%82%8C%E3%81%BE%E3%81%A7%E3%81%AE%E7%A0%94%E7%A9%B6%E4%BC%9A/%E7%AC%AC21%E5%9B%9E2023" target="_blank">
+        https://sites.google.com/view/keisansugaku/これまでの研究会/第21回2023</a>
+      </li>
+      <br>
       <li>
         久保井五貴, 西川俊央, 髙田雅美, 木村欣司*, 中村佳正,
         <br>"帯行列に対する最小特異値の精密な下界の計算法の提案",
@@ -223,10 +238,11 @@ document.write(`
         田中利佳*, 久保井五貴, 小澤伸也, 細田陽介, 高田雅美, 木村欣司, 中村佳正,
         <br>"LSMR法における条件数を用いた反復の打ち切りと機械学習について",
         <br>第20回計算数学研究会,
-        <br><a href="https://www-is.amp.i.kyoto-u.ac.jp/lab/cmc/" target="_blank">
-        京都大学大学院 情報学研究科 数理解析分野研究室</a>,
+        <br>計算数学研究会,
         <br>オンライン, 日本,
-        <br>2022.8.25
+        <br>2022.8.25,
+        <br>URL:<a href="https://sites.google.com/view/keisansugaku/%E3%81%93%E3%82%8C%E3%81%BE%E3%81%A7%E3%81%AE%E7%A0%94%E7%A9%B6%E4%BC%9A/%E7%AC%AC20%E5%9B%9E2022" target="_blank">
+        https://sites.google.com/view/keisansugaku/これまでの研究会/第20回2022</a>
       </li>
 
       <br>

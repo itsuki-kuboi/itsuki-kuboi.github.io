@@ -18,13 +18,13 @@ document.write(`
       
       <li>Miho Chiyonobu, Itsuki Kuboi, Rika Tanaka, Shin-ya Ozawa, Yohsuke Hosoda, Masami Takata, Kinji Kimura and Yoshimasa Nakamura,
         <br>"Iterative Censoring and Highly Efficient Machine Learning with Condition Number in LSMR Method",
-        <br>Advances in Parallel & Distributed Processing, and Applications(Preliminary Title),
+        <br>IEEE CPS : 2023 Congress in Computer Science, Computer Engineering, &amp; Applied Computing (CSCE),
         <br>Proceedings from The 29th International Conference on Parallel & Distributed Processing Techniques & Applications and others,
-        <br>Vol. xx, Num. xx, pp. xx-xx,
+        <br>Vol. --, Num. --, pp. 2190-2197,
         <!-- <br>IEEE Conference Publishing Services, -->
         <!-- <br>Washington, DC and Los Alamitos, CA, -->
-        <br>2025.x.x(Accepted),
-        <br>DOI:
+        <br>2023.7.24,
+        <br>DOI:<a href="https://doi.ieeecomputersociety.org/10.1109/CSCE60160.2023.00358" target="_blank">10.1109/CSCE60160.2023.00358</a>
       </li>
 
       <br>
@@ -37,8 +37,10 @@ document.write(`
         <!-- <br>Springer, -->
         <!-- <br>Switzerland AG., -->
         <br>2024.x.x(Accepted),
-        <br>DOI:
+        <br>DOI: xxx/xxx.xxx.xxx
       </li>
+
+
     </ol>
   </li>
 
@@ -58,6 +60,7 @@ document.write(`
           <br>(帯行列に対する精密な最小特異値の下界の計算法の提案),
         <br>Joint conference of Hokuriku chapters of Electrical and information Societies 2023,
         <!-- <br>Co-Sponsored[IEEJ, IEICE, ITE, JSMBE, IPSJ, SICE, ASJ, IEIEJ Hokuriku Sections and IEEE Nagoya Section], -->
+        <br>Vol. --, Num. --, pp. -- - --,
         <br>2023.9.2,
         <br>URL:<a href="http://jhes.jp/2023/doku.php?id=%E8%AC%9B%E6%BC%94%E8%AB%96%E6%96%87%E9%9B%86dl" target="_blank">jhes.jp/2023/doku.php?id=講演論文集dl</a>
       </li>
@@ -94,6 +97,7 @@ document.write(`
         <br>"From the Condition L-curve to Machine Learning",
         <br>Numerical Analysis Symposium 2023(49th) [NAS2023],
         <!-- <br>Co-Sponsored[NAS2023 and JSIAM], -->
+        <br>Vol. --, Num. --, pp. -- - --,
         <br>2023.7.13
       </li>
 
@@ -131,6 +135,7 @@ document.write(`
               <br>(定常反復を用いたデコンボリューション問題の数値計算について),
         <br>Joint conference of Hokuriku chapters of Electrical and information Societies 2019,
         <!-- <br>Co-Sponsored[IEEJ, IEICE, ITE, JSMBE, IPSJ, SICE, ASJ, IEIEJ Hokuriku Sections and IEEE Nagoya Section], -->
+        <br>Vol. --, Num. --, pp. -- - --,
         <br>2019.8.31
       </li>
     </ol>
@@ -145,7 +150,24 @@ document.write(`
       
       <!-- <br> -->
       <li>
-        Itsuki Kuboi, Toshio Nishikawa, Masami Takata, Kinji Kimura and Yoshimasa Nakamura,
+        Miho Chiyonobu*, Itsuki Kuboi, Rika Tanaka, Shin-ya Ozawa, Yohsuke Hosoda, Masami Takata, Kinji Kimura and Yoshimasa Nakamura,
+          <br>(千代延未帆*, 久保井五貴, 田中利佳, 小澤伸也, 細田陽介, 高田雅美, 木村欣司, 中村佳正),
+        <br>"Iterative Censoring and Highly Efficient Machine Learning with Condition Number in LSMR Method",
+          <br>(LSMR法における条件数を用いた反復計算の打ち切りと高効率の機械学習),
+        <br>The 21th Computational Mathematics Workshop,
+        <br>(第21回計算数学研究会),
+        <br>Computational Mathematics Workshop Group,
+        <br>(計算数学研究会),
+        <br>Hybrid of Online and Osaka Seikei University, Osaka, Japan,
+        <br>2023.12.10,
+        <br>URL:<a href="https://sites.google.com/view/keisansugaku/%E3%81%93%E3%82%8C%E3%81%BE%E3%81%A7%E3%81%AE%E7%A0%94%E7%A9%B6%E4%BC%9A/%E7%AC%AC21%E5%9B%9E2023" target="_blank">
+        https://sites.google.com/view/keisansugaku/これまでの研究会/第21回2023</a>
+      </li>
+
+    <br>
+
+      <li>
+        Itsuki Kuboi, Toshio Nishikawa, Masami Takata, Kinji Kimura and Yoshimasa,
         <br>(久保井五貴, 西川俊央, 髙田雅美, 木村欣司*, 中村佳正),
         <br>"Proposal for Computing Precise Lower Bounds on Smallest Singular Value for Band Matrix",
           <br>(帯行列に対する最小特異値の精密な下界の計算法の提案),
@@ -240,11 +262,14 @@ document.write(`
               <br>(田中利佳*, 久保井五貴, 小澤伸也, 細田陽介, 高田雅美, 木村欣司, 中村佳正),
         <br>"On a Machine Learning and Stopping Iteration using Condition Number on LSMR Method"</a>,
               <br>(LSMR法における条件数を用いた反復の打ち切りと機械学習について),
-        <br>The 20th Computational Mathematics  Workshop,
+        <br>The 20th Computational Mathematics Workshop,
         <br>(第20回計算数学研究会),
-        <br><a href="https://www-is.amp.i.kyoto-u.ac.jp/lab/cmc/" target="_blank">Applied Mathematical Analysis Laboratory</a>, Kyoto University,
+        <br>Computational Mathematics Workshop Group,
+        <br>(計算数学研究会),
         <br>Online, Japan,
-        <br>2022.8.25
+        <br>2022.8.25,
+        <br>URL:<a href="https://sites.google.com/view/keisansugaku/%E3%81%93%E3%82%8C%E3%81%BE%E3%81%A7%E3%81%AE%E7%A0%94%E7%A9%B6%E4%BC%9A/%E7%AC%AC20%E5%9B%9E2022" target="_blank">
+        https://sites.google.com/view/keisansugaku/これまでの研究会/第20回2022</a>
       </li>
 
       <br>
