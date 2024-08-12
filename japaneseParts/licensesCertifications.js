@@ -12,6 +12,12 @@ document.write(`
     <br><b>基本情報技術者試験</b> 合格,
     <br>IPA, 日本
     </li>
+
+    <li>2024.7.4
+    <br><b>応用情報技術者試験</b> 合格,
+    <br>IPA, 日本
+    </li>
+
   </ul>
   </li>
 

@@ -199,8 +199,8 @@ document.write(`
           <br>(千代延未帆*, 久保井五貴, 田中利佳, 小澤伸也, 細田陽介, 高田雅美, 木村欣司, 中村佳正),
         <br>"Iterative Censoring and Highly Efficient Machine Learning with Condition Number in LSMR Method",
           <br>(LSMR法における条件数を用いた反復計算の打ち切りと高効率の機械学習),
-        <br>SWoPP(Summer United Workshops on Parallel, Distributed and Cooperative Processing)2023,
-        <br>Co-Sponsored[SWoPP, IEICE, IPSJ, JSIAM and xSIG],
+        <br>SWoPP(Summer United Workshops on Parallel, Distributed and Cooperative Processing)2023 / The 35th Solo Workshop of MEPA,
+        <br>Co-Sponsored[SWoPP, IEICE, IPSJ, JSIAM and xSIG] / JSIAM MEPA,
         <br>Hybrid of Online and HAKODATE ARENA, Hokkaido, Japan,
         <br>2023.8.3,
         <br>URL:<a href="https://swopp.github.io/2023/program/" target="_blank">

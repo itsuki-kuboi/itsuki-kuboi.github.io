@@ -12,6 +12,11 @@ document.write(`
     <br><b>Fundamental Information Technology Engineer Examination</b>,
     <br>IPA, Japan
     </li>
+
+    <li>2024.7.4
+    <br><b>Applied Information Technology Engineer Examination</b>,
+    <br>IPA, Japan
+    </li>
   </ul>
   </li>
 

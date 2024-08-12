@@ -180,8 +180,8 @@ document.write(`
       <li>
         千代延未帆*, 久保井五貴, 田中利佳, 小澤伸也, 細田陽介, 高田雅美, 木村欣司, 中村佳正,
         <br>"LSMR法における条件数を用いた反復計算の打ち切りと高効率の機械学習",
-        <br>SWoPP2023,
-        <br>共催[SWoPP2023, 電子情報通信学会, 情報処理学会, 日本応用数理学会, xSIG],
+        <br>SWoPP2023 / 第35回単独研究会,
+        <br>共催[SWoPP2023, 電子情報通信学会, 情報処理学会, 応用数理学会, xSIG] / 応用数理学会 「行列・固有値問題の解法とその応用」研究部会,
         <br>ハイブリッド, 函館アリーナ, 北海道, 日本,
         <br>2023.8.3,
         <br>URL:<a href="https://swopp.github.io/2023/program/" target="_blank">
@@ -216,7 +216,7 @@ document.write(`
         Miho Chiyonobu*, Itsuki Kuboi, Rika Tanaka, Shin-ya Ozawa, Yohsuke Hosoda, Masami Takata, Kinji Kimura and Yoshimasa Nakamura,
         <br>"From the Condition L-curve to Machine Learning",
         <br>2023年度（第49回）数値解析シンポジウム [NAS2023],
-        <br>共催[NAS2023, 日本応用数理学会],
+        <br>共催[NAS2023, 応用数理学会],
         <br>岩手大学, 岩手, 日本,
         <br>2023.7.13,
         <br>URL:<a href="http://www.sr3.t.u-tokyo.ac.jp/nas/2023/" target="_blank">http://www.sr3.t.u-tokyo.ac.jp/nas/2023/</a>
@@ -284,7 +284,7 @@ document.write(`
         久保井五貴*, 田中利佳, 小澤伸也, 細田陽介, 高田雅美, 木村欣司,
         <br>"デコンボリューション問題におけるcondition L-curveの検討",
         <br>第17回研究部会連合発表会,
-        <br>日本応用数理学会,
+        <br>応用数理学会,
         <br>オンライン, 日本,
         <br>2021.3.4,
         <br>URL:<a href="http://union2021.jsiam.org/program#4863" target="_blank">http://union2021.jsiam.org/program#4863</a>
