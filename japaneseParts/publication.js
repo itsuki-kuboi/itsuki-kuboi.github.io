@@ -37,7 +37,7 @@ document.write(`
         <br>Vol. xx, Num. xx, pp. xx-xx,
         <!-- <br>Springer, -->
         <!-- <br>Switzerland AG., -->
-        <br><br>2022.7.25(to appear),
+        <br>2022.7.25(to appear),
         <br>DOI: xxx/xxx.xxx.xxx
       </li>
 
