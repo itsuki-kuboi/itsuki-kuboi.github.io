@@ -1,14 +1,37 @@
 document.write(`
 <h2>職歴</h2>
 <ul>
-  <li>2021.4.1 - 現在
+  <li>2024.10.1 - 現在
+  <br><b>メンバー</b>
+  <br>情報基盤戦略部, &lt改組に伴う名称変更&gt
+  <br>デジタルビジネス推進本部,
+  <br>京セラ株式会社,
+  <br>京都府, 日本
+  <br> - プロジェクト参画(IDM, MDM ほか)
+  </li>
+
+  <br>
+  <li>2021.4.1 - 2024.9.30 : 3年6ヶ月
   <br><b>メンバー</b>
   <br>基幹インフラ部,
   <br>デジタルビジネス推進本部,
   <br>京セラ株式会社,
   <br>京都府, 日本
-  <br> - プロジェクト参画(Microsoft 365 管理, ほか)
-  <br><a href="https://www.kyocera.co.jp/news/2020/0205_hpaq.html" target="_blank">URL:https://www.kyocera.co.jp/news/2020/0205_hpaq.html</a>
+  <br> - 担当プロジェクト
+  <br> * Microsoft 365 : 管理者
+    <ul> 
+      <li> Exchange, Teams, SharePointOnline and Entra ID</li>
+    </ul>
+   * Cisco Webex : 管理者
+    <ul> 
+      <li> テナント管理, ID管理, ライセンス管理</li>
+    </ul>
+   * その他 : PL, PMO
+    <ul> 
+      <li> オンプレ運用, オフィス改革PJ</li>
+    </ul>
+
+  <a href="https://www.kyocera.co.jp/news/2020/0205_hpaq.html" target="_blank">URL:https://www.kyocera.co.jp/news/2020/0205_hpaq.html</a>
   </li>
 
   <br>
