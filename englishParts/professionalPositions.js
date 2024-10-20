@@ -28,7 +28,7 @@ document.write(`
     <ul> 
       <li> Tenant Administration : Tenant Management of Webex Meetings.</li>
       <li> ID Management : Introducing 2,5000+ Webex accounts. Testing IdP Integration to Microsoft Entra ID.</li>
-      <li> License Management : Vendor contract management and Significant reduction in license costs. ex) reducing millions JPY in 3 years.</li>
+      <li> License Management : Vendor contract management and Significant reduction in license costs.</li>
     </ul>
    * Others : PL, PMO
     <ul> 
