@@ -20,9 +20,11 @@ document.write(`
   <br> - Assigned Projects Overview
   <br> * Microsoft 365 : Administrator
     <ul> 
-      <li> Exchange : System Integration of ResourceMailbox and third-party applications, QA.</li>
-      <li> Teams and SharePointOnline : Designing Internal website and Improving the experience using Viva Connections. Steering committee of the Internal Website Organization.</li>
-      <li> Entra ID and SharePointOnline : Development SSO Application using Custom Security Attribute and SPFx.</li>
+      <li> Exchange : System Integration of the ResourceMailbox System and Third-party Applications, QA.</li>
+      <li> SharePointOnline : Designing and System Migration the Website of Internal Website Portal and Information System Division Website from On-premise System to SharePointOnline.</li>
+      <li> Teams and Viva Connections : Improving the experience of the Internal Website Portal.</li>
+      <li> Entra ID and SharePointOnline : Development SSO Application using Custom Security Attribute on Entra ID and SPFx on SharePointOnline.</li>
+      <li> Other : Steering Committee of the Internal Website Portal Organization headed by the Company Officers.</li>
     </ul>
    * Cisco Webex : Administrator
     <ul> 
