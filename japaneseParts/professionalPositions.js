@@ -33,7 +33,6 @@ document.write(`
 
   <a href="https://www.kyocera.co.jp/news/2020/0205_hpaq.html" target="_blank">URL:https://www.kyocera.co.jp/news/2020/0205_hpaq.html</a>
   </li>
-
   <br>
   <li>2019.4.1- 2020.3.31 : 1年間
   <br><b>ティーチングアシスタント</b>,
