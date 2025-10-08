@@ -47,13 +47,48 @@ document.write(`
 
   <li>Sport and Teaching
   <ul>
-    <li>2019.3.31
+    <li>2019.3.31 - Present
     <br><b>High School Teaching Certificate for Mathematics</b>,
     <br>Shiga Prefectural Board of Education, Shiga, Japan
     </li>
-    <li>2011.2.23
+    <li>2011.2.23 - Present
     <br><b>First Dan of Judo</b>,
     <br>Kodokan Judo Institute, Japan
+    </li>
+  </ul>
+  </li>
+
+    <br>
+  <li>Radio Operator
+  <ul>
+    <!-- <li>2025.11.xx - Present
+    <br><b>Third Class Amateur Radio Operator</b>, Japan
+    </li>
+    <li>2025.10.xx - Present
+    <br><b>Fourth Class Amateur Radio Operator</b>, Japan
+    </li>
+    -->
+  </ul>
+  </li>
+
+  <br>
+  <li>Others
+  <ul>
+    <li>2025.6.25 - Present
+    <br><b>&lt;Confidential&gt; </b>, &lt;Confidential&gt;
+    </li>
+    <br>
+    <li>2025.8.27 - Present
+    <br><b>&lt;Confidential&gt; </b>, &lt;Confidential&gt;
+    <ul>
+      <li>2025.8.27 - Present
+      <br><b>&lt;Confidential&gt; </b>, &lt;Confidential&gt;
+      </li>
+      <!-- <li>2025.10.9 - Present
+      <br><b>&lt;Confidential&gt; </b>, &lt;Confidential&gt;
+      </li>
+      -->
+    </ul>
     </li>
   </ul>
   </li>
