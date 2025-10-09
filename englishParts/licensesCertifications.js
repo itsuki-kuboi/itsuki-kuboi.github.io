@@ -79,7 +79,7 @@ document.write(`
     -->
   </ul>
   </li>
-  -->
+
 
 
 
@@ -97,7 +97,7 @@ document.write(`
   </ul>
   </li>
 
-    <br>
+  <br>
   <li>Amateur Radio Operator
   <ul>
     <!-- <li>2026.5.xx - Present
@@ -123,20 +123,20 @@ document.write(`
   <li>Others
   <ul>
     <li>2025.6.25 - Present
-    <br><b>&lt;Confidential&gt; </b>, &lt;Confidential&gt;
+    <br><b>&lt;Confidential&gt; </b>, <br> &lt;Confidential&gt;
     </li>
     <br>
     <li>2025.8.27 - Present
-    <br><b>&lt;Confidential&gt; : Completed</b>, &lt;Confidential&gt;
+    <br><b>&lt;Confidential&gt; : Completed</b>;
     <ul>
       <li>2025.8.27 - Present
-      <br><b>&lt;Confidential&gt; </b>, &lt;Confidential&gt;
+      <br><b>&lt;Confidential&gt; </b>, <br> &lt;Confidential&gt;
       </li>
       <li>2025.10.9 - Present
-      <br><b>&lt;Confidential&gt; </b>, &lt;Confidential&gt;
+      <br><b>&lt;Confidential&gt; </b>, <br> &lt;Confidential&gt;
       </li>
       <li>2025.10.9 - Present
-      <br><b>&lt;Confidential&gt; </b>, &lt;Confidential&gt;
+      <br><b>&lt;Confidential&gt; </b>, <br> &lt;Confidential&gt;
       </li>
     </ul>
     </li>
