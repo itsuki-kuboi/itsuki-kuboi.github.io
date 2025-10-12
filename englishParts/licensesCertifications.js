@@ -4,15 +4,15 @@ document.write(`
   <li>IPA
   <ul>
     <!--
-    <li>2026.1.xx - Present
-    <br><b>RISS（Registered Information Security Specialist）</b>,
-    <br>Japan
+    <li>2026.4.1 - Present
+    <br><b>RISS（Registered Information Security Specialist）</b> (Application in progress),
+    <br>IPA, Japan
     </li>
     <br>
     -->
 
     <!--
-    <li>2025.12.xx
+    <li>2026.1.xx
     <br><b>RISS（Registered Information Security Specialist） Examination</b> Passed,
     <br>IPA, Japan
     </li>
@@ -27,7 +27,7 @@ document.write(`
     <br>IPA, Japan
     </li>
     <li>2021.8.16
-    <br><b>Information Technology Passport Examination</b> Passed,
+    <br><b>Information Technology Passport Examination</b> Passed, 
     <br>IPA, Japan
     </li>
   </ul>
@@ -39,20 +39,24 @@ document.write(`
   <ul>
     <li>Fundamentals</li>
       <ul>
-        <li>2023.2.8
-        <br><a href="https://www.credly.com/badges/a97ae3dd-5756-4bba-8d2e-b785eb582da0/public_url" target="_blank"><b>Microsoft Certified: Security, Compliance, and Identity Fundamentals</b></a> Certified,
+        <li>2023.2.8 - Present
+        <br><a href="https://www.credly.com/badges/a97ae3dd-5756-4bba-8d2e-b785eb582da0/public_url" target="_blank"><b>Microsoft Certified: Security, Compliance, and Identity Fundamentals</b></a>,
+        <!-- Certified -->
         <br>Microsoft, USA
         </li>
-        <li>2023.2.4
-        <br><a href="https://www.credly.com/badges/e0df564e-6936-489a-abb7-3d066da2ec7c/public_url" target="_blank"><b>Microsoft Certified: Azure AI Fundamentals</b></a> Certified,
+        <li>2023.2.4 - Present
+        <br><a href="https://www.credly.com/badges/e0df564e-6936-489a-abb7-3d066da2ec7c/public_url" target="_blank"><b>Microsoft Certified: Azure AI Fundamentals</b></a>,
+        <!-- Certified -->
         <br>Microsoft, USA
         </li>
-        <li>2023.1.28
-        <br><a href="https://www.credly.com/badges/a8b2531e-1271-4409-936a-7ed1653cc1dc/public_url" target="_blank"><b>Microsoft Certified: Power Platform Fundamentals</b></a> Certified,
+        <li>2023.1.28 - Present
+        <br><a href="https://www.credly.com/badges/a8b2531e-1271-4409-936a-7ed1653cc1dc/public_url" target="_blank"><b>Microsoft Certified: Power Platform Fundamentals</b></a>,
+        <!-- Certified -->
         <br>Microsoft, USA
         </li>
-        <li>2022.10.28
-        <br><a href="https://www.credly.com/badges/9346a90a-731f-432f-8f2a-430904c8d5ca/public_url" target="_blank"><b>Microsoft Certified: Azure Fundamentals</b></a> Certified,
+        <li>2022.10.28 - Present
+        <br><a href="https://www.credly.com/badges/9346a90a-731f-432f-8f2a-430904c8d5ca/public_url" target="_blank"><b>Microsoft Certified: Azure Fundamentals</b></a>,  
+        <!-- Certified -->
         <br>Microsoft, USA
         </li>
       </ul>
@@ -62,24 +66,27 @@ document.write(`
   <br>
   <li>Radio, Communication and Transmission
   <ul>
+  -->
     <!--
     <li>2026.9.xx - Present
-    <br><b>First-Class Radio Operator for General Services</b> Passed, Japan
+    <br><b>First-Class Radio Operator for General Services</b>,
+    <br>Japan
     </li>
     -->
     <!--
     <li>2026.8.xx - Present
-    <br><b>First-Class Technical Radio Operator for On-The-Ground Services</b> Passed, Japan
+    <br><b>First-Class Technical Radio Operator for On-The-Ground Services</b>,
+    <br>Japan
     </li>
     -->
     <!--
     <li>2026.2.xx - Present
-    <br><b>Chief Telecommunications Engineer (Chief Transmission and Switching Engineer)</b> Passed, Japan
+    <br><b>Chief Telecommunications Engineer (Chief Transmission and Switching Engineer)</b>,
+    <br>Japan 
     </li>
     -->
-  </ul>
-  </li>
-
+  <!-- </ul> -->
+  <!-- </li> -->
 
 
 
@@ -101,19 +108,23 @@ document.write(`
   <li>Amateur Radio Operator
   <ul>
     <!-- <li>2026.5.xx - Present
-    <br><b>First-Class Amateur Radio Operator</b>, Japan
+    <br><b>First-Class Amateur Radio Operator</b>,
+    <br>Japan
     </li>
     -->
     <!-- <li>2026.5.xx - Present
-    <br><b>Second-Class Amateur Radio Operator</b>, Japan
+    <br><b>Second-Class Amateur Radio Operator</b>,
+    <br>Japan
     </li>
     -->
     <!-- <li>2025.11.xx - Present
-    <br><b>Third-Class Amateur Radio Operator</b>, Japan
+    <br><b>Third-Class Amateur Radio Operator</b>,
+    <br>Japan
     </li>
     -->
-    <li>2025.10.xx - Present (to appear)
-    <br><b>Fourth-Class Amateur Radio Operator</b>, Japan
+    <li>2025.10.xx - Present
+    <br><b>Fourth-Class Amateur Radio Operator</b> (Application in progress),
+    <br>Japan
     </li>
     
   </ul>

@@ -4,15 +4,15 @@ document.write(`
   <li>IPA
   <ul>
     <!--
-    <li>2026.1.xx - 現在
-    <br><b>情報処理安全確保支援士</b>,
-    <br>日本
+    <li>2026.4.1 - 現在
+    <br><b>情報処理安全確保支援士</b>（申請中）,
+    <br>IPA, 日本
     </li>
     <br>
     -->
 
     <!--
-    <li>2025.12.xx
+    <li>2026.1.xx
     <br><b>情報処理安全確保支援士試験</b> 合格,
     <br>IPA, 日本
     </li>
@@ -39,20 +39,20 @@ document.write(`
   <ul>
     <li>Fundamentals</li>
       <ul>
-        <li>2023.2.8
-        <br><a href="https://www.credly.com/badges/a97ae3dd-5756-4bba-8d2e-b785eb582da0/public_url" target="_blank"><b>Microsoft Certified: Security, Compliance, and Identity Fundamentals</b></a> 獲得,
+        <li>2023.2.8 - 現在
+        <br><a href="https://www.credly.com/badges/a97ae3dd-5756-4bba-8d2e-b785eb582da0/public_url" target="_blank"><b>Microsoft Certified: Security, Compliance, and Identity Fundamentals</b></a>, <!-- 獲得 -->
         <br>Microsoft, 米国
         </li>
-        <li>2023.2.4
-        <br><a href="https://www.credly.com/badges/e0df564e-6936-489a-abb7-3d066da2ec7c/public_url" target="_blank"><b>Microsoft Certified: Azure AI Fundamentals</b></a> 獲得,
+        <li>2023.2.4 - 現在
+        <br><a href="https://www.credly.com/badges/e0df564e-6936-489a-abb7-3d066da2ec7c/public_url" target="_blank"><b>Microsoft Certified: Azure AI Fundamentals</b></a>, <!-- 獲得 -->
         <br>Microsoft, 米国
         </li>
-        <li>2023.1.28
-        <br><a href="https://www.credly.com/badges/a8b2531e-1271-4409-936a-7ed1653cc1dc/public_url" target="_blank"><b>Microsoft Certified: Power Platform Fundamentals</b></a> 獲得,
+        <li>2023.1.28 - 現在
+        <br><a href="https://www.credly.com/badges/a8b2531e-1271-4409-936a-7ed1653cc1dc/public_url" target="_blank"><b>Microsoft Certified: Power Platform Fundamentals</b></a>,<!-- 獲得 -->
         <br>Microsoft, 米国
         </li>
-        <li>2022.10.28
-        <br><a href="https://www.credly.com/badges/9346a90a-731f-432f-8f2a-430904c8d5ca/public_url" target="_blank"><b>Microsoft Certified: Azure Fundamentals</b></a> 獲得,
+        <li>2022.10.28 - 現在
+        <br><a href="https://www.credly.com/badges/9346a90a-731f-432f-8f2a-430904c8d5ca/public_url" target="_blank"><b>Microsoft Certified: Azure Fundamentals</b></a>, <!-- 獲得 -->
         <br>Microsoft, 米国
         </li>
       </ul>
@@ -62,34 +62,40 @@ document.write(`
   <br>
   <li>無線・通信・伝送系
   <ul>
+  -->
     <!--
     <li>2026.9.xx - 現在
-    <br><b>第一級総合無線通信士</b>,日本
+    <br><b>第一級総合無線通信士</b>,
+    <br>日本
     </li>
     -->
     <!--
     <li>2026.8.xx - 現在
-    <br><b>第一級陸上無線技術士</b>,日本
+    <br><b>第一級陸上無線技術士</b>,
+    <br>日本
     </li>
     -->
     <!--
     <li>2026.2.xx - 現在
-    <br><b>電気通信主任技術者（伝送交換主任技術者）</b>,日本
+    <br><b>電気通信主任技術者（伝送交換主任技術者）</b>,
+    <br>日本
     </li>
     -->
+  <!--
   </ul>
   </li>
+  -->
 
 
   <br>
   <li>スポーツ・教育
   <ul>
     <li>2019.3.31 - 現在
-    <br><b>高等学校教諭一種免許状（数学）</b> 取得,
+    <br><b>高等学校教諭一種免許状（数学）</b>, <!-- 取得 -->
     <br>滋賀県教育委員会, 日本
     </li>
     <li>2011.2.23 - 現在
-    <br><b>日本傳講道館柔道初段</b> 修得,
+    <br><b>日本傳講道館柔道初段</b>,<!-- 修得, -->
     <br>講道館, 日本
     </li>
   </ul>
@@ -99,19 +105,23 @@ document.write(`
   <li>アマチュア無線技士
   <ul>
     <!-- <li>2026.5.xx - 現在
-    <br><b>第一級アマチュア無線技士</b>,日本
+    <br><b>第一級アマチュア無線技士</b>,
+    <br>日本
     </li>
     -->
     <!-- <li>2026.5.xx - 現在
-    <br><b>第二級アマチュア無線技士</b>,日本
+    <br><b>第二級アマチュア無線技士</b>,
+    <br>日本
     </li>
     -->
     <!-- <li>2025.11.xx - 現在
-    <br><b>第三級アマチュア無線技士</b>,日本
+    <br><b>第三級アマチュア無線技士</b>,
+    <br>日本
     </li>
     -->
-    <li>2025.10.xx - 現在 (予定)
-    <br><b>第四級アマチュア無線技士</b>,日本
+    <li>2025.10.xx - 現在
+    <br><b>第四級アマチュア無線技士</b> (申請中),
+    <br>日本
     </li>
   </ul>
   </li>
