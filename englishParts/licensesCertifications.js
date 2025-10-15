@@ -6,7 +6,7 @@ document.write(`
     <!--
     <li>2026.4.1 - Present
     <br><b>RISS（Registered Information Security Specialist）</b> (Application in progress),
-    <br>IPA, Japan
+    <br>IPA, MTEI, Japan
     </li>
     <br>
     -->
@@ -70,19 +70,19 @@ document.write(`
     <!--
     <li>2026.9.xx - Present
     <br><b>First-Class Radio Operator for General Services</b>,
-    <br>Japan
+    <br>MIC, Japan
     </li>
     -->
     <!--
     <li>2026.8.xx - Present
     <br><b>First-Class Technical Radio Operator for On-The-Ground Services</b>,
-    <br>Japan
+    <br>MIC, Japan
     </li>
     -->
     <!--
     <li>2026.2.xx - Present
     <br><b>Chief Telecommunications Engineer (Chief Transmission and Switching Engineer)</b>,
-    <br>Japan 
+    <br>MIC, Japan 
     </li>
     -->
   <!-- </ul> -->
@@ -108,23 +108,23 @@ document.write(`
   <li>Amateur Radio Operator
   <ul>
     <!-- <li>2026.5.xx - Present
-    <br><b>First-Class Amateur Radio Operator</b>,
-    <br>Japan
+    <br><b>Amateur First-Class Radio Operator</b>,
+    <br>MIC, Japan
     </li>
     -->
     <!-- <li>2026.5.xx - Present
-    <br><b>Second-Class Amateur Radio Operator</b>,
-    <br>Japan
+    <br><b>Amateur Second-Class Radio Operator</b>,
+    <br>MIC, Japan
     </li>
     -->
     <!-- <li>2025.11.xx - Present
-    <br><b>Third-Class Amateur Radio Operator</b>,
-    <br>Japan
+    <br><b>Amateur Third-Class Radio Operator</b>,
+    <br>MIC, Japan
     </li>
     -->
     <li>2025.10.xx - Present
-    <br><b>Fourth-Class Amateur Radio Operator</b> (Application in progress),
-    <br>Japan
+    <br><b>Amateur Fourth-Class Radio Operator</b> (Application in progress),
+    <br>MIC, Japan
     </li>
     
   </ul>
