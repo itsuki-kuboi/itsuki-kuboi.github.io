@@ -108,22 +108,22 @@ document.write(`
   <li>Amateur Radio Operator
   <ul>
     <!-- <li>2026.5.xx - Present
-    <br><b>Amateur First-Class Radio Operator</b>,
+    <br><b>Amateur First-Class Radio Operator</b>(Application in progress),
     <br>MIC, Japan
     </li>
     -->
     <!-- <li>2026.5.xx - Present
-    <br><b>Amateur Second-Class Radio Operator</b>,
+    <br><b>Amateur Second-Class Radio Operator</b>(Application in progress),
     <br>MIC, Japan
     </li>
     -->
     <!-- <li>2025.11.xx - Present
-    <br><b>Amateur Third-Class Radio Operator</b>,
+    <br><b>Amateur Third-Class Radio Operator</b>(Application in progress),
     <br>MIC, Japan
     </li>
     -->
-    <li>2025.10.xx - Present
-    <br><b>Amateur Fourth-Class Radio Operator</b> (Application in progress),
+    <li>2025.11.5 - Present
+    <br><b>Amateur Fourth-Class Radio Operator</b>,
     <br>MIC, Japan
     </li>
     
