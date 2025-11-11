@@ -62,11 +62,10 @@ document.write(`
       </ul>
   </ul>
 
-  <!--
+
   <br>
-  <li>Radio, Communication and Transmission
+  <li>Radio operator license of JAPAN
   <ul>
-  -->
     <!--
     <li>2026.9.xx - Present
     <br><b>First-Class Radio Operator for General Services</b>,
@@ -85,9 +84,30 @@ document.write(`
     <br>MIC, Japan 
     </li>
     -->
-  <!-- </ul> -->
-  <!-- </li> -->
 
+
+    <!-- <li>2026.5.xx - Present
+    <br><b>Amateur First-Class Radio Operator</b>(Application in progress),
+    <br>MIC, Japan
+    </li>
+    -->
+    <!-- <li>2026.5.xx - Present
+    <br><b>Amateur Second-Class Radio Operator</b>(Application in progress),
+    <br>MIC, Japan
+    </li>
+    -->
+    
+    <li>2025.11.xx - Present
+    <br><b>Amateur Third-Class Radio Operator</b>(Application in progress),
+    <br>MIC, Japan
+    </li>
+    <li>2025.11.5 - Present
+    <br><b>Amateur Fourth-Class Radio Operator</b>,
+    <br>MIC, Japan
+    </li>
+    
+  </ul>
+  </li>
 
 
   <br>
@@ -104,31 +124,7 @@ document.write(`
   </ul>
   </li>
 
-  <br>
-  <li>Amateur Radio Operator
-  <ul>
-    <!-- <li>2026.5.xx - Present
-    <br><b>Amateur First-Class Radio Operator</b>(Application in progress),
-    <br>MIC, Japan
-    </li>
-    -->
-    <!-- <li>2026.5.xx - Present
-    <br><b>Amateur Second-Class Radio Operator</b>(Application in progress),
-    <br>MIC, Japan
-    </li>
-    -->
-    <!-- <li>2025.11.xx - Present
-    <br><b>Amateur Third-Class Radio Operator</b>(Application in progress),
-    <br>MIC, Japan
-    </li>
-    -->
-    <li>2025.11.5 - Present
-    <br><b>Amateur Fourth-Class Radio Operator</b>,
-    <br>MIC, Japan
-    </li>
-    
-  </ul>
-  </li>
+
 
   <br>
   <li>Others
