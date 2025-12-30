@@ -4,7 +4,7 @@ document.write(`
   <li>IPA
   <ul>
     <!--
-    <li>2026.4.1 - 現在
+    <li>202x.xx.xx - 現在
     <br><b>情報処理安全確保支援士</b>（申請中）,
     <br>IPA, 経済産業省, 日本
     </li>
@@ -12,7 +12,7 @@ document.write(`
     -->
 
     <!--
-    <li>2026.1.xx
+    <li>202x.xx.xx
     <br><b>情報処理安全確保支援士試験</b> 合格,
     <br>IPA, 日本
     </li>

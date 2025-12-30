@@ -4,7 +4,7 @@ document.write(`
   <li>IPA
   <ul>
     <!--
-    <li>2026.4.1 - Present
+    <li>202x.xx.xx - Present
     <br><b>RISS（Registered Information Security Specialist）</b> (Application in progress),
     <br>IPA, MTEI, Japan
     </li>
@@ -12,7 +12,7 @@ document.write(`
     -->
 
     <!--
-    <li>2026.1.xx
+    <li>202x.xx.xx
     <br><b>RISS（Registered Information Security Specialist） Examination</b> Passed,
     <br>IPA, Japan
     </li>
