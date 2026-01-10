@@ -64,34 +64,34 @@ document.write(`
 
 
   <br>
-  <li>Radio operator license of JAPAN
+  <li>Radio operator license of JAPAN <!-- etc. -->
   <ul>
     <!--
-    <li>2026.9.xx - Present
+    <li>20xx.xx.xx - Present
     <br><b>First-Class Radio Operator for General Services</b>,
     <br>MIC, Japan
     </li>
     -->
     <!--
-    <li>2026.8.xx - Present
+    <li>20xx.xx.xx - Present
     <br><b>First-Class Technical Radio Operator for On-The-Ground Services</b>,
     <br>MIC, Japan
     </li>
     -->
     <!--
-    <li>2026.2.xx - Present
+    <li>20xx.xx.xx - Present
     <br><b>Chief Telecommunications Engineer (Chief Transmission and Switching Engineer)</b>,
     <br>MIC, Japan 
     </li>
     -->
 
 
-    <!-- <li>2026.9.xx - Present
+    <!-- <li>20xx.xx.xx - Present
     <br><b>Amateur First-Class Radio Operator</b>(Application in progress),
     <br>MIC, Japan
     </li>
     -->
-    <!-- <li>2026.9.xx - Present
+    <!-- <li>20xx.xx.xx - Present
     <br><b>Amateur Second-Class Radio Operator</b>(Application in progress),
     <br>MIC, Japan
     </li>
