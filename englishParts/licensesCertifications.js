@@ -68,23 +68,27 @@ document.write(`
   <ul>
     <!--
     <li>20xx.xx.xx - Present
-    <br><b>First-Class Radio Operator for General Services</b>,
+    <br><b>First-Class Radio Operator for General Services</b>(Application in progress),
     <br>MIC, Japan
     </li>
     -->
     <!--
     <li>20xx.xx.xx - Present
-    <br><b>First-Class Technical Radio Operator for On-The-Ground Services</b>,
+    <br><b>First-Class Technical Radio Operator for On-The-Ground Services</b>(Application in progress),
     <br>MIC, Japan
-    </li>
-    -->
-    <!--
-    <li>20xx.xx.xx - Present
-    <br><b>Chief Telecommunications Engineer (Chief Transmission and Switching Engineer)</b>,
-    <br>MIC, Japan 
     </li>
     -->
 
+    <!-- <li>2026.3.xx - Present
+    <br><b>Chief Telecommunications Engineer (Chief Transmission and Switching Engineer)</b>(Application in progress),
+    <br>MIC, Japan 
+    </li>
+    -->
+    <!-- <li>20xx.xx.xx - Present
+    <br><b>Second-Class Electrician</b>(Application in progress),
+    <br>METI, Japan
+    </li>
+    -->
 
     <!-- <li>20xx.xx.xx - Present
     <br><b>Amateur First-Class Radio Operator</b>(Application in progress),
