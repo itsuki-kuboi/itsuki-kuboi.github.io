@@ -79,11 +79,11 @@ document.write(`
     </li>
     -->
 
-    <!-- <li>2026.3.xx - Present
+    <li>2026.3.xx - Present
     <br><b>Chief Telecommunications Engineer (Chief Transmission and Switching Engineer)</b>(Application in progress),
     <br>MIC, Japan 
     </li>
-    -->
+    
     <!-- <li>20xx.xx.xx - Present
     <br><b>Second-Class Electrician</b>(Application in progress),
     <br>METI, Japan
