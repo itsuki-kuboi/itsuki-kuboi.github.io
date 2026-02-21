@@ -35,8 +35,32 @@ document.write(`
 
   <br>
   
-  <li>MCP
+  <li>Microsoft Certifications
   <ul>
+    <!--
+    <li>Expert</li>
+     -->
+    <!--
+      <ul>
+        <li>20xx.xx.xx - Present
+        <br><a href="xxx" target="_blank"><b>Microsoft Certified: Azure Solutions Architect Expert</b></a>,
+        <br>Microsoft, USA
+        </li>
+    </ul>
+    -->
+
+    <!--
+    <li>Associate</li>
+     -->
+    <!--
+      <ul>
+        <li>20xx.xx.xx - Present
+        <br><a href="xxx" target="_blank"><b>Microsoft Certified: Azure Administrator Associate</b></a>,
+        <br>Microsoft, USA
+        </li>
+    </ul>
+    -->
+
     <li>Fundamentals</li>
       <ul>
         <li>2023.2.8 - Present
@@ -64,7 +88,7 @@ document.write(`
 
 
   <br>
-  <li>Radio operator license of JAPAN <!-- etc. -->
+  <li>Radio operator license of JAPAN
   <ul>
     <!--
     <li>20xx.xx.xx - Present
@@ -79,17 +103,6 @@ document.write(`
     </li>
     -->
 
-    <li>2026.3.xx - Present
-    <br><b>Chief Telecommunications Engineer (Chief Transmission and Switching Engineer)</b>(Application in progress),
-    <br>MIC, Japan 
-    </li>
-    
-    <!-- <li>20xx.xx.xx - Present
-    <br><b>Second-Class Electrician</b>(Application in progress),
-    <br>METI, Japan
-    </li>
-    -->
-
     <!-- <li>20xx.xx.xx - Present
     <br><b>Amateur First-Class Radio Operator</b>(Application in progress),
     <br>MIC, Japan
@@ -100,7 +113,6 @@ document.write(`
     <br>MIC, Japan
     </li>
     -->
-    
     <li>2025.12.1 - Present
     <br><b>Amateur Third-Class Radio Operator</b>, <!-- (Application in progress) -->
     <br>MIC, Japan
@@ -110,6 +122,23 @@ document.write(`
     <br>MIC, Japan
     </li>
     
+  </ul>
+  </li>
+
+  <br>
+  <li>Electrical, Electronics and Communication Engineering
+  <ul>
+    <li>2026.3.xx - Present
+    <br><b>Chief Telecommunications Engineer (Chief Transmission and Switching Engineer)</b>(Application in progress),
+    <br>MIC, Japan 
+    </li>
+    
+    <!-- <li>2026.xx.xx - Present
+    <br><b>Second-Class Electrician</b>(Application in progress),
+    <br>METI, Japan
+    </li>
+    -->
+ 
   </ul>
   </li>
 

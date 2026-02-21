@@ -35,8 +35,32 @@ document.write(`
 
   <br>
 
-  <li>MCP
+  <li>Microsoft Certifications
   <ul>
+    <!--
+    <li>Expert</li>
+     -->
+    <!--
+      <ul>
+        <li>20xx.xx.xx - 現在
+        <br><a href="xxx" target="_blank"><b>Microsoft Certified: Azure Solutions Architect Expert</b></a>,
+        <br>Microsoft, 米国
+        </li>
+    </ul>
+    -->
+
+    <!--
+    <li>Associate</li>
+     -->
+    <!--
+      <ul>
+        <li>20xx.xx.xx - 現在
+        <br><a href="xxx" target="_blank"><b>Microsoft Certified: Azure Administrator Associate</b></a>,
+        <br>Microsoft, 米国
+        </li>
+    </ul>
+    -->
+
     <li>Fundamentals</li>
       <ul>
         <li>2023.2.8 - 現在
@@ -76,18 +100,6 @@ document.write(`
     </li>
     -->
 
-    
-    <li>2026.3.xx - 現在
-    <br><b>電気通信主任技術者（伝送交換主任技術者）</b> (申請中),
-    <br>総務省, 日本
-    </li>
-    <!--
-    <li>20xx.xx.xx - 現在
-    <br><b>第二種電気工事士</b> (申請中),
-    <br>経済産業省, 日本
-    </li>
-    -->
-
     <!-- <li>20xx.xx.xx - 現在
     <br><b>第一級アマチュア無線技士</b> (申請中),
     <br>総務省, 日本
@@ -98,7 +110,6 @@ document.write(`
     <br>総務省, 日本
     </li>
     -->
-
     <li>2025.12.1 - 現在
     <br><b>第三級アマチュア無線技士</b>, <!-- (申請中) -->
     <br>総務省, 日本
@@ -109,6 +120,26 @@ document.write(`
     </li>
   </ul>
   </li>
+
+  <br>
+  <li>電気電子通信
+  <ul>
+
+    <!--
+    <li>2026.xx.xx - 現在
+    <br><b>第二種電気工事士</b> (申請中),
+    <br>経済産業省, 日本
+    </li>
+    -->
+
+    <li>2026.3.xx - 現在
+    <br><b>電気通信主任技術者（伝送交換主任技術者）</b> (申請中),
+    <br>総務省, 日本
+    </li>
+ 
+  </ul>
+  </li>
+
 
 
   <br>
