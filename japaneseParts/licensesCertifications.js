@@ -148,7 +148,55 @@ document.write(`
   </ul>
   </li>
 
+  <!--
+  <br>
+  <li>プロジェクトマネジメント・セキュリティ等
+  <ul>
+  -->
 
+    <!--
+    <li>20xx.3.xx - 現在
+    <br><b>PMP:Project Management Professional</b> (申請中),
+    <br>PMI, 米国
+    </li>
+    -->
+    <!--
+    <li>20xx.3.xx - 現在
+    <br><b>CISSP:Certified Information Systems Security Professional</b> (申請中),
+    <br>ISC2, 米国
+    </li>
+    -->
+
+
+    <!--
+    <li>20xx.xx.xx - 現在
+    <br><b>文部科学省後援 色彩検定UC級</b> (申請中),
+    <br>色彩検定協会, 文部科学省, 日本
+    </li>
+    -->
+    <!--
+    <li>20xx.xx.xx - 現在
+    <br><b>文部科学省後援 色彩検定一級</b> (申請中),
+    <br>色彩検定協会, 文部科学省, 日本
+    </li>
+    -->
+    <!--
+    <li>20xx.xx.xx - 現在
+    <br><b>文部科学省後援 色彩検定二級</b> (申請中),
+    <br>色彩検定協会, 文部科学省, 日本
+    </li>
+    -->
+    <!--
+    <li>20xx.xx.xx - 現在
+    <br><b>文部科学省後援 色彩検定三級</b> (申請中),
+    <br>色彩検定協会, 文部科学省, 日本
+    </li>
+    -->
+
+  <!--
+  </ul>
+  </li>
+  -->
 
   <br>
   <li>スポーツ・教育

@@ -151,6 +151,64 @@ document.write(`
   </li>
 
 
+
+
+
+
+
+  <!--
+  <br>
+  <li>ProjectManagement, CyberSecurity etc.
+  <ul>
+  -->
+
+    <!--
+    <li>20xx.3.xx - Present
+    <br><b>PMP:Project Management Professional</b> (Application in progress),
+    <br>PMI, USA
+    </li>
+    -->
+    <!--
+    <li>20xx.3.xx - Present
+    <br><b>CISSP:Certified Information Systems Security Professional</b> (Application in progress),
+    <br>ISC2, USA
+    </li>
+    -->
+
+
+    <!--
+    <li>20xx.xx.xx
+    <br><b>UC:Universal Color-Class Test in Color Coordination</b>,
+    <br>AFT, MEXT, Japan
+    </li>
+    -->
+    <!--
+    <li>20xx.xx.xx -Present
+    <br><b>First-Class Test in Color Coordination</b>,
+    <br>AFT, MEXT, Japan
+    </li>
+    -->
+    <!--
+    <li>20xx.xx.xx - Present
+    <br><b>Second-Class Test in Color Coordination</b>,
+    <br>AFT, MEXT, Japan
+    </li>
+    -->
+    <!--
+    <li>20xx.xx.xx - Present
+    <br><b>Third-Class Test in Color Coordination</b>,
+    <br>AFT, MEXT, Japan
+    </li>
+    -->
+
+  <!--
+  </ul>
+  </li>
+  -->
+
+
+
+
   <br>
   <li>Sport and Teaching
   <ul>
