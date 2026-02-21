@@ -46,6 +46,10 @@ document.write(`
         <br><a href="xxx" target="_blank"><b>Microsoft Certified: Azure Solutions Architect Expert</b></a>,
         <br>Microsoft, 米国
         </li>
+        <li>20xx.xx.xx - Present
+        <br><a href="xxx" target="_blank"><b>Microsoft Certified: Cybersecurity Architect Expert</b></a>,
+        <br>Microsoft, USA
+        </li>
     </ul>
     -->
 
@@ -57,6 +61,10 @@ document.write(`
         <li>20xx.xx.xx - 現在
         <br><a href="xxx" target="_blank"><b>Microsoft Certified: Azure Administrator Associate</b></a>,
         <br>Microsoft, 米国
+        </li>
+        <li>20xx.xx.xx - Present
+        <br><a href="xxx" target="_blank"><b>Microsoft Certified: Azure Security Engineer Associate</b></a>,
+        <br>Microsoft, USA
         </li>
     </ul>
     -->
