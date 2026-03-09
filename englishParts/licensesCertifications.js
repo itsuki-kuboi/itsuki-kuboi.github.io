@@ -136,8 +136,8 @@ document.write(`
   <br>
   <li>Electrical, Electronics and Communication Engineering
   <ul>
-    <li>2026.3.xx - Present
-    <br><b>Chief Telecommunications Engineer (Chief Transmission and Switching Engineer)</b>(Application in progress),
+    <li>2026.3.4 - Present
+    <br><b>Chief Telecommunications Engineer (Chief Transmission and Switching Engineer)</b>,
     <br>MIC, Japan 
     </li>
     
