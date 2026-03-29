@@ -85,7 +85,7 @@ document.write(`
 
 
         <li>2026.3.28 - Present
-        <br><a href="https://learn.microsoft.com/api/credentials/share/en-us/ITSUKIKUBOI-2956/98CCE6BA01011118?sharingId=355E61E10044261C" target="_blank"><b>Microsoft 365 Certified: Microsoft 365 Certified: Copilot and Agent Administration Fundamentals</b></a>,
+        <br><a href="https://learn.microsoft.com/api/credentials/share/en-us/ITSUKIKUBOI-2956/98CCE6BA01011118?sharingId=355E61E10044261C" target="_blank"><b>Microsoft 365 Certified: Copilot and Agent Administration Fundamentals</b></a>,
         <br>AB-900,
         <br>Microsoft, USA
         </li>
