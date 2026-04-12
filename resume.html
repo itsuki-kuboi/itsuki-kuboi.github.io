@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.5.0.min.js"></script>
+        <script src="./coreParts/head.js"></script>
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-HBHT0M2SWD"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-HBHT0M2SWD');
+        </script>
+    </head>
+    <body>
+        <script src="./coreParts/header.js"></script>
+        <br>
+        <!--[
+        <a href="./cv-jp.html">Japanese</a>
+        ]
+        -->
+        <h1>Itsuki KUBOI's  Curriculum Vitae</h1>
+        <script src="./englishParts/resume.js"></script>
+        <br>
+        <!-- 更新日時 -->
+        &copy; 2022 Itsuki KUBOI, Last-Modified:
+        <time id="modify"></time>
+        <script>
+                /* 更新日の取得 */
+                const last = new Date(document.lastModified);
+                var year = last.getFullYear();
+                var month = last.getMonth() + 1;
+                var date = last.getDate();
+                var hour = last.getHours(); // 時
+                var min = last.getMinutes(); // 分
+                var sec = last.getSeconds(); // 秒
+        
+                // 数値が1桁の場合、頭に0を付けて2桁で表示する指定
+                if(month < 10) { var month = '0' + month; }
+                if(day < 10) { var day = '0' + day; }
+                if(hour < 10) { var hour = '0' + hour; }
+                if(min < 10) { var min = '0' + min; }
+                if(sec < 10) { var sec = '0' + sec; }
+        
+                /* 日付を書き換える */
+                var target = document.getElementById('modify');
+                target.textContent = year + '.' + month + '.' + date + ' ' + hour + ':' + min + ':' + sec;
+        </script>
+        (GMT -09:00)
+        <!-- 更新日時 -->
+    </body>
+</html>
