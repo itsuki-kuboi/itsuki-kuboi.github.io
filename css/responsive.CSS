@@ -1,8 +1,9 @@
 
 /* スマホ用のCSSはメディアクエリの外に記述する */
 img {
-	max-width: 90%;
+	max-width: 100%;
 	height: auto;
+	display: block;
   }
 h1.title {
 	font-size: 10px;
