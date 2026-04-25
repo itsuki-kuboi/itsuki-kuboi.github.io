@@ -20,7 +20,8 @@ h2.title {
 @media screen and (min-width: 481px) {
 	/* 481px以上に適用されるCSS（タブレット用） */
 	img {
-		max-width: 481px;
+		max-width: 50% !important;
+		width: 200px !important;
 		}
 	h1.title {
 		font-size: 22px;
@@ -37,7 +38,8 @@ h2.title {
 @media screen and (min-width: 651px) {
 	/* 481px以上に適用されるCSS（中画面用） */
 	img {
-		max-width: 651px;
+		max-width: 50% !important;
+		width: 300px !important;
 		}
 	h1.title {
 		font-size: 24px;
@@ -53,7 +55,8 @@ h2.title {
 @media screen and (min-width: 960px) {
 	/* 960px以上に適用されるCSS（大画面用） */
 	img {
-		max-width: 960px;
+		max-width: 50% !important;
+		width: 600px !important;
 		}
 	h1.title {
 		font-size: 26px;
