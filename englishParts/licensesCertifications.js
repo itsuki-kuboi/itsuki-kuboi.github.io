@@ -78,17 +78,13 @@ document.write(`
     </ul>
     -->
 
-    <li>Fundamentals</li>
+    <li>Fundamentals : Conquered in 2026</li>
       <ul>
-        <!--
-        <li>2026.xx.xx - Present
-        <br><a href="xxx" target="_blank"><b>Microsoft Certified: Azure Data Fundamentals</b></a>,
+        <li>2026.5.2 - Present
+        <br><a href="https://learn.microsoft.com/api/credentials/share/en-us/ITSUKIKUBOI-2956/9F3F364C55570A3A?sharingId=355E61E10044261C" target="_blank"><b>Microsoft Certified: Azure Data Fundamentals</b></a>,
         <br>DP-900,
         <br>Microsoft, USA
         </li>
-        -->
-
-
         <li>2026.3.28 - Present
         <br><a href="https://learn.microsoft.com/api/credentials/share/en-us/ITSUKIKUBOI-2956/98CCE6BA01011118?sharingId=355E61E10044261C" target="_blank"><b>Microsoft 365 Certified: Copilot and Agent Administration Fundamentals</b></a>,
         <br>AB-900,
@@ -265,7 +261,7 @@ document.write(`
     </li>
     <br>
     <li>2025.8.27 - Present
-    <br><b>&lt;Confidential&gt; : Completed</b>;
+    <br><b>&lt;Confidential&gt; : Conquered in 2025</b>;
     <ul>
       <li>2025.8.27 - Present
       <br><b>&lt;Confidential&gt; </b>, <br> &lt;Confidential&gt;
