@@ -261,7 +261,7 @@ document.write(`
     </li>
     <br>
     <li>2025.8.27 - Present
-    <br><b>&lt;Confidential&gt; : Conquered in 2025</b>;
+    <br><b>&lt;Confidential&gt; </b>: Conquered in 2025,
     <ul>
       <li>2025.8.27 - Present
       <br><b>&lt;Confidential&gt; </b>, <br> &lt;Confidential&gt;
