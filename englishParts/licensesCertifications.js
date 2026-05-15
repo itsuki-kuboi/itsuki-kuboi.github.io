@@ -81,40 +81,40 @@ document.write(`
     <li>Fundamentals : Conquered in 2026</li>
       <ul>
         <li>2026.5.2 - Present
-        <br><a href="https://learn.microsoft.com/api/credentials/share/en-us/ITSUKIKUBOI-2956/9F3F364C55570A3A?sharingId=355E61E10044261C" target="_blank"><b>Microsoft Certified: Azure Data Fundamentals</b></a>,
+        <br><a href="https://learn.microsoft.com/api/credentials/share/en-us/ITSUKIKUBOI/9F3F364C55570A3A?sharingId=355E61E10044261C" target="_blank"><b>Microsoft Certified: Azure Data Fundamentals</b></a>,
         <br>DP-900,
         <br>Microsoft, USA
         </li>
         <li>2026.3.28 - Present
-        <br><a href="https://learn.microsoft.com/api/credentials/share/en-us/ITSUKIKUBOI-2956/98CCE6BA01011118?sharingId=355E61E10044261C" target="_blank"><b>Microsoft 365 Certified: Copilot and Agent Administration Fundamentals</b></a>,
+        <br><a href="https://learn.microsoft.com/api/credentials/share/en-us/ITSUKIKUBOI/98CCE6BA01011118?sharingId=355E61E10044261C" target="_blank"><b>Microsoft 365 Certified: Copilot and Agent Administration Fundamentals</b></a>,
         <br>AB-900,
         <br>Microsoft, USA
         </li>
         <li>2026.3.28 - Present
-        <br><a href="https://learn.microsoft.com/api/credentials/share/en-us/ITSUKIKUBOI-2956/377584C8AD3A79A3?sharingId=355E61E10044261C" target="_blank"><b>Microsoft 365 Certified: Fundamentals</b></a>,
+        <br><a href="https://learn.microsoft.com/api/credentials/share/en-us/ITSUKIKUBOI/377584C8AD3A79A3?sharingId=355E61E10044261C" target="_blank"><b>Microsoft 365 Certified: Fundamentals</b></a>,
         <br>MS-900,
         <br>Microsoft, USA
         </li>
         <li>2023.2.8 - Present
-        <br><a href="https://learn.microsoft.com/api/credentials/share/en-us/ITSUKIKUBOI-2956/6378109D0278D4A3?sharingId=355E61E10044261C" target="_blank"><b>Microsoft Certified: Security, Compliance, and Identity Fundamentals</b></a>,
+        <br><a href="https://learn.microsoft.com/api/credentials/share/en-us/ITSUKIKUBOI/6378109D0278D4A3?sharingId=355E61E10044261C" target="_blank"><b>Microsoft Certified: Security, Compliance, and Identity Fundamentals</b></a>,
         <!-- Certified -->
         <br>SC-900,
         <br>Microsoft, USA
         </li>
         <li>2023.2.4 - Present
-        <br><a href="https://learn.microsoft.com/api/credentials/share/en-us/ITSUKIKUBOI-2956/B0DA124C166D1630?sharingId=355E61E10044261C" target="_blank"><b>Microsoft Certified: Azure AI Fundamentals</b></a>,
+        <br><a href="https://learn.microsoft.com/api/credentials/share/en-us/ITSUKIKUBOI/B0DA124C166D1630?sharingId=355E61E10044261C" target="_blank"><b>Microsoft Certified: Azure AI Fundamentals</b></a>,
         <!-- Certified -->
         <br>AI-900,
         <br>Microsoft, USA
         </li>
         <li>2023.1.28 - Present
-        <br><a href="https://learn.microsoft.com/api/credentials/share/en-us/ITSUKIKUBOI-2956/951B33291D20EFBE?sharingId=355E61E10044261C" target="_blank"><b>Microsoft Certified: Power Platform Fundamentals</b></a>,
+        <br><a href="https://learn.microsoft.com/api/credentials/share/en-us/ITSUKIKUBOI/951B33291D20EFBE?sharingId=355E61E10044261C" target="_blank"><b>Microsoft Certified: Power Platform Fundamentals</b></a>,
         <!-- Certified -->
         <br>PL-900,
         <br>Microsoft, USA
         </li>
         <li>2022.10.28 - Present
-        <br><a href="https://learn.microsoft.com/api/credentials/share/en-us/ITSUKIKUBOI-2956/FCD62F8C866EBB76?sharingId=355E61E10044261C" target="_blank"><b>Microsoft Certified: Azure Fundamentals</b></a>,  
+        <br><a href="https://learn.microsoft.com/api/credentials/share/en-us/ITSUKIKUBOI/FCD62F8C866EBB76?sharingId=355E61E10044261C" target="_blank"><b>Microsoft Certified: Azure Fundamentals</b></a>,  
         <!-- Certified -->
         <br>AZ-900,
         <br>Microsoft, USA
