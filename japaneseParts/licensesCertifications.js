@@ -60,23 +60,26 @@ document.write(`
     </ul>
     -->
 
-    <!--
     <li>Associate</li>
-     -->
-    <!--
+    
       <ul>
-        <li>20xx.xx.xx - 現在
-        <br><a href="xxx" target="_blank"><b>Microsoft Certified: Azure Administrator Associate</b></a>,
+        <li>2026.6.7 - 現在
+        <br><a href="https://learn.microsoft.com/api/credentials/share/en-us/ITSUKIKUBOI/B37C87D27F9B7C8F?sharingId=355E61E10044261C" target="_blank"><b>Microsoft Certified: Azure Administrator Associate</b></a>,
         <br>AZ-104,
         <br>Microsoft, 米国
         </li>
+
+        <!--
         <li>20xx.xx.xx - 現在
         <br><a href="xxx" target="_blank"><b>Microsoft Certified: Azure Security xxx Associate</b></a>,
         <br>SC-xxx,
         <br>Microsoft, USA
         </li>
+        -->
+
     </ul>
-    -->
+    
+    <br>
 
     <li>Fundamentals : 制覇（2026年）</li>
       <ul>
