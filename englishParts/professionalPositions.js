@@ -7,12 +7,15 @@ document.write(`
         <li>2024.10.1 - Present
         <br><b>Member : Corporate IT Engineer</b>
         <br>IT Infrastructure Strategy Division, &ltName change due to reorganization&gt
-        <br> - Project Participation (IDM, MDM, etc.)
+        <!--
+          <br> - Project Participation (IDM, MDM, etc.)
+        -->
         </li>
       <br>
         <li>2021.4.1 - 2024.9.30 : 3 Years 6 Months
         <br><b>Member : Corporate IT Engineer</b>
         <br>IT Infrastructure Division,
+        <!--
         <br> - Assigned Projects Overview
         <br> * Microsoft 365 : Administrator
         <ul> 
@@ -33,6 +36,8 @@ document.write(`
           <li> Operation On-premise system : Portal System "DreamArts Insuite" and File Management System of "Zygnath".</li>
           <li> Cross-Functional Office Reform Project : Collaboration with multiple departments.</li>
         </ul>
+        -->
+        <br>
         <a href="https://www.kyocera.co.jp/news/2020/0205_hpaq.html" target="_blank">URL:https://www.kyocera.co.jp/news/2020/0205_hpaq.html</a>
         </li>
     </ul>
@@ -50,6 +55,7 @@ document.write(`
   
 </ul>
 
+<!--
 <br>
 <h2>Internship</h2>
 <ul>
@@ -61,5 +67,6 @@ document.write(`
   </li>  
   </ul>
 
+  -->
 
 `)

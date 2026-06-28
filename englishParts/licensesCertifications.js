@@ -241,15 +241,28 @@ document.write(`
 
 
   <br>
-  <li>Sport and Teaching
+  <li>Competitive Sports
+  <ul>
+    <!--
+    <li>2026.xx.xx - Present
+    <br><b>First Dan of Mahjong</b>,
+    <br>JPML, Japan
+    </li>
+    -->
+    <li>2011.2.23 - Present
+    <br><b>First Dan of Judo</b>,
+    <br>Kodokan Judo Institute, Japan
+    </li>
+  </ul>
+  </li>
+
+
+  <br>
+  <li>Teaching
   <ul>
     <li>2019.3.31 - Present
     <br><b>High School Teaching Certificate for Mathematics</b>,
     <br>Shiga Prefectural Board of Education, Shiga, Japan
-    </li>
-    <li>2011.2.23 - Present
-    <br><b>First Dan of Judo</b>,
-    <br>Kodokan Judo Institute, Japan
     </li>
   </ul>
   </li>

@@ -67,7 +67,7 @@ document.write(`
         <li>2014.1.12
         <br><b>京都滋賀東海選抜チーム</b>, LT/DT, アメリカンフットボール
         <br> - NEW YEAR BOWL III(2014), アミノバイタルフィールド, 東京調布
-        <br>URL:<a href="http://kantokoukou-football.com/cms/index.php?page_id=27" target="_blank">http://kantokoukou-football.com/cms/index.php?page_id=27</a>
+        <br>URL:<a href="https://old.kansaikoukou-football.com/new_year_bowl/new_year_bowl.html" target="_blank">https://old.kansaikoukou-football.com/new_year_bowl/new_year_bowl.html</a>
         </li>
         </ul>
       </li>

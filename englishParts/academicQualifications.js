@@ -69,7 +69,7 @@ document.write(`
         <li>2014.1.12
         <br><b>Kyoto-Shiga-Tokai Area National Team Member</b>, LT/DT, American Football
         <br> - NEW YEAR BOWL III(2014) at Amino Vital Field, Tokyo
-        <br>URL:<a href="http://kantokoukou-football.com/cms/index.php?page_id=27" target="_blank">http://kantokoukou-football.com/cms/index.php?page_id=27</a>
+        <br>URL:<a href="https://old.kansaikoukou-football.com/new_year_bowl/new_year_bowl.html" target="_blank">https://old.kansaikoukou-football.com/new_year_bowl/new_year_bowl.html</a>
         </li>
         </ul>
       </li>
