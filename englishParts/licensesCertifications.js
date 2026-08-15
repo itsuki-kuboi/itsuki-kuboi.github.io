@@ -172,11 +172,10 @@ document.write(`
     <br>MIC, Japan 
     </li>
     
-    <!-- <li>2026.xx.xx - Present
+    <li>2026.xx.xx - Present
     <br><b>Second-Class Electrician</b>(Application in progress),
     <br>METI, Japan
     </li>
-    -->
  
   </ul>
   </li>
