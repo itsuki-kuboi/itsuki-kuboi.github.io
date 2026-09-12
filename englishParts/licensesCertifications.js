@@ -172,8 +172,8 @@ document.write(`
     <br>MIC, Japan 
     </li>
     
-    <li>2026.xx.xx - Present
-    <br><b>Second-Class Electrician</b>(Application in progress),
+    <li>2026.9.8 - Present
+    <br><b>Second-Class Electrician</b>,
     <br>METI, Japan
     </li>
  
