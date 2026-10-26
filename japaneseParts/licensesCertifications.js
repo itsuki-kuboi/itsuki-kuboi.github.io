@@ -37,16 +37,14 @@ document.write(`
 
   <li>Microsoft Certifications
   <ul>
-    <!--
     <li>Expert</li>
-     -->
-    <!--
       <ul>
-        <li>20xx.xx.xx - 現在
-        <br><a href="xxx" target="_blank"><b>Microsoft Certified: Azure Solutions Architect Expert</b></a>,
+        <li>2026.10.26 - 現在
+        <br><a href="https://learn.microsoft.com/api/credentials/share/en-us/ITSUKIKUBOI/9145CC9CF3266490?sharingId=355E61E10044261C" target="_blank"><b>Microsoft Certified: Azure Solutions Architect Expert</b></a>,
         <br>AZ-305,
         <br>Microsoft, 米国
         </li>
+        <!--
         <li>20xx.xx.xx - 現在
         <br><a href="xxx" target="_blank"><b>Microsoft Certified: Cybersecurity Architect Expert</b></a>,
         <br>SC-100,
@@ -57,8 +55,10 @@ document.write(`
         <br>AZ-400,
         <br>Microsoft, USA
         </li>
+        -->
     </ul>
-    -->
+  
+    <br>
 
     <li>Associate</li>
     
