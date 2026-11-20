@@ -1,5 +1,5 @@
 document.write(`
-<h2>Licenses and Certifications</h2>
+<h2>Certifications</h2>
 <ul>
   <li>IPA
   <ul>
@@ -125,8 +125,74 @@ document.write(`
       </ul>
   </ul>
 
+  <!--
+  <br>
+  <li>ProjectManagement, CyberSecurity etc.
+  <ul>
+  -->
+
+    <!--
+    <li>20xx.3.xx - Present
+    <br><b>PMP:Project Management Professional</b> (Application in progress),
+    <br>PMI, USA
+    </li>
+    -->
+    <!--
+    <li>20xx.3.xx - Present
+    <br><b>CISSP:Certified Information Systems Security Professional</b> (Application in progress),
+    <br>ISC2, USA
+    </li>
+    -->
+
+
+    <!--
+    <li>20xx.xx.xx
+    <br><b>UC:Universal Color-Class Test in Color Coordination</b>,
+    <br>AFT, MEXT, Japan
+    </li>
+    -->
+    <!--
+    <li>20xx.xx.xx -Present
+    <br><b>First-Class Test in Color Coordination</b>,
+    <br>AFT, MEXT, Japan
+    </li>
+    -->
+    <!--
+    <li>20xx.xx.xx - Present
+    <br><b>Second-Class Test in Color Coordination</b>,
+    <br>AFT, MEXT, Japan
+    </li>
+    -->
+    <!--
+    <li>20xx.xx.xx - Present
+    <br><b>Third-Class Test in Color Coordination</b>,
+    <br>AFT, MEXT, Japan
+    </li>
+    -->
+
+  <!--
+  </ul>
+  </li>
+  -->
 
   <br>
+  <li>Competitive Sports
+  <ul>
+    <li>2011.2.23 - Present
+    <br><b>First Dan of Judo</b>,
+    <br>Kodokan Judo Institute, Japan
+    </li>
+  </ul>
+  </li>
+
+</ul>
+
+<br>
+<br>
+
+<h2>Licenses</h2>
+<ul>
+
   <li>Radio operator license of JAPAN
   <ul>
     <!--
@@ -180,82 +246,6 @@ document.write(`
   </ul>
   </li>
 
-
-
-
-
-
-
-  <!--
-  <br>
-  <li>ProjectManagement, CyberSecurity etc.
-  <ul>
-  -->
-
-    <!--
-    <li>20xx.3.xx - Present
-    <br><b>PMP:Project Management Professional</b> (Application in progress),
-    <br>PMI, USA
-    </li>
-    -->
-    <!--
-    <li>20xx.3.xx - Present
-    <br><b>CISSP:Certified Information Systems Security Professional</b> (Application in progress),
-    <br>ISC2, USA
-    </li>
-    -->
-
-
-    <!--
-    <li>20xx.xx.xx
-    <br><b>UC:Universal Color-Class Test in Color Coordination</b>,
-    <br>AFT, MEXT, Japan
-    </li>
-    -->
-    <!--
-    <li>20xx.xx.xx -Present
-    <br><b>First-Class Test in Color Coordination</b>,
-    <br>AFT, MEXT, Japan
-    </li>
-    -->
-    <!--
-    <li>20xx.xx.xx - Present
-    <br><b>Second-Class Test in Color Coordination</b>,
-    <br>AFT, MEXT, Japan
-    </li>
-    -->
-    <!--
-    <li>20xx.xx.xx - Present
-    <br><b>Third-Class Test in Color Coordination</b>,
-    <br>AFT, MEXT, Japan
-    </li>
-    -->
-
-  <!--
-  </ul>
-  </li>
-  -->
-
-
-
-
-  <br>
-  <li>Competitive Sports
-  <ul>
-    <!--
-    <li>2026.xx.xx - Present
-    <br><b>First Dan of Mahjong</b>,
-    <br>JPML, Japan
-    </li>
-    -->
-    <li>2011.2.23 - Present
-    <br><b>First Dan of Judo</b>,
-    <br>Kodokan Judo Institute, Japan
-    </li>
-  </ul>
-  </li>
-
-
   <br>
   <li>Teaching
   <ul>
@@ -293,4 +283,5 @@ document.write(`
   </li>
 
 </ul>
+
 `)
